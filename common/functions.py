@@ -4,6 +4,6 @@ def Notebook_vorbereiten():
     import numpy as np
     import matplotlib.pyplot as plt
     import seaborn as sns
-    ab_ag = pd.read_csv('download/ab_ag.tsv', sep='\t')
-    columns = pd.read_csv('download/columns.tsv', sep='\t')
-    uniprot_data = pd.read_csv('download/uniprot_data.tsv', sep='\t')
+    ab_ag = pd.read_csv('data/ab_ag.tsv', sep='\t')
+    columns = pd.read_csv('data/columns.tsv', sep='\t')
+    uniprot_data = pd.read_csv('data/uniprot_data.tsv', sep='\t')
