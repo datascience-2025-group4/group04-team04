@@ -1,0 +1,29 @@
+# Default ignored files
+"/shelf/"
+"/workspace.xml"
+# Editor-based HTTP Client requests
+"/httpRequests/"
+# Datasource local storage ignored files
+"/dataSources/"
+"/dataSources.local.xml"
+
+"./.idea/*.xml"
+"./venv/*"
+
+# c extensions
+"*.so"
+
+# python stuff
+"__pycache__/"
+"*.py[cod]"
+"*$py.class"
+
+# Jupyter Notebook
+".ipynb_checkpoints"
+
+# IPython
+"profile_default/"
+"ipython_config.py"
+
+# dont work with my downloads
+downloads/*
