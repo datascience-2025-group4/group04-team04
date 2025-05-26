@@ -145,7 +145,7 @@ def getannotation(entry, fab_list, out_path):
         Hchain = fab[1]
         if Hchain!="NA":
             out_file = os.path.join( out_path, "%s_%s_VH.ann"%(entry,Hchain) )
-            urllib.request.urlretrieve("https://opig.stats.ox.ac.uk/webapps/abdb/entries/%s/annotation/%s_%s_VH.ann"%(entry,entry,Hchain), out_file)
+            urllib.request.urlretrieve("https://opig.stats.ox.ac.uk/webapps/abdb/entries/%s/annotation/%s_%s_VH.ann"%(entry,entry,fab_list[1]), out_file)
             if os.path.isfile(out_file):
                 Retrieved = open(out_file).read()
                 if not Retrieved.count("H3"):
@@ -157,8 +157,8 @@ def getannotation(entry, fab_list, out_path):
 
         Lchain = fab[2]
         if Lchain!="NA":
-            out_file = os.path.join( out_path, "%s_%s_VL.ann"%(entry,Lchain) )
-            urllib.request.urlretrieve("https://opig.stats.ox.ac.uk/webapps/abdb/entries/%s/annotation/%s_%s_VL.ann"%(entry,entry,Lchain), out_file)
+            out_file = os.path.join( out_path, "%s_%s_VL.ann"%(entry,Lchain) ) 
+            urllib.request.urlretrieve("https://opig.stats.ox.ac.uk/webapps/abdb/entries/%s/annotation/%s_%s_VL.ann"%(entry,entry,fab_list[2]), out_file)
             if os.path.isfile(out_file):
                 Retrieved = open(out_file).read()
                 if not Retrieved.count("L3"):
