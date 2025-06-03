@@ -27,3 +27,6 @@
 
 # dont work with my downloads
 downloads/*
+
+# ignore temporary file for MMseqs2
+tmp/*
