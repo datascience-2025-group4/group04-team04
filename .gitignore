@@ -31,8 +31,11 @@ downloads/*
 # ignore temporary file for MMseqs2
 tmp/*
 
-# Ignoriere cdr_h1_clu 
-cdr_h1_clu*
 
-# Ignoriere cdr_h1_db 
-cdr_h1_db*
+# Ignoriere alle MMseqs2-Datenbanken für CDRs
+cdr_*_db*
+cdr_*_clu*
+# Ignoriere alle MMseqs2-Temp-Ordner
+cdr_*_tmp/
+
+
