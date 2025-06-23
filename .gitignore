@@ -26,7 +26,7 @@
 "ipython_config.py"
 
 # dont work with my downloads
-downloads/*
+data/*
 
 # ignore temporary file for MMseqs2
 tmp/*
