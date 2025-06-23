@@ -1,0 +1,1031 @@
+seq0	seq24	spike protein s1
+seq0	seq260	hemagglutinin
+seq0	seq543	spike protein s1
+seq0	seq1108	spike protein s1
+seq0	seq1165	spike protein s1
+seq0	seq1166	spike protein s1
+seq0	seq1167	spike protein s1
+seq0	seq1438	spike protein s1
+seq0	seq1440	spike protein s1
+seq0	seq1552	spike protein s1
+seq0	seq1557	spike protein s1
+seq0	seq1868	spike protein s1
+seq0	seq1869	spike protein s1
+seq0	seq1876	spike glycoprotein
+seq0	seq1947	spike protein s1
+seq0	seq2480	spike glycoprotein
+seq0	seq2481	spike glycoprotein
+seq0	seq2482	spike glycoprotein
+seq0	seq2870	spike glycoprotein
+seq0	seq2872	spike glycoprotein
+seq0	seq3380	hemagglutinin | hemagglutinin
+seq0	seq3381	hemagglutinin | hemagglutinin
+seq0	seq3382	hemagglutinin | hemagglutinin
+seq0	seq3960	spike protein s1
+seq0	seq3961	spike protein s1
+seq0	seq4209	spike protein s1
+seq0	seq4210	spike protein s1
+seq0	seq4229	spike protein s1
+seq0	seq4691	spike glycoprotein
+seq0	seq4692	spike glycoprotein
+seq0	seq5111	spike protein s1
+seq192	seq132	spike glycoprotein
+seq192	seq133	spike glycoprotein
+seq192	seq134	spike glycoprotein
+seq192	seq191	hemagglutinin
+seq192	seq192	hemagglutinin
+seq192	seq193	hemagglutinin
+seq192	seq235	spike protein s1
+seq192	seq236	spike protein s1
+seq192	seq237	spike protein s1
+seq192	seq238	spike protein s1
+seq192	seq239	spike protein s1
+seq192	seq240	spike protein s1
+seq192	seq542	spike protein s1
+seq192	seq547	spike glycoprotein
+seq192	seq548	spike glycoprotein
+seq192	seq768	spike protein s1
+seq192	seq1021	spike protein s1
+seq192	seq1693	spike glycoprotein
+seq192	seq1784	spike glycoprotein
+seq192	seq1792	spike glycoprotein
+seq192	seq1794	spike glycoprotein
+seq192	seq1796	spike glycoprotein
+seq192	seq1946	spike protein s1
+seq192	seq2219	fusion glycoprotein f0
+seq192	seq2220	fusion glycoprotein f0
+seq192	seq2221	fusion glycoprotein f0
+seq192	seq2225	fusion glycoprotein f0
+seq192	seq2226	fusion glycoprotein f0
+seq192	seq2227	fusion glycoprotein f0
+seq192	seq2304	spike glycoprotein
+seq192	seq2305	spike glycoprotein
+seq192	seq2306	spike glycoprotein
+seq192	seq2307	spike glycoprotein
+seq192	seq2312	fusion glycoprotein f0
+seq192	seq2314	fusion glycoprotein f0
+seq192	seq2317	fusion glycoprotein f0
+seq192	seq2374	spike protein s1
+seq192	seq2629	spike glycoprotein
+seq192	seq2770	spike glycoprotein
+seq192	seq2771	spike glycoprotein
+seq192	seq2772	spike glycoprotein
+seq192	seq2805	spike glycoprotein
+seq192	seq2806	spike glycoprotein
+seq192	seq2842	spike glycoprotein
+seq192	seq2843	spike glycoprotein
+seq192	seq2930	spike protein s1
+seq192	seq2931	spike protein s1
+seq192	seq2932	spike protein s1
+seq192	seq2933	spike protein s1
+seq192	seq3272	hemagglutinin
+seq192	seq3273	hemagglutinin
+seq192	seq3274	hemagglutinin
+seq192	seq3365	spike glycoprotein
+seq192	seq3366	spike glycoprotein
+seq192	seq3367	spike glycoprotein
+seq192	seq3714	spike protein s1
+seq192	seq3818	fusion glycoprotein f0
+seq192	seq3918	spike glycoprotein
+seq192	seq3919	spike glycoprotein
+seq192	seq3920	spike glycoprotein
+seq192	seq4110	spike glycoprotein
+seq192	seq4111	spike glycoprotein
+seq192	seq4305	spike protein s1
+seq192	seq4428	spike protein s1
+seq192	seq4447	spike glycoprotein
+seq192	seq4448	spike glycoprotein
+seq192	seq4527	spike protein s1
+seq192	seq4610	spike glycoprotein
+seq192	seq4856	spike glycoprotein
+seq192	seq4857	spike glycoprotein
+seq192	seq4858	spike glycoprotein
+seq192	seq4970	spike protein s1
+seq192	seq4971	spike protein s1
+seq192	seq5032	spike protein s1
+seq192	seq5033	spike protein s1
+seq192	seq5034	spike protein s1
+seq192	seq5193	hemagglutinin
+seq192	seq5194	hemagglutinin
+seq192	seq5250	spike protein s1
+seq192	seq5316	spike glycoprotein
+seq192	seq5472	spike glycoprotein
+seq288	seq284	spike glycoprotein
+seq288	seq286	spike glycoprotein
+seq288	seq288	spike glycoprotein
+seq288	seq339	spike protein s1
+seq288	seq342	spike protein s1
+seq288	seq571	spike protein s1
+seq288	seq812	spike glycoprotein
+seq288	seq815	spike glycoprotein
+seq288	seq818	spike glycoprotein
+seq288	seq822	spike glycoprotein
+seq288	seq1133	spike protein s1
+seq288	seq1134	spike protein s1
+seq288	seq1141	spike glycoprotein
+seq288	seq1958	spike protein s1
+seq288	seq1959	spike protein s1
+seq288	seq2016	spike protein s1
+seq288	seq2018	spike protein s1
+seq288	seq2165	spike glycoprotein
+seq288	seq2166	spike glycoprotein
+seq288	seq2167	spike glycoprotein
+seq288	seq2168	spike glycoprotein
+seq288	seq2169	spike glycoprotein
+seq288	seq2170	spike glycoprotein
+seq288	seq2171	spike glycoprotein
+seq288	seq2172	spike protein s1
+seq288	seq2213	spike glycoprotein
+seq288	seq2214	spike glycoprotein
+seq288	seq2215	spike glycoprotein
+seq288	seq2243	spike protein s1
+seq288	seq2245	spike protein s1
+seq288	seq2246	spike protein s1
+seq288	seq2330	spike protein s1
+seq288	seq2331	spike protein s1
+seq288	seq2393	spike protein s1
+seq288	seq2437	spike protein s1
+seq288	seq2439	spike protein s1
+seq288	seq2507	spike glycoprotein
+seq288	seq2509	spike glycoprotein
+seq288	seq2510	spike glycoprotein
+seq288	seq3293	spike protein s1
+seq288	seq3294	spike protein s1
+seq288	seq3970	spike glycoprotein
+seq288	seq4248	spike glycoprotein
+seq288	seq4249	spike glycoprotein
+seq288	seq4496	spike protein s1
+seq288	seq4710	spike protein s1
+seq288	seq5406	spike glycoprotein
+seq288	seq5431	spike glycoprotein
+seq416	seq416	spike glycoprotein
+seq416	seq417	spike glycoprotein
+seq416	seq418	spike glycoprotein
+seq416	seq3369	spike protein s1
+seq416	seq3817	spike glycoprotein
+seq416	seq3999	surface glycoprotein
+seq416	seq4002	surface glycoprotein
+seq416	seq4347	neuraminidase
+seq416	seq4443	surface glycoprotein
+seq416	seq4444	surface glycoprotein
+seq448	seq1479	spike protein s1
+seq448	seq2358	spike glycoprotein
+seq448	seq2359	spike glycoprotein
+seq448	seq2360	spike glycoprotein
+seq448	seq2361	spike glycoprotein
+seq448	seq2362	spike glycoprotein
+seq448	seq2363	spike glycoprotein
+seq448	seq2364	spike glycoprotein
+seq448	seq2365	spike glycoprotein
+seq448	seq2366	spike glycoprotein
+seq448	seq2367	spike protein s1
+seq448	seq2596	hemagglutinin
+seq448	seq2597	hemagglutinin
+seq448	seq2598	hemagglutinin
+seq448	seq2599	hemagglutinin
+seq448	seq2600	hemagglutinin
+seq448	seq2601	hemagglutinin
+seq448	seq2602	hemagglutinin
+seq448	seq2603	hemagglutinin
+seq448	seq2773	spike protein s1
+seq448	seq2774	spike protein s1
+seq448	seq2775	spike protein s1
+seq448	seq2776	spike protein s1
+seq448	seq2990	spike glycoprotein
+seq448	seq2991	spike glycoprotein
+seq448	seq2992	spike glycoprotein
+seq448	seq3801	neuraminidase
+seq448	seq3802	neuraminidase
+seq448	seq3803	neuraminidase
+seq448	seq3804	neuraminidase
+seq448	seq4298	neuraminidase
+seq448	seq4299	neuraminidase
+seq448	seq5379	spike glycoprotein
+seq576	seq575	hemagglutinin | hemagglutinin
+seq576	seq576	hemagglutinin | hemagglutinin
+seq576	seq577	hemagglutinin | hemagglutinin
+seq576	seq590	hemagglutinin | hemagglutinin
+seq576	seq591	hemagglutinin | hemagglutinin
+seq576	seq2817	hemagglutinin | hemagglutinin
+seq576	seq2818	hemagglutinin | hemagglutinin
+seq576	seq2819	hemagglutinin | hemagglutinin
+seq576	seq2820	hemagglutinin | hemagglutinin
+seq576	seq2821	hemagglutinin | hemagglutinin
+seq576	seq2822	hemagglutinin | hemagglutinin
+seq640	seq640	spike glycoprotein
+seq640	seq642	spike glycoprotein
+seq640	seq643	spike glycoprotein
+seq640	seq645	spike glycoprotein
+seq640	seq647	spike glycoprotein
+seq640	seq649	spike glycoprotein
+seq640	seq704	spike glycoprotein
+seq640	seq2029	spike glycoprotein
+seq640	seq2031	spike glycoprotein
+seq640	seq2035	spike protein s1
+seq640	seq2038	spike glycoprotein
+seq640	seq2041	spike glycoprotein
+seq640	seq2043	spike glycoprotein
+seq640	seq2045	spike glycoprotein
+seq640	seq2047	spike glycoprotein
+seq640	seq2049	spike glycoprotein
+seq640	seq2051	spike glycoprotein
+seq640	seq2053	spike glycoprotein
+seq640	seq2055	spike glycoprotein
+seq640	seq2057	spike glycoprotein
+seq640	seq2059	spike glycoprotein
+seq640	seq2061	spike glycoprotein
+seq640	seq3406	spike glycoprotein
+seq640	seq3407	spike glycoprotein
+seq706	seq706	spike glycoprotein
+seq706	seq2715	spike glycoprotein
+seq706	seq2716	spike glycoprotein
+seq706	seq2717	spike glycoprotein
+seq706	seq3445	spike glycoprotein
+seq706	seq3446	spike glycoprotein
+seq706	seq3539	hemagglutinin
+seq706	seq3540	hemagglutinin
+seq706	seq4568	spike protein s1
+seq706	seq4569	spike protein s1
+seq717	seq717	spike glycoprotein
+seq717	seq1904	spike glycoprotein
+seq717	seq1905	spike glycoprotein
+seq717	seq1906	spike glycoprotein
+seq717	seq1907	spike glycoprotein
+seq717	seq2095	spike glycoprotein
+seq717	seq2254	spike glycoprotein
+seq717	seq4733	spike glycoprotein
+seq717	seq4734	spike glycoprotein
+seq717	seq4735	spike glycoprotein
+seq736	seq626	spike glycoprotein
+seq736	seq933	spike glycoprotein
+seq736	seq978	spike glycoprotein
+seq736	seq979	spike glycoprotein
+seq736	seq1359	spike glycoprotein
+seq736	seq1360	spike glycoprotein
+seq736	seq1361	spike glycoprotein
+seq736	seq1362	spike glycoprotein
+seq736	seq1363	spike glycoprotein
+seq736	seq1364	spike glycoprotein
+seq736	seq1401	spike glycoprotein
+seq736	seq1409	spike glycoprotein
+seq736	seq1410	spike glycoprotein
+seq736	seq1877	spike glycoprotein
+seq736	seq1878	spike glycoprotein
+seq736	seq1880	spike glycoprotein
+seq736	seq1881	spike glycoprotein
+seq736	seq1882	spike glycoprotein
+seq736	seq1883	spike glycoprotein
+seq736	seq2024	spike glycoprotein
+seq736	seq2025	spike glycoprotein
+seq736	seq2026	spike glycoprotein
+seq736	seq2027	spike glycoprotein
+seq736	seq2241	spike glycoprotein
+seq736	seq2252	spike glycoprotein
+seq736	seq2258	spike glycoprotein
+seq736	seq2259	spike glycoprotein
+seq736	seq2443	spike glycoprotein
+seq736	seq2444	spike glycoprotein
+seq736	seq2869	spike glycoprotein
+seq736	seq2871	spike glycoprotein
+seq736	seq3782	spike glycoprotein
+seq736	seq3844	spike glycoprotein
+seq736	seq3845	spike glycoprotein
+seq736	seq3846	spike glycoprotein
+seq736	seq3847	spike glycoprotein
+seq736	seq4140	spike glycoprotein
+seq736	seq4141	spike glycoprotein
+seq736	seq4230	spike glycoprotein
+seq736	seq4231	spike glycoprotein
+seq736	seq4232	spike glycoprotein
+seq736	seq4233	spike glycoprotein
+seq736	seq4234	spike glycoprotein
+seq736	seq4401	spike glycoprotein
+seq736	seq4402	spike glycoprotein
+seq736	seq4403	spike glycoprotein
+seq736	seq4681	spike glycoprotein
+seq736	seq4758	spike protein s1
+seq736	seq4784	spike glycoprotein
+seq736	seq4785	spike glycoprotein
+seq736	seq5010	hemagglutinin
+seq736	seq5011	hemagglutinin
+seq736	seq5012	hemagglutinin
+seq896	seq896	spike protein s1
+seq896	seq900	spike protein s1
+seq896	seq901	spike protein s1
+seq896	seq2431	hemagglutinin
+seq896	seq2739	surface glycoprotein
+seq896	seq2740	surface glycoprotein
+seq896	seq3460	hemagglutinin
+seq896	seq4019	spike glycoprotein
+seq896	seq4119	spike glycoprotein
+seq896	seq4120	spike glycoprotein
+seq896	seq4121	spike glycoprotein
+seq896	seq4270	spike protein s1
+seq896	seq4519	hemagglutinin
+seq896	seq4850	envelope glycoprotein gp160
+seq896	seq4851	envelope glycoprotein gp160
+seq896	seq4852	envelope glycoprotein gp160
+seq896	seq4915	spike protein s1
+seq896	seq4921	hemagglutinin
+seq896	seq5178	spike protein s1
+seq896	seq5294	hemagglutinin
+seq896	seq5399	spike protein s1
+seq896	seq5458	spike protein s1
+seq928	seq993	spike protein s1
+seq928	seq1577	spike protein s1
+seq928	seq1578	spike protein s1
+seq928	seq3267	spike glycoprotein
+seq928	seq3268	spike glycoprotein
+seq928	seq3565	hemagglutinin
+seq928	seq3566	hemagglutinin
+seq928	seq3988	spike glycoprotein
+seq928	seq4665	spike glycoprotein
+seq928	seq4864	spike glycoprotein
+seq992	seq596	spike protein s1
+seq992	seq597	spike glycoprotein
+seq992	seq992	spike protein s1
+seq992	seq1610	spike glycoprotein
+seq992	seq1611	spike glycoprotein
+seq992	seq1769	spike protein s1
+seq992	seq1957	spike protein s1
+seq992	seq2479	spike glycoprotein
+seq992	seq3286	spike glycoprotein
+seq992	seq3885	spike protein s1
+seq992	seq4438	spike protein s1
+seq992	seq4439	spike protein s1
+seq992	seq4455	spike protein s1
+seq992	seq4456	spike protein s1
+seq992	seq4501	surface glycoprotein
+seq992	seq4540	spike protein s1
+seq992	seq4541	spike protein s1
+seq992	seq4542	spike protein s1
+seq992	seq4543	spike protein s1
+seq992	seq4760	spike protein s1
+seq992	seq4979	spike protein s1
+seq992	seq4980	spike protein s1
+seq992	seq5109	spike protein s1
+seq992	seq5393	spike protein s1
+seq992	seq5404	spike glycoprotein
+seq992	seq5415	spike glycoprotein
+seq1056	seq372	spike protein s1
+seq1056	seq735	spike protein s1
+seq1056	seq972	spike protein s1
+seq1056	seq973	spike protein s1
+seq1056	seq974	spike protein s1
+seq1056	seq975	spike protein s1
+seq1056	seq1055	spike protein s1
+seq1056	seq1056	spike protein s1
+seq1056	seq1057	spike protein s1
+seq1056	seq1058	spike protein s1
+seq1056	seq1188	spike protein s1
+seq1056	seq1189	spike protein s1
+seq1056	seq1375	spike glycoprotein
+seq1056	seq1376	spike glycoprotein
+seq1056	seq1600	spike glycoprotein
+seq1056	seq1738	spike glycoprotein
+seq1056	seq1739	spike glycoprotein
+seq1056	seq1740	spike glycoprotein
+seq1056	seq1743	spike glycoprotein
+seq1056	seq1744	spike glycoprotein
+seq1056	seq1745	spike glycoprotein
+seq1056	seq2282	spike glycoprotein
+seq1056	seq2335	spike glycoprotein
+seq1056	seq2378	spike glycoprotein
+seq1056	seq2379	spike glycoprotein
+seq1056	seq2380	spike glycoprotein
+seq1056	seq2381	spike glycoprotein
+seq1056	seq2382	spike glycoprotein
+seq1056	seq2383	spike glycoprotein
+seq1056	seq2384	spike protein s1
+seq1056	seq2385	spike protein s1
+seq1056	seq2553	spike glycoprotein
+seq1056	seq2554	spike glycoprotein
+seq1056	seq2555	spike glycoprotein
+seq1056	seq2985	spike glycoprotein
+seq1056	seq2986	spike glycoprotein
+seq1056	seq2987	spike glycoprotein
+seq1056	seq3428	spike glycoprotein
+seq1056	seq3429	spike glycoprotein
+seq1056	seq3430	spike glycoprotein
+seq1056	seq3484	spike glycoprotein
+seq1056	seq3584	spike glycoprotein
+seq1056	seq3585	spike glycoprotein
+seq1056	seq3586	spike glycoprotein
+seq1056	seq4502	surface glycoprotein
+seq1056	seq4809	spike glycoprotein
+seq1056	seq4810	spike glycoprotein
+seq1056	seq4811	spike glycoprotein
+seq1056	seq4820	spike glycoprotein
+seq1056	seq4874	spike protein s1
+seq1056	seq5080	spike protein s1
+seq1056	seq5210	spike glycoprotein
+seq1056	seq5211	spike glycoprotein
+seq1056	seq5228	spike protein s1
+seq1056	seq5275	spike protein s1
+seq1056	seq5276	spike protein s1
+seq1056	seq5455	spike protein s1
+seq1344	seq106	neuraminidase
+seq1344	seq452	spike glycoprotein
+seq1344	seq454	spike glycoprotein
+seq1344	seq456	spike glycoprotein
+seq1344	seq1615	spike glycoprotein
+seq1344	seq1616	spike glycoprotein
+seq1344	seq1618	spike glycoprotein
+seq1344	seq1619	spike glycoprotein
+seq1344	seq1620	spike glycoprotein
+seq1344	seq1622	spike glycoprotein
+seq1344	seq1623	spike glycoprotein
+seq1344	seq1841	spike glycoprotein
+seq1344	seq1842	spike glycoprotein
+seq1344	seq1843	spike glycoprotein
+seq1344	seq1844	spike glycoprotein
+seq1344	seq1845	spike glycoprotein
+seq1344	seq1846	spike glycoprotein
+seq1344	seq1847	spike glycoprotein
+seq1344	seq1891	spike protein s1
+seq1344	seq1892	spike protein s1
+seq1344	seq1893	spike protein s1
+seq1344	seq1894	spike protein s1
+seq1344	seq1895	spike protein s1
+seq1344	seq1896	spike protein s1
+seq1344	seq1897	spike protein s1
+seq1344	seq1898	spike protein s1
+seq1344	seq1911	spike glycoprotein
+seq1344	seq1914	spike glycoprotein
+seq1344	seq1916	spike glycoprotein
+seq1344	seq1918	spike glycoprotein
+seq1344	seq2247	spike protein s1
+seq1344	seq2248	spike glycoprotein
+seq1344	seq2249	spike glycoprotein
+seq1344	seq2250	spike glycoprotein
+seq1344	seq2279	spike glycoprotein
+seq1344	seq2280	spike glycoprotein
+seq1344	seq2281	spike glycoprotein
+seq1344	seq2655	spike protein s1
+seq1344	seq3002	spike glycoprotein
+seq1344	seq3003	spike glycoprotein
+seq1344	seq3004	spike glycoprotein
+seq1344	seq3040	spike protein s1
+seq1344	seq3041	spike protein s1
+seq1344	seq3065	spike protein s1
+seq1344	seq3375	spike glycoprotein
+seq1344	seq4307	spike protein s1
+seq1344	seq4331	spike glycoprotein
+seq1344	seq4332	spike glycoprotein
+seq1344	seq4429	spike protein s1
+seq1344	seq4749	spike glycoprotein
+seq1344	seq4750	spike glycoprotein
+seq1344	seq4767	spike glycoprotein
+seq1344	seq4768	spike glycoprotein
+seq1344	seq4769	spike glycoprotein
+seq1344	seq4775	spike protein s1
+seq1344	seq4943	spike protein s1
+seq1344	seq5289	spike glycoprotein
+seq1344	seq5334	hemagglutinin
+seq1344	seq5394	spike glycoprotein
+seq1377	seq1012	spike protein s1
+seq1377	seq1013	spike protein s1
+seq1377	seq1014	spike protein s1
+seq1377	seq1015	spike protein s1
+seq1377	seq1377	spike protein s1
+seq1377	seq1378	spike protein s1
+seq1377	seq1379	spike protein s1
+seq1377	seq1380	spike protein s1
+seq1377	seq2284	spike glycoprotein
+seq1377	seq4732	spike protein s1
+seq1408	seq1063	spike protein s1
+seq1408	seq1064	spike protein s1
+seq1408	seq1386	spike glycoprotein
+seq1408	seq1387	spike glycoprotein
+seq1408	seq1388	spike glycoprotein
+seq1408	seq1389	spike glycoprotein
+seq1408	seq1398	spike glycoprotein
+seq1408	seq1399	spike glycoprotein
+seq1408	seq1400	spike glycoprotein
+seq1408	seq1402	spike glycoprotein
+seq1408	seq1403	spike glycoprotein
+seq1408	seq1407	spike glycoprotein
+seq1408	seq1408	spike glycoprotein
+seq1408	seq1777	spike glycoprotein
+seq1408	seq1778	spike glycoprotein
+seq1504	seq1503	neuraminidase
+seq1504	seq1504	neuraminidase
+seq1504	seq1505	neuraminidase
+seq1504	seq1506	neuraminidase
+seq1504	seq1525	neuraminidase
+seq1504	seq1526	neuraminidase
+seq1504	seq1527	neuraminidase
+seq1504	seq1528	neuraminidase
+seq1504	seq1533	neuraminidase
+seq1504	seq1534	neuraminidase
+seq1504	seq1535	neuraminidase
+seq1507	seq1507	neuraminidase
+seq1507	seq1508	neuraminidase
+seq1507	seq1509	neuraminidase
+seq1507	seq1510	neuraminidase
+seq1507	seq1511	neuraminidase
+seq1507	seq1512	neuraminidase
+seq1507	seq1513	neuraminidase
+seq1507	seq1514	neuraminidase
+seq1507	seq1515	neuraminidase
+seq1507	seq1516	neuraminidase
+seq1507	seq1517	neuraminidase
+seq1507	seq1518	neuraminidase
+seq1507	seq1519	neuraminidase
+seq1507	seq1520	neuraminidase
+seq1568	seq698	spike glycoprotein
+seq1568	seq1197	spike protein s1
+seq1568	seq1199	spike protein s1
+seq1568	seq1548	spike protein s1
+seq1568	seq1549	spike protein s1
+seq1568	seq1568	spike glycoprotein
+seq1568	seq1760	spike protein s1
+seq1568	seq2028	spike glycoprotein
+seq1568	seq2030	spike glycoprotein
+seq1568	seq2034	spike protein s1
+seq1568	seq2036	spike glycoprotein
+seq1568	seq2037	spike glycoprotein
+seq1568	seq2039	spike glycoprotein
+seq1568	seq2040	spike glycoprotein
+seq1568	seq2042	spike glycoprotein
+seq1568	seq2044	spike glycoprotein
+seq1568	seq2046	spike glycoprotein
+seq1568	seq2048	spike glycoprotein
+seq1568	seq2050	spike glycoprotein
+seq1568	seq2052	spike glycoprotein
+seq1568	seq2054	spike glycoprotein
+seq1568	seq2056	spike glycoprotein
+seq1568	seq2058	spike glycoprotein
+seq1568	seq2060	spike glycoprotein
+seq1568	seq2400	spike protein s1
+seq1568	seq2469	spike glycoprotein
+seq1568	seq2470	spike glycoprotein
+seq1568	seq2471	spike glycoprotein
+seq1568	seq3091	spike protein s1
+seq1568	seq3092	spike protein s1
+seq1568	seq3162	spike protein s1
+seq1568	seq3223	surface glycoprotein
+seq1568	seq3224	surface glycoprotein
+seq1568	seq3225	surface glycoprotein
+seq1568	seq3335	surface glycoprotein
+seq1568	seq3336	surface glycoprotein
+seq1568	seq3337	surface glycoprotein
+seq1568	seq3643	spike glycoprotein
+seq1568	seq3644	spike glycoprotein
+seq1568	seq3645	spike glycoprotein
+seq1568	seq3673	spike protein s1
+seq1568	seq3744	spike glycoprotein
+seq1568	seq3745	spike glycoprotein
+seq1568	seq3837	spike glycoprotein
+seq1568	seq3838	spike glycoprotein
+seq1568	seq3926	spike glycoprotein
+seq1568	seq3927	spike glycoprotein
+seq1568	seq3991	spike protein s1
+seq1568	seq4092	surface glycoprotein
+seq1568	seq4162	spike protein s1
+seq1568	seq4163	spike protein s1
+seq1568	seq4228	spike protein s1
+seq1568	seq4483	surface glycoprotein
+seq1568	seq4748	spike protein s1
+seq1568	seq4865	spike protein s1
+seq1568	seq4909	spike glycoprotein
+seq1568	seq4910	spike glycoprotein
+seq1568	seq5058	spike glycoprotein
+seq1568	seq5059	spike glycoprotein
+seq1568	seq5314	spike glycoprotein
+seq1568	seq5315	spike glycoprotein
+seq1568	seq5363	spike protein s1
+seq1568	seq5437	spike protein s1
+seq1601	seq682	spike protein s1
+seq1601	seq714	spike glycoprotein
+seq1601	seq715	spike glycoprotein
+seq1601	seq1373	spike protein s1
+seq1601	seq1374	spike protein s1
+seq1601	seq1601	spike glycoprotein
+seq1601	seq3287	spike protein s1
+seq1601	seq3288	spike protein s1
+seq1601	seq3886	spike protein s1
+seq1601	seq4602	spike glycoprotein
+seq1601	seq4693	surface glycoprotein
+seq1601	seq4694	spike protein s1
+seq1601	seq4821	spike glycoprotein
+seq1632	seq351	spike protein s1
+seq1632	seq502	spike glycoprotein
+seq1632	seq503	spike glycoprotein
+seq1632	seq1059	spike protein s1
+seq1632	seq1060	spike protein s1
+seq1632	seq1614	spike protein s1
+seq1632	seq1625	spike protein s1
+seq1632	seq1626	spike protein s1
+seq1632	seq1630	spike protein s1
+seq1632	seq1631	spike protein s1
+seq1632	seq1632	spike protein s1
+seq1632	seq1978	surface glycoprotein
+seq1632	seq1979	surface glycoprotein
+seq1632	seq1980	surface glycoprotein
+seq1632	seq1981	surface glycoprotein
+seq1632	seq4204	spike protein s1
+seq1632	seq4386	spike glycoprotein
+seq1632	seq4503	spike protein s1
+seq1632	seq4504	spike protein s1
+seq1632	seq4505	spike protein s1
+seq1632	seq4506	spike protein s1
+seq1632	seq4647	spike protein s1
+seq1632	seq4687	spike protein s1
+seq1632	seq4795	spike protein s1
+seq1632	seq5251	spike glycoprotein
+seq1664	seq847	spike protein s1
+seq1664	seq848	spike protein s1
+seq1664	seq1658	envelope glycoprotein gp160
+seq1664	seq1659	envelope glycoprotein gp160
+seq1664	seq1660	envelope glycoprotein gp160
+seq1664	seq2518	spike protein s1
+seq1664	seq2519	spike protein s1
+seq1664	seq2766	envelope glycoprotein gp120
+seq1664	seq2767	envelope glycoprotein gp120
+seq1664	seq2768	envelope glycoprotein gp120
+seq1664	seq4950	spike glycoprotein
+seq1664	seq4951	spike glycoprotein
+seq1664	seq4952	spike glycoprotein
+seq1696	seq25	spike protein s1
+seq1696	seq341	spike protein s1
+seq1696	seq344	spike protein s1
+seq1696	seq897	spike protein s1
+seq1696	seq898	spike protein s1
+seq1696	seq899	spike protein s1
+seq1696	seq1695	spike protein s1
+seq1696	seq1696	spike protein s1
+seq1696	seq1697	spike protein s1
+seq1696	seq1704	spike protein s1
+seq1696	seq1888	spike glycoprotein
+seq1696	seq1948	spike protein s1
+seq1696	seq2244	spike protein s1
+seq1696	seq2332	spike protein s1
+seq1696	seq2333	spike protein s1
+seq1696	seq2395	spike protein s1
+seq1696	seq2411	spike glycoprotein
+seq1696	seq2412	spike glycoprotein
+seq1696	seq2413	spike glycoprotein
+seq1696	seq2436	spike protein s1
+seq1696	seq2438	spike protein s1
+seq1696	seq2756	spike protein s1
+seq1696	seq2955	spike protein s1
+seq1696	seq2956	spike protein s1
+seq1696	seq2957	spike protein s1
+seq1696	seq2994	spike protein s1
+seq1696	seq3137	surface glycoprotein
+seq1696	seq3292	spike protein s1
+seq1696	seq3295	spike protein s1
+seq1696	seq3619	surface glycoprotein
+seq1696	seq3968	spike glycoprotein
+seq1696	seq4006	spike protein s1
+seq1696	seq4153	spike protein s1
+seq1696	seq4709	spike protein s1
+seq1696	seq4827	spike protein s1
+seq1696	seq5049	spike protein s1
+seq1696	seq5191	spike protein s1
+seq1920	seq1908	spike glycoprotein
+seq1920	seq1909	spike glycoprotein
+seq1920	seq1910	spike glycoprotein
+seq1920	seq1912	spike glycoprotein
+seq1920	seq1913	spike glycoprotein
+seq1920	seq1915	spike glycoprotein
+seq1920	seq1917	spike glycoprotein
+seq1920	seq1919	spike protein s1
+seq1920	seq1920	spike protein s1
+seq1920	seq2757	spike protein s1
+seq1920	seq2847	spike glycoprotein
+seq1920	seq2848	spike glycoprotein
+seq1920	seq2849	spike glycoprotein
+seq1920	seq2993	spike protein s1
+seq1920	seq3300	spike protein s1
+seq1920	seq3778	surface glycoprotein
+seq1920	seq3779	surface glycoprotein
+seq1920	seq4007	spike protein s1
+seq1920	seq4086	spike protein s1
+seq1920	seq4087	spike protein s1
+seq1920	seq4152	spike protein s1
+seq1920	seq4482	spike protein s1
+seq1920	seq4824	spike protein s1
+seq1920	seq4828	spike protein s1
+seq1920	seq4873	spike protein s1
+seq1920	seq4939	spike protein s1
+seq1920	seq5090	surface glycoprotein
+seq1920	seq5190	spike protein s1
+seq1921	seq1921	spike protein s1
+seq1921	seq1922	spike glycoprotein
+seq1921	seq1923	spike glycoprotein
+seq1921	seq1924	spike glycoprotein
+seq1921	seq1925	spike glycoprotein
+seq1921	seq1926	spike glycoprotein
+seq1921	seq1927	spike glycoprotein
+seq1921	seq1928	spike glycoprotein
+seq1921	seq1929	spike glycoprotein
+seq1921	seq1930	spike glycoprotein
+seq2017	seq1553	spike glycoprotein
+seq2017	seq1554	spike glycoprotein
+seq2017	seq2017	spike protein s1
+seq2017	seq2019	spike protein s1
+seq2017	seq3039	spike glycoprotein
+seq2017	seq3075	spike glycoprotein
+seq2017	seq3076	spike glycoprotein
+seq2017	seq3130	spike glycoprotein
+seq2017	seq3131	spike glycoprotein
+seq2017	seq3163	spike protein s1
+seq2017	seq3310	spike protein s1
+seq2017	seq3505	spike protein s1
+seq2017	seq3831	spike protein s1
+seq2017	seq4073	spike glycoprotein
+seq2017	seq4739	spike protein s1
+seq2017	seq4740	spike protein s1
+seq2017	seq4872	spike protein s1
+seq2112	seq506	envelope glycoprotein gp120
+seq2112	seq508	envelope glycoprotein gp120
+seq2112	seq510	envelope glycoprotein gp120
+seq2112	seq1081	envelope glycoprotein gp160
+seq2112	seq1082	envelope glycoprotein gp160
+seq2112	seq1083	envelope glycoprotein gp160
+seq2112	seq2110	envelope glycoprotein gp120
+seq2112	seq2111	envelope glycoprotein gp120
+seq2112	seq2112	envelope glycoprotein gp120
+seq2112	seq2145	envelope glycoprotein gp120
+seq2112	seq2146	envelope glycoprotein gp120
+seq2112	seq2147	envelope glycoprotein gp120
+seq2112	seq2271	envelope glycoprotein gp120
+seq2112	seq2273	envelope glycoprotein gp160
+seq2112	seq2275	envelope glycoprotein gp160
+seq2112	seq2277	envelope glycoprotein gp160
+seq2112	seq3705	envelope glycoprotein gp120
+seq2112	seq3708	envelope glycoprotein gp120
+seq2112	seq3709	envelope glycoprotein gp120
+seq2112	seq3873	envelope glycoprotein gp120
+seq2112	seq3940	envelope glycoprotein gp120
+seq2112	seq3941	envelope glycoprotein gp120
+seq2112	seq3942	envelope glycoprotein gp120
+seq2112	seq4138	envelope glycoprotein gp160
+seq2112	seq4552	envelope glycoprotein gp160
+seq2144	seq1324	spike protein s1
+seq2144	seq1325	spike protein s1
+seq2144	seq1326	spike glycoprotein
+seq2144	seq1327	spike glycoprotein
+seq2144	seq1328	spike glycoprotein
+seq2144	seq2142	envelope glycoprotein gp120
+seq2144	seq2143	envelope glycoprotein gp120
+seq2144	seq2144	envelope glycoprotein gp120
+seq2144	seq2255	spike glycoprotein
+seq2144	seq2256	spike glycoprotein
+seq2144	seq2257	spike glycoprotein
+seq2144	seq2309	spike glycoprotein
+seq2144	seq2310	spike glycoprotein
+seq2144	seq2311	spike glycoprotein
+seq2144	seq2781	spike glycoprotein
+seq2144	seq2782	spike glycoprotein
+seq2144	seq2783	spike glycoprotein
+seq2144	seq3190	spike glycoprotein
+seq2144	seq3191	spike glycoprotein
+seq2144	seq3192	spike glycoprotein
+seq2144	seq3694	spike protein s1
+seq2144	seq3695	spike protein s1
+seq2144	seq4160	spike protein s1
+seq2144	seq4741	spike protein s1
+seq2144	seq4742	spike protein s1
+seq2144	seq5288	spike glycoprotein
+seq2144	seq5398	spike glycoprotein
+seq2308	seq1002	spike glycoprotein
+seq2308	seq1003	spike glycoprotein
+seq2308	seq1004	spike glycoprotein
+seq2308	seq1005	spike glycoprotein
+seq2308	seq1006	spike glycoprotein
+seq2308	seq1007	spike glycoprotein
+seq2308	seq1008	spike glycoprotein
+seq2308	seq1009	spike glycoprotein
+seq2308	seq1341	spike protein s1
+seq2308	seq2308	spike protein s1
+seq2496	seq1711	spike glycoprotein
+seq2496	seq1712	spike glycoprotein
+seq2496	seq1713	spike glycoprotein
+seq2496	seq1735	spike protein s1
+seq2496	seq1766	spike protein s1
+seq2496	seq1787	spike glycoprotein
+seq2496	seq1899	spike glycoprotein
+seq2496	seq2496	spike protein s1
+seq2496	seq2499	spike protein s1
+seq2496	seq2500	spike protein s1
+seq2496	seq2710	spike protein s1
+seq2496	seq2713	spike protein s1
+seq2496	seq3083	spike glycoprotein
+seq2496	seq4408	spike glycoprotein
+seq2496	seq4409	spike glycoprotein
+seq2496	seq4410	spike glycoprotein
+seq2496	seq4655	spike protein s1
+seq2496	seq4937	spike protein s1
+seq2528	seq1570	spike glycoprotein
+seq2528	seq1571	spike glycoprotein
+seq2528	seq1572	spike glycoprotein
+seq2528	seq2414	spike glycoprotein
+seq2528	seq2416	spike glycoprotein
+seq2528	seq2419	spike glycoprotein
+seq2528	seq2915	spike glycoprotein
+seq2528	seq2920	spike glycoprotein
+seq2528	seq3466	spike glycoprotein
+seq2528	seq3469	spike glycoprotein
+seq2528	seq3472	spike glycoprotein
+seq2528	seq3478	spike glycoprotein
+seq2528	seq3480	spike glycoprotein
+seq2528	seq3481	spike glycoprotein
+seq2528	seq3626	spike glycoprotein
+seq2528	seq3627	spike glycoprotein
+seq2528	seq3628	spike glycoprotein
+seq2528	seq4805	spike glycoprotein
+seq2528	seq4959	spike glycoprotein
+seq2528	seq4960	spike glycoprotein
+seq2528	seq4961	spike glycoprotein
+seq2560	seq528	spike glycoprotein
+seq2560	seq529	spike glycoprotein
+seq2560	seq530	spike glycoprotein
+seq2560	seq546	spike protein s1
+seq2560	seq654	spike protein s1
+seq2560	seq1127	spike glycoprotein
+seq2560	seq1128	spike glycoprotein
+seq2560	seq1129	spike glycoprotein
+seq2560	seq2228	spike glycoprotein
+seq2560	seq2229	spike glycoprotein
+seq2560	seq2230	spike glycoprotein
+seq2560	seq2808	surface glycoprotein
+seq2560	seq2916	spike glycoprotein
+seq2560	seq3767	hemagglutinin | hemagglutinin
+seq2560	seq3973	hemagglutinin | hemagglutinin
+seq2560	seq4544	surface glycoprotein
+seq2784	seq2784	spike glycoprotein
+seq2784	seq2786	spike glycoprotein
+seq2784	seq2787	spike glycoprotein
+seq2784	seq2913	spike glycoprotein
+seq2784	seq2914	spike glycoprotein
+seq2784	seq2917	spike glycoprotein
+seq2784	seq3027	spike glycoprotein
+seq2784	seq3028	spike glycoprotein
+seq2784	seq3029	spike glycoprotein
+seq2784	seq3465	spike glycoprotein
+seq2784	seq3467	spike glycoprotein
+seq2784	seq3470	spike glycoprotein
+seq2784	seq3476	spike glycoprotein
+seq2784	seq3477	spike glycoprotein
+seq2784	seq3479	spike glycoprotein
+seq3200	seq3196	spike glycoprotein
+seq3200	seq3198	spike glycoprotein
+seq3200	seq3200	spike glycoprotein
+seq3200	seq3974	spike glycoprotein
+seq3200	seq3975	spike glycoprotein
+seq3200	seq3976	spike glycoprotein
+seq3200	seq4274	spike glycoprotein
+seq3200	seq4278	spike glycoprotein
+seq3200	seq4279	spike glycoprotein
+seq3200	seq4657	spike glycoprotein
+seq3200	seq4658	spike glycoprotein
+seq3200	seq4661	spike glycoprotein
+seq3200	seq5036	spike glycoprotein
+seq3200	seq5039	spike glycoprotein
+seq3200	seq5041	spike glycoprotein
+seq3264	seq2698	hemagglutinin
+seq3264	seq2699	hemagglutinin
+seq3264	seq2700	hemagglutinin
+seq3264	seq2701	hemagglutinin
+seq3264	seq2702	hemagglutinin
+seq3264	seq2703	hemagglutinin
+seq3264	seq2704	hemagglutinin
+seq3264	seq2705	hemagglutinin
+seq3264	seq2706	hemagglutinin
+seq3264	seq2707	hemagglutinin
+seq3264	seq2708	hemagglutinin
+seq3264	seq2709	hemagglutinin
+seq3264	seq3263	hemagglutinin | hemagglutinin
+seq3264	seq3264	hemagglutinin | hemagglutinin
+seq3264	seq3265	hemagglutinin | hemagglutinin
+seq3264	seq3913	hemagglutinin | hemagglutinin
+seq3264	seq3914	hemagglutinin | hemagglutinin
+seq3264	seq3915	hemagglutinin | hemagglutinin
+seq3264	seq4180	hemagglutinin | hemagglutinin
+seq3264	seq4181	hemagglutinin | hemagglutinin
+seq3264	seq4182	hemagglutinin | hemagglutinin
+seq3648	seq1067	spike glycoprotein
+seq3648	seq1617	spike glycoprotein
+seq3648	seq1621	spike glycoprotein
+seq3648	seq1624	spike glycoprotein
+seq3648	seq1767	spike protein s1
+seq3648	seq2325	surface glycoprotein
+seq3648	seq3207	spike glycoprotein
+seq3648	seq3209	spike glycoprotein
+seq3648	seq3210	spike glycoprotein
+seq3648	seq3368	spike glycoprotein
+seq3648	seq3646	spike glycoprotein
+seq3648	seq3647	spike glycoprotein
+seq3648	seq3648	spike glycoprotein
+seq3648	seq4125	spike glycoprotein
+seq3648	seq4126	spike glycoprotein
+seq3648	seq4127	spike glycoprotein
+seq3648	seq4609	spike glycoprotein
+seq3648	seq4711	spike protein s1
+seq3648	seq4730	spike glycoprotein
+seq3648	seq5007	spike glycoprotein
+seq3648	seq5044	spike glycoprotein
+seq3648	seq5045	spike glycoprotein
+seq3648	seq5046	spike glycoprotein
+seq3648	seq5083	spike protein s1
+seq3648	seq5085	surface glycoprotein
+seq3648	seq5241	spike protein s1
+seq3648	seq5277	spike glycoprotein
+seq3648	seq5329	spike glycoprotein
+seq3936	seq1427	spike protein s1
+seq3936	seq1428	spike protein s1
+seq3936	seq1627	spike glycoprotein
+seq3936	seq1628	spike glycoprotein
+seq3936	seq1629	spike glycoprotein
+seq3936	seq1982	spike glycoprotein
+seq3936	seq2494	hemagglutinin
+seq3936	seq3587	spike protein s1
+seq3936	seq3934	spike glycoprotein
+seq3936	seq3935	spike glycoprotein
+seq3936	seq3936	spike glycoprotein
+seq3936	seq4638	spike protein s1
+seq3936	seq4639	spike protein s1
+seq3936	seq4889	spike protein s1
+seq4064	seq1226	fusion glycoprotein f0
+seq4064	seq2902	envelope glycoprotein gp160
+seq4064	seq3096	envelope glycoprotein gp160
+seq4064	seq3385	envelope glycoprotein gp160
+seq4064	seq3386	envelope glycoprotein gp160
+seq4064	seq3487	envelope glycoprotein gp160
+seq4064	seq3722	envelope glycoprotein gp160
+seq4064	seq3990	envelope glycoprotein gp160
+seq4064	seq4441	envelope glycoprotein gp120
+seq4064	seq4491	envelope glycoprotein gp160
+seq4064	seq4651	envelope glycoprotein gp160
+seq4064	seq4677	envelope glycoprotein gp120
+seq4064	seq4983	envelope glycoprotein gp160
+seq4064	seq4998	envelope glycoprotein gp120
+seq4064	seq5137	envelope glycoprotein gp120
+seq4064	seq5184	envelope glycoprotein gp160
+seq4064	seq5352	envelope glycoprotein gp160
+seq4064	seq5369	envelope glycoprotein gp120
+seq4576	seq1016	hemagglutinin
+seq4576	seq1017	hemagglutinin
+seq4576	seq1018	hemagglutinin
+seq4576	seq2005	hemagglutinin
+seq4576	seq2006	hemagglutinin
+seq4576	seq2007	hemagglutinin
+seq4576	seq2097	hemagglutinin
+seq4576	seq2098	hemagglutinin
+seq4576	seq2099	hemagglutinin
+seq4576	seq4927	hemagglutinin | hemagglutinin
+seq4576	seq4928	hemagglutinin | hemagglutinin
+seq4576	seq5452	hemagglutinin | hemagglutinin
+seq4832	seq2420	envelope glycoprotein gp120
+seq4832	seq2449	envelope glycoprotein gp120
+seq4832	seq2524	envelope glycoprotein gp120
+seq4832	seq2525	envelope glycoprotein gp120
+seq4832	seq2526	envelope glycoprotein gp120
+seq4832	seq2574	envelope glycoprotein gp160
+seq4832	seq2575	envelope glycoprotein gp160
+seq4832	seq2576	envelope glycoprotein gp160
+seq4832	seq2964	envelope glycoprotein gp160
+seq4832	seq2965	envelope glycoprotein gp160
+seq4832	seq2966	envelope glycoprotein gp160
+seq4832	seq3060	envelope glycoprotein gp120
+seq4832	seq3533	envelope glycoprotein gp120
+seq4832	seq3783	envelope glycoprotein gp160
+seq4832	seq3784	envelope glycoprotein gp160
+seq4832	seq3785	envelope glycoprotein gp160
+seq4832	seq4173	envelope glycoprotein gp120
+seq4832	seq4367	envelope glycoprotein gp160
+seq4832	seq4368	envelope glycoprotein gp160
+seq4832	seq4369	envelope glycoprotein gp160
+seq4832	seq4393	envelope glycoprotein gp160
+seq4832	seq4394	envelope glycoprotein gp160
+seq4832	seq4395	envelope glycoprotein gp160
+seq4832	seq4686	envelope glycoprotein gp120
+seq4832	seq4728	envelope glycoprotein gp120
+seq4832	seq4832	envelope glycoprotein gp120
+seq4832	seq4906	envelope glycoprotein gp120
+seq4832	seq5100	envelope glycoprotein gp120
+seq4832	seq5167	envelope glycoprotein gp120
+seq4832	seq5254	envelope glycoprotein gp120
+seq4832	seq5390	envelope glycoprotein gp120
+seq5187	seq1872	spike protein s1
+seq5187	seq1873	spike protein s1
+seq5187	seq1874	spike protein s1
+seq5187	seq1875	spike protein s1
+seq5187	seq1884	spike glycoprotein
+seq5187	seq1885	spike glycoprotein
+seq5187	seq1886	spike glycoprotein
+seq5187	seq2672	spike glycoprotein
+seq5187	seq2673	spike glycoprotein
+seq5187	seq2674	spike glycoprotein
+seq5187	seq3570	spike glycoprotein
+seq5187	seq3571	spike glycoprotein
+seq5187	seq3572	spike glycoprotein
+seq5187	seq4124	spike glycoprotein
+seq5187	seq4764	spike glycoprotein
+seq5187	seq4765	spike glycoprotein
+seq5187	seq4766	spike glycoprotein
+seq5187	seq5330	spike protein s1
+seq5187	seq5386	spike protein s1
