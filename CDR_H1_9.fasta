@@ -1,0 +1,282 @@
+>seq_1 8veb|hemagglutinin
+GGSVSRGGY
+>seq_2 8vef|hemagglutinin
+GGSISSGGY
+>seq_3 9mer|h1h5_ha
+GVSVTSDIY
+>seq_4 8rmx|protein-glutamine_gamma-glutamyltransferase_e
+GFSLDTSGV
+>seq_5 8yk4|spike_protein_s1
+GDSVSSNSA
+>seq_6 9ccj|spike_glycoprotein
+GGSINTNMY
+>seq_7 8t6m|mhc_class_i_antigen
+GFSVNTSGV
+>seq_8 8sj4|conglutin
+DASIDTPSY
+>seq_9 8v9d|aquaporin-4
+GGYISSGSH
+>seq_10 8jqm|non-structural_protein_1
+GGSISSGGY
+>seq_11 8v5q|envelope_glycoprotein_e
+GGSISSNDY
+>seq_12 9bif|outer_surface_protein_c
+GGSISSTSY
+>seq_13 9bdf|hemagglutinin
+GGFVTRNSY
+>seq_14 9dx6|apical_merozoite_protein_1
+GGSVSSPGY
+>seq_15 8ywq|interleukin-6
+GFSLSTSGM
+>seq_16 8v5l|envelope_glycoprotein_e
+GGSITSGSF
+>seq_17 8vym|envelope_glycoprotein_b
+GASIDRSTY
+>seq_18 8y4c|spike_glycoprotein
+NGSISSSTF
+>seq_19 8zho|spike_glycoprotein
+GGSVSSGGY
+>seq_20 8vcr|spike_protein_s2
+GDSISNSSY
+>seq_21 8vif|spike_glycoprotein
+GFSLSNVGM
+>seq_22 8vww|gp38
+GGSITTSHY
+>seq_23 8zgu|envelopment_polyprotein
+GDSISSGGF
+>seq_24 8vvk|gp38
+GGSISSSDY
+>seq_25 8rgz|envelope_glycoprotein_b
+GFSLSTSGM
+>seq_26 8yx1|tumor_necrosis_factor_receptor_superfamily_member_5
+GGSISSPGY
+>seq_27 8tqi|hemagglutinin-neuraminidase
+GASITDDLN
+>seq_28 8u1q|neuraminidase
+GDSISGSSY
+>seq_29 8u1s|neuraminidase
+GGSVSDTSY
+>seq_30 8vye|spike_glycoprotein
+GFSVNTGGV
+>seq_31 8gdr|spike_glycoprotein
+GFSLSTYGV
+>seq_32 8r1c|spike_glycoprotein,fibritin
+GDSISSGTY
+>seq_33 8sir|spike_protein_s1
+GGSVSSHNF
+>seq_34 8jeo|t-cell_immunoreceptor_with_ig_and_itim_domains
+GDSVSSNSA
+>seq_35 8cbd|spike_protein_s1
+GGSISSSNY
+>seq_36 8hp9|spike_protein_s2'
+GFSLSTSGV
+>seq_37 8tma|spike_glycoprotein
+GGSFATENY
+>seq_38 8hrd|spike_protein_s1
+SGSISGTSY
+>seq_39 7ycy|spike_glycoprotein
+GFSLSTPGG
+>seq_40 8ez3|neuraminidase
+GASISDVDF
+>seq_41 8tp6|hemagglutinin
+GGSISSGNY
+>seq_42 8tp7|hemagglutinin
+GGSISGSRY
+>seq_43 8tp9|hemagglutinin
+GDSISNGGL
+>seq_44 8szy|t-cell_immunoreceptor_with_ig_and_itim_domains
+GGSVSSGIY
+>seq_45 8e6j|neuraminidase
+GDSISSSYY
+>seq_46 8e6k|neuraminidase
+GDSVSSTNY
+>seq_47 8ag1|tumor_necrosis_factor_receptor_superfamily_member_4
+GDSVSSNSV
+>seq_48 7yve|spike_glycoprotein
+GFSLINSGV
+>seq_49 7yvk|spike_glycoprotein
+GFSLSTGGV
+>seq_50 8eoo|spike_protein_s1
+GGSISGSNY
+>seq_51 8dwx|e2_glycoprotein
+GGSISSDDY
+>seq_52 7xsa|spike_protein_s1
+GFSLSTSGV
+>seq_53 8bbo|spike_glycoprotein
+GDSINSGIN
+>seq_54 6vug|reverse_transcriptase_p51
+GFSLSTSGI
+>seq_55 7uxl|gametocyte_surface_protein_p45/48
+GGSISRSPY
+>seq_56 7ox1|interleukin-9
+GGSITTGYY
+>seq_57 7ox3|interleukin-9
+GGPITTRYY
+>seq_58 7wti|spike_glycoprotein
+GFSLNTGGA
+>seq_59 7t17|core_protein
+GGSISSGDS
+>seq_60 7wvf|toll-like_receptor_3
+GDSVSSNSA
+>seq_61 8erq|spike_glycoprotein
+GFSVTTSGV
+>seq_62 7wrj|spike_protein_s1
+GFSLKKNGV
+>seq_63 7y0v|spike_protein_s1
+GASITSSDS
+>seq_64 7xxl|spike_protein_s1
+GDSVSSNSA
+>seq_65 7unb|gametocyte_surface_protein_p45/48
+GGSISRSPY
+>seq_66 8cw9|fusion_glycoprotein_f0
+GFALTTSGM
+>seq_67 7bel|spike_glycoprotein
+GGSISSGSY
+>seq_68 7ps0|surface_glycoprotein
+DGSISSSDY
+>seq_69 7m8l|virion_spike_glycoprotein_2
+GGSINSAGY
+>seq_70 7l7r|glycoprotein_c
+GGSLSSGGY
+>seq_71 6ywc|de_novo_design_4e1h_95
+GFSLSTSGM
+>seq_72 4yc2|the_stabilized_inner_domain_of_clade_a/e_hiv-1_gp120_frome._coli_
+GGSSSSGAH
+>seq_73 4rfo|hiv-1_clade_a/e_gp120
+GASISSGGY
+>seq_74 5xku|influenza_a_virus
+GGSISSGGY
+>seq_75 7kql|hepatitis_a_virus_cellular_receptor_2
+GGSISSRSY
+>seq_76 7qnw|surface_glycoprotein
+GDSISSSRY
+>seq_77 7kn4|spike_protein_s1
+GGSLSSVNY
+>seq_78 5bv7|phosphatidylcholine-sterol_acyltransferase
+GASISSGGY
+>seq_79 7d0d|spike_glycoprotein
+GFSLSTSGV
+>seq_80 5dur|hemagglutinin
+GDSVSSGSY
+>seq_81 5xwd|epidermal_growth_factor_receptor
+GGSISSSSY
+>seq_82 3b2u|epidermal_growth_factor_receptor
+GGSISSGDY
+>seq_83 7rbu|spike_protein_s1
+GGSISSSSY
+>seq_84 6e4x|hemagglutinin
+GGSVSSNIY
+>seq_85 3lzf|hemagglutinin,_ha1_subunit
+GFSLSTSGM
+>seq_86 5o1r|gna2132
+GGSVSSGSS
+>seq_87 7wee|spike_glycoprotein
+GFSLNTYGV
+>seq_88 7epu|chromodomain-helicase-dna-binding_protein_1-like
+GDSVSDNDA
+>seq_89 7mmo|spike_protein_s1
+GFSLSISGV
+>seq_90 6oe4|fusion_glycoprotein_f0
+GASINSDNY
+>seq_91 6urm|hemagglutinin
+GFSLSTSGM
+>seq_92 7bq5|envelope_protein
+GGSISTRDY
+>seq_93 5w1k|pre-glycoprotein_polyprotein_gp_complex
+GGSIGGSSY
+>seq_94 6a4k|hemagglutinin
+GGSVNTGSY
+>seq_95 5dum|hemagglutinin
+GFAYSSTYF
+>seq_96 5uqy|envelope_glycoprotein_gp1
+GGSISSSSY
+>seq_97 7cm4|spike_glycoprotein
+GFSLSTSGV
+>seq_98 7pry|surface_glycoprotein
+GGSISSSSH
+>seq_99 5sx4|epidermal_growth_factor_receptor
+GGSVSSGDY
+>seq_100 7ttx|spike_glycoprotein
+GGSISSSNF
+>seq_101 6tou|glycoprotein,glycoprotein
+GGSFSSGSY
+>seq_102 7n5h|spike_glycoprotein
+GGSVSSSNY
+>seq_103 7q0h|spike_protein_s1
+GGSITSSNH
+>seq_104 6i04|hepatocyte_growth_factor_receptor
+GGSISSSVY
+>seq_105 5ush|imv_membrane_protein
+GDSISSNNY
+>seq_106 6ywd|de_novo_designed_protein_4h_01
+GFSLSTAGM
+>seq_107 5utz|interleukin-2
+GGSISSGGY
+>seq_108 6pze|neuraminidase
+GGSISSSSY
+>seq_109 6nf2|envelope_glycoprotein_gp41
+GGTPGRGFL
+>seq_110 4j4p|ig_epsilon_chain_c_region
+GDSVSSNSA
+>seq_111 7ps7|surface_glycoprotein
+GGSISSSSY
+>seq_112 6oan|duffy_binding_surface_protein_region_ii
+GDSINSGDY
+>seq_113 3thm|tumor_necrosis_factor_receptor_superfamily_member_6
+GASISANSY
+>seq_114 5d1z|iron-regulated_surface_determinant_protein_b
+GGSISSSSY
+>seq_115 2j6e|ig_gamma-1_chain_c_region
+GGSISRGSH
+>seq_116 6a67|hemagglutinin
+GGSISSGTY
+>seq_117 7czw|spike_glycoprotein
+GDSVSSGSY
+>seq_118 3l5x|interleukin-13
+GFSLSTYGM
+>seq_119 2vxq|pollen_allergen_phl_p_2
+GGSIRSGGY
+>seq_120 6ztr|cadherin-3
+GDSVSSQSA
+>seq_121 3tyg|envelope_glycoprotein_gp160
+GDSTAACNS
+>seq_122 6bp2|envelope_glycoprotein
+GVSISDNSY
+>seq_123 6pcu|outer_capsid_protein_vp4
+GVSLSGGSY
+>seq_124 7lss|spike_glycoprotein
+GFSLSTSGV
+>seq_125 6uig|hemagglutinin
+GGSINSSHS
+>seq_126 5k9k|hemagglutinin
+GDTVSSNRA
+>seq_127 5k59|uncharacterized_leukocidin-like_protein_1
+GGSISSGSY
+>seq_128 3lev|rna_polymerase_sigma_factor
+GFSLSDFGV
+>seq_129 7m30|envelope_protein_ul128
+GDAISGSNY
+>seq_130 4g6m|interleukin-1_beta
+GFSLSTSGM
+>seq_131 7oly|activin_receptor_type-2b
+GGSISSSSY
+>seq_132 6iea|nsmgngc
+GGSISSGGY
+>seq_133 7oh0|tetanus_toxin
+DDSMGSSTY
+>seq_134 7t01|spike_protein_s1
+GFSLSTIGV
+>seq_135 7n4j|spike_protein_s1
+GDSISSSDY
+>seq_136 5w6g|hemagglutinin_ha1
+GGSIKNKDF
+>seq_137 6r2s|duffy_receptor
+GGSVSSSTY
+>seq_138 3tje|tumor_necrosis_factor_receptor_superfamily_member_6
+GASISANSY
+>seq_139 6nn3|vp2_of_b19_parvovirus
+GASISSGGY
+>seq_140 7o52|cd22_d6-d7_ig_domains
+GDSVSSNSA
+>seq_141 4ps4|interleukin-13
+GFSLSTYGV
