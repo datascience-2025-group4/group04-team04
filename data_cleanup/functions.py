@@ -6,18 +6,29 @@ import matplotlib.pyplot as plt
 def show_PCA(feature_spaces: dict, regions: list):
     for region in regions:
         df = feature_spaces[region]
-        #Achtung! df darf keine numerischen Spalten enthalten, außer den Koordinaten!
+        antigen_labels = df["antigen_name"].tolist()
+
+        # PCA (df darf keine numerische Spalten enthalten, außer Koordinaten))
         meta_spalten = ["pdb", "antigen_name", "antigen_species"]
         koordinaten_spalten = df.select_dtypes(include='number').columns
         X = df[koordinaten_spalten].values
         X_2d = PCA(n_components=2).fit_transform(X)
 
-        fig, axes = plt.subplots(2, 3, figsize=(12, 6))
         #### Farbzuordnung vorbereiten
-        unique_antigens = sorted(list(set(antigen_labels)))
+        unique_antigens = sorted(df["antigen_name"].unique())
+        color_map = plt.get_cmap('gist_rainbow_r', len(unique_antigens))
+        color_dict = dict(zip(unique_antigens, [color_map(i) for i in range(len(unique_antigens))]))
+        colors = [color_dict[a] for a in antigen_labels]
+
+
         color_map = plt.get_cmap('gist_rainbow_r', len(unique_antigens))
         color_dict = {antigen: color_map(i) for i, antigen in enumerate(unique_antigens)}
         colors = [color_dict[a] for a in antigen_labels]
+
+
+
+        fig, axes = plt.subplots(2, 3, figsize=(12, 6))
+
 
         plt.figure(figsize=(8, 6))
         plt.scatter(X_2d[:, 0], X_2d[:, 1], c=pd.Categorical(feature_space["antigen_name"]).codes, cmap='tab10', s=10)
