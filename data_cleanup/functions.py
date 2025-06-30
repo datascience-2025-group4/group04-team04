@@ -72,3 +72,25 @@ def show_PCA(feature_spaces: dict, ncols: int):
     fig.tight_layout()
     fig.savefig("data/pca_overview.png", dpi=150, bbox_inches='tight')
     plt.show()
+
+
+def elbow():
+    '''
+    ...
+    '''
+    
+
+def silhouette():
+    '''
+    ...
+    '''
+
+def show_Kmeans():
+    '''
+    ...
+    '''
+
+def chi_sq():
+    '''
+    ...
+    '''
