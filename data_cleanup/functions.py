@@ -2,11 +2,12 @@ import pandas as pd
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import matplotlib.lines as mlines
+import math
 
-regions = ["CDR_H1", "CDR_H2", "CDR_L1", "CDR_L2", "CDR_L3"]
+regions = ["CDR_H1", "CDR_H2", "CDR_H3", "CDR_L1", "CDR_L2", "CDR_L3"]
 
 
-def show_PCA(feature_spaces: dict):
+def show_PCA(feature_spaces: dict, ncols: int):
     '''
     Input:
     - feature_spaces: Dictionary, enthält für jede CDR-Region einen Feature-Space
@@ -14,7 +15,9 @@ def show_PCA(feature_spaces: dict):
     Output:
     - Visualisierung der 2D-PCAs aller CDR-Regionen
     '''
-    fig, axes = plt.subplots(5, 0, figsize=(15, 8))
+    fig, axes = plt.subplots(1, 6, figsize=(8, 4 * len(regions)))
+    nrows = math.ceil(len(regions) / ncols)
+    fig, axes = plt.subplots(nrows, ncols, figsize=(5 * ncols, 4 * nrows))
     axes = axes.flatten()
 
     for i, region in enumerate(regions):
@@ -58,33 +61,14 @@ def show_PCA(feature_spaces: dict):
                 label = antigen 
             )
             handles.append(handle)
-        ax.legend(handles=handles, fontsize='x-small', loc='best')
+        ax.legend(
+            handles = handles,
+            fontsize = 'xx-small',
+            loc = 'upper right'
+            framealpha = 0.3
+            markerscale = 0.7
+            labelspacing = 0.2
+        )
     fig.tight_layout()
-    plt.show()
-
-
-
-def show_feature_space(feature_space, CDR_region, antigen_names):#zusätzliches Argument für color-coding: antigen
-    
-    # Plotten der PCA-Koordinaten in 2D
-    fig, (ax_scatter, ax_legend) = plt.subplots(2,1,figsize=(10,10), gridspec_kw={'height_ratios': [4,1]})
-    ax_scatter.scatter(coords[:, 0], coords[:, 1], c=colors, s=20, alpha=0.7)#zusätzliche Argumente für color-coding: c=color_codes, cmap='tab20', 
-    ax_scatter.set_xlabel("PCA 1")
-    ax_scatter.set_ylabel("PCA 2")
-    ax_scatter.set_title(f"PCA of {CDR_region} Sequences")
-
-
-    # 2. Legende als eigene Figure
-    legend_fig, legend_ax = plt.subplots(figsize=(12, 12))  # Größe anpassen je nach Anzahl Antigene
-    legend_ax.axis('off')  # Keine Achsen
-
-    # Erstelle Handles
-    handles = [mlines.Line2D([], [], color=color_dict[ant], marker='o', linestyle='None',
-                             markersize=8, label=ant)
-               for ant in antigen_names]
-
-    # Erzeuge Legende
-    legend = legend_ax.legend(handles=handles, loc='center', ncol=1, fontsize='small')  # ncol=1 → alle untereinander
-
-    legend_fig.tight_layout()
+    fig.savefig("data/pca_overview.png", dpi=150, bbox_inches='tight')
     plt.show()
