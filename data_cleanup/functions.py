@@ -64,9 +64,9 @@ def show_PCA(feature_spaces: dict, ncols: int):
         ax.legend(
             handles = handles,
             fontsize = 'xx-small',
-            loc = 'upper right'
-            framealpha = 0.3
-            markerscale = 0.7
+            loc = 'best',
+            framealpha = 0.3,
+            markerscale = 0.7,
             labelspacing = 0.2
         )
     fig.tight_layout()
