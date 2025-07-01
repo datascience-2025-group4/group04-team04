@@ -2,7 +2,6 @@ import os
 os.environ["OMP_NUM_THREADS"] = "3"
 
 import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 import matplotlib.lines as mlines
