@@ -1,0 +1,220 @@
+>seq_1 8vpf|spike_glycoprotein
+TYNDIGGYNF
+>seq_2 9bj4|spike_glycoprotein
+SSSNIGAGFD
+>seq_3 8z4e|neuraminidase
+TSSDVGGYNY
+>seq_4 8s6m|spike_protein_s1
+TSSDVGAYNY
+>seq_5 8s6m|spike_protein_s1
+ISSDVGGYNS
+>seq_6 8wfh|spike_protein_s1
+TISDVGAYNY
+>seq_7 8y4c|spike_glycoprotein
+SSPNIGARND
+>seq_8 8zho|spike_glycoprotein
+SSSNIGAGYD
+>seq_9 8vif|spike_glycoprotein
+SSSNIGAGYD
+>seq_10 8suo|spike_protein_s1
+TSSDVGGYNY
+>seq_11 8qrf|spike_protein_s1
+TSSDVGGYNY
+>seq_12 8gdr|spike_glycoprotein
+TSRDIGGYNY
+>seq_13 8siq|spike_protein_s1
+SSSNIGAGYD
+>seq_14 8gav|neuraminidase
+TTSDFGDHNY
+>seq_15 8cin|spike_glycoprotein
+TSSDVGSYNL
+>seq_16 8hrd|spike_protein_s1
+GSSNIGAGYD
+>seq_17 7ycy|spike_glycoprotein
+TSSDVGAYNY
+>seq_18 8bg3|spike_protein_s1
+TSSDVGGHNF
+>seq_19 8ez3|neuraminidase
+SSSNIGAGFD
+>seq_20 8hes|spike_protein_s1
+TSSDVGGYNF
+>seq_21 8tp4|hemagglutinin
+SSSNLGATYE
+>seq_22 8tp7|hemagglutinin
+TSSDIGGYNY
+>seq_23 8gpy|spike_protein_s1
+TSSDVGGYNY
+>seq_24 8dyx|circumsporozoite_protein
+GSSNIGAGYD
+>seq_25 7yh6|spike_protein_s1
+SSSNIGAGYD
+>seq_26 8el2|spike_protein_s1
+TSSDVGVYNY
+>seq_27 8c8t|envelope_glycoprotein_gp160
+TSSDIGASDY
+>seq_28 7yvi|spike_glycoprotein
+TSSDVGGYNY
+>seq_29 7yvk|spike_glycoprotein
+TSSDVGAYQY
+>seq_30 8j1q|spike_protein_s1
+TSSDVGGYNY
+>seq_31 8csj|spike_glycoprotein
+SSSNIGAGYD
+>seq_32 7xsa|spike_protein_s1
+TSSDVGDFNY
+>seq_33 8saz|envelope_glycoprotein_gp160
+TSYDVGSYNL
+>seq_34 7u8e|spike_protein_s1
+RGGINVVNQR
+>seq_35 7x08|spike_glycoprotein
+TSSDVGGSNY
+>seq_36 7ul0|spike_protein_s1
+TSSDVGSYNL
+>seq_37 8dg9|fusion_glycoprotein_f0
+TNSNIGTGYD
+>seq_38 7uvo|gametocyte_surface_protein_p230
+TNDDVGEYNY
+>seq_39 7wqv|spike_protein_s1
+NSSNIGAGYD
+>seq_40 7wti|spike_glycoprotein
+TSSDLGNFQY
+>seq_41 7x8w|spike_glycoprotein
+TSSDVGGYNY
+>seq_42 7wos|spike_glycoprotein
+TSSDFGGYNS
+>seq_43 7ugq|envelope_glycoprotein_gp120
+TSSDVGGYNY
+>seq_44 7ugn|envelope_glycoprotein_gp120
+TSSDVGGYNY
+>seq_45 8erq|spike_glycoprotein
+TSSDVGNYNY
+>seq_46 7tjq|fusion_glycoprotein_f0
+SSSNIGAGYD
+>seq_47 7xxl|spike_protein_s1
+TSSDIGAYNY
+>seq_48 7wcd|spike_glycoprotein
+TSSDVGSYNL
+>seq_49 7wp0|spike_protein_s1
+SSSNIGAGYD
+>seq_50 8dcc|spike_protein_s1
+TSSDVGGYNY
+>seq_51 7tz5|hemagglutinin
+SSSNIGAGYD
+>seq_52 6xcn|spike_glycoprotein
+TSSDVGGYKY
+>seq_53 5dup|hemagglutinin
+SSSNIGAGYD
+>seq_54 7lq7|spike_protein_s1
+TSSDVGGYNY
+>seq_55 7ra8|spike_glycoprotein
+SNSNIGAGYD
+>seq_56 6pzw|neuraminidase
+TSSDVGGYNY
+>seq_57 7r8m|spike_glycoprotein
+SSSNIGAGYD
+>seq_58 3whe|hemagglutinin
+SSSNIGAGYA
+>seq_59 7ps0|surface_glycoprotein
+TSIDVGNYNL
+>seq_60 6um7|envelope_glycoprotein_gp120
+TSYDVGTYNL
+>seq_61 7nd7|spike_glycoprotein
+TSSDVGGYNY
+>seq_62 6lxj|neuraminidase
+ASSDVGDYNY
+>seq_63 6xkq|spike_protein_s1
+TSSDLGAYHF
+>seq_64 7k8w|spike_glycoprotein
+TSSDVGGYKY
+>seq_65 8dce|spike_protein_s1
+TSSDVGGYNY
+>seq_66 5w4l|clade_a/e_93th057_hiv-1_gp120_core
+TSSDVGSYNF
+>seq_67 7l56|spike_glycoprotein
+TSSDVGGYNY
+>seq_68 6iut|hemagglutinin
+TSSDVGDYNY
+>seq_69 7lxz|spike_glycoprotein
+TSSDVGGYNY
+>seq_70 7tcc|spike_glycoprotein
+SSGSVSTAYF
+>seq_71 7cho|spike_protein_s1
+SSSNIGAGYD
+>seq_72 5dur|hemagglutinin
+GSSNIGAGYS
+>seq_73 7czp|spike_glycoprotein
+TSSDVGGYNY
+>seq_74 7wee|spike_glycoprotein
+TSSDVGGSNY
+>seq_75 7mmo|spike_protein_s1
+TSSDVGDYNY
+>seq_76 7m6h|spike_glycoprotein
+SSSNIGAGYD
+>seq_77 7wro|spike_protein_s1
+SSSNIGAGYE
+>seq_78 7jmp|spike_protein_s1
+TSSDVGSYNL
+>seq_79 6xkp|spike_protein_s1
+TSSDVGGYNY
+>seq_80 7lcn|spike_glycoprotein
+TSSDVGGYNY
+>seq_81 7m6f|spike_glycoprotein
+SSSNIGAGYY
+>seq_82 7dx4|spike_protein_s1
+SSSNIGAGYD
+>seq_83 7l2c|spike_glycoprotein
+TSSDVGGYNY
+>seq_84 7z0x|surface_glycoprotein
+TSSDVGSYNL
+>seq_85 5t3z|envelope_glycoprotein_gp160
+SSRDVGGFDL
+>seq_86 7l5b|spike_protein_s1
+TSSDVGGYNF
+>seq_87 7pqz|spike_protein_s1
+SSSNIGAGYD
+>seq_88 6ii9|hemagglutinin
+SSSNIGAGFD
+>seq_89 7wi0|spike_protein_s1
+SSSNIGSGYD
+>seq_90 7e7x|spike_protein_s1
+TSSDVGSYNY
+>seq_91 7fcp|spike_protein_s1
+TSSDVGGYNF
+>seq_92 7e7y|spike_protein_s1
+TSSDVGSYNL
+>seq_93 7r6w|spike_protein_s1
+SSSNIGAGYD
+>seq_94 7czw|spike_glycoprotein
+TSSDVGGYNY
+>seq_95 7u2e|spike_protein_s1
+SSSNIGAGYD
+>seq_96 6nb3|spike_glycoprotein
+TSSDVGTYDL
+>seq_97 7wph|spike_protein_s1
+TSSDVGGYNY
+>seq_98 7czt|spike_glycoprotein
+PSDINVSSYN
+>seq_99 7lss|spike_glycoprotein
+TSSDVGAYNY
+>seq_100 7z0y|spike_protein_s1
+TSSDVGAYNY
+>seq_101 7laa|spike_glycoprotein
+SSSNIGAGYD
+>seq_102 7l2d|spike_glycoprotein
+TSSDVGGYNY
+>seq_103 7r8n|spike_glycoprotein
+TSSDVGGYNY
+>seq_104 7k8x|spike_glycoprotein
+TSSDVGSYNL
+>seq_105 7swp|spike_protein_s1
+SSSNIGVGYD
+>seq_106 7mf1|spike_protein_s1
+TSSDVGGYKF
+>seq_107 7n4j|spike_protein_s1
+SSSNIGAGYD
+>seq_108 7ps6|spike_protein_s1
+TSSDVGSYNL
+>seq_109 7m42|spike_protein_s1
+SSSNIGAGYD
+>seq_110 7m42|spike_protein_s1
+TSSDVGTYNY
