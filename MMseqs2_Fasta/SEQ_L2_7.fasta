@@ -1,0 +1,1554 @@
+>seq_1 8veb|hemagglutinin
+SASRLQS
+>seq_2 8ved|hemagglutinin
+KVSNRDS
+>seq_3 8vef|hemagglutinin
+AASSLQS
+>seq_4 8vpf|spike_glycoprotein
+EVSKRPS
+>seq_5 9dpc|neuraminidase
+AASTLQS
+>seq_6 9l6c|spike_protein_s1
+GASSRAT
+>seq_7 9l6c|spike_protein_s1
+AASSLQS
+>seq_8 9l6c|spike_protein_s1
+GASSRAT
+>seq_9 9azr|hemagglutinin_ha1_chain
+DDSDRPS
+>seq_10 9azt|hemagglutinin_ha1_chain
+EDSDRPS
+>seq_11 9cci|spike_glycoprotein
+NPSTLES
+>seq_12 9bj2|spike_glycoprotein
+NQNQRPS
+>seq_13 9bj3|spike_glycoprotein
+GASSRVT
+>seq_14 8xsd|spike_glycoprotein
+GASSRAT
+>seq_15 8y3h|envelope_protein
+RNNRRPS
+>seq_16 8y3i|envelope_protein
+DVTSRPS
+>seq_17 8z4e|neuraminidase
+DVSKRPS
+>seq_18 8z4e|neuraminidase
+AASLLQS
+>seq_19 8z6s|spike_glycoprotein,fibritin,expression_tag
+DVSKRPS
+>seq_20 8z6u|spike_glycoprotein,fibritin,expression_tag
+EVNKRPS
+>seq_21 9aru|spike_glycoprotein
+QVSNRDS
+>seq_22 9avo|histone_chaperone_asf1
+SASSLYS
+>seq_23 9dq3|cytotoxic_t-lymphocyte_protein_4
+GAFSRAT
+>seq_24 9dq5|cytotoxic_t-lymphocyte_protein_4
+KVSNRFS
+>seq_25 8zr4|neuraminidase
+WGSNRAS
+>seq_26 9l1s|receptor_tyrosine-protein_kinase_erbb-2
+SASYRYT
+>seq_27 8ume|hemagglutinin
+WASTRES
+>seq_28 8v5q|envelope_glycoprotein_e
+GASSLQN
+>seq_29 9dwe|hemagglutinin
+SNDQRPS
+>seq_30 8uzc|hemagglutinin
+DTSNRAT
+>seq_31 9c44|spike_glycoprotein
+DASNMET
+>seq_32 8wyj|spike_glycoprotein
+DASHLET
+>seq_33 8wyj|spike_glycoprotein
+GASSRAT
+>seq_34 9bdf|hemagglutinin
+AASSSLP
+>seq_35 9bdg|hemagglutinin
+GASSLQL
+>seq_36 8us0|hemagglutinin
+LGSNRAS
+>seq_37 8s6m|spike_protein_s1
+DVDQRPS
+>seq_38 9au2|spike_glycoprotein
+DVDQRPS
+>seq_39 8wpw|spike_protein_s1
+AASSLQS
+>seq_40 8k18|spike_protein_s1
+GAFNLET
+>seq_41 8v5l|envelope_glycoprotein_e
+ATSSLQS
+>seq_42 8v5s|envelope_glycoprotein_e
+AASTLQS
+>seq_43 8wfh|spike_protein_s1
+DVIERPS
+>seq_44 8vym|envelope_glycoprotein_b
+KNNQRPS
+>seq_45 8vuj|glutamate_receptor_ionotropic,_nmda_1
+EDNQRPS
+>seq_46 8vus|glutamate_receptor_ionotropic,_nmda_1
+GASTRAT
+>seq_47 8y4a|spike_glycoprotein
+GASTRAT
+>seq_48 8tzy|envelope_glycoprotein_e2
+DASIRAT
+>seq_49 8y4c|spike_glycoprotein
+GNSNRPS
+>seq_50 8zhe|spike_glycoprotein,fibritin,expression_tag
+EDNQRPS
+>seq_51 8zho|spike_glycoprotein
+GNSNRPS
+>seq_52 8zho|spike_glycoprotein
+EDNQRPS
+>seq_53 8kdr|spike_glycoprotein
+AASTLHS
+>seq_54 8keo|spike_glycoprotein
+GAYNRAT
+>seq_55 8sdh|spike_protein_s1
+YPSDRPS
+>seq_56 8qkr|reticulocyte-binding_protein-like_protein_5
+DASTLQS
+>seq_57 8yww|spike_glycoprotein
+DASNRAT
+>seq_58 8yww|spike_glycoprotein
+DASNLET
+>seq_59 8ywx|spike_protein_s2'
+DASNLET
+>seq_60 8tgv|envelope_glycoprotein_e2
+QDSKRPS
+>seq_61 8thz|envelope_glycoprotein_e2
+AASSLSS
+>seq_62 8q5y|spike_glycoprotein
+AASRLQS
+>seq_63 8xse|spike_protein_s1
+AAGNLET
+>seq_64 8xse|spike_protein_s1
+AASSLQS
+>seq_65 8xsf|spike_protein_s1
+AASSLQS
+>seq_66 8xsj|spike_protein_s1
+DASNLET
+>seq_67 8vui|erythropoietin_receptor
+SASSLYS
+>seq_68 8ghk|hemagglutinin
+YTSKLHS
+>seq_69 8c0y|spike_protein_s2'
+GASSRAS
+>seq_70 8qh0|spike_protein_s1
+GASSRAT
+>seq_71 8rgz|envelope_glycoprotein_b
+KVSNRFS
+>seq_72 8rh0|envelope_glycoprotein_b
+YDSDRPS
+>seq_73 8rp8|leukocyte_surface_antigen_cd47
+AASSLQS
+>seq_74 8rpb|programmed_cell_death_1_ligand_1
+FASLRPS
+>seq_75 8xbf|spike_glycoprotein
+KTSSLES
+>seq_76 8jiz|glutamate_receptor_ionotropic,_nmda_1
+LASDLQT
+>seq_77 8yz5|spike_glycoprotein
+DASNLET
+>seq_78 8hlc|spike_glycoprotein
+AASSLLS
+>seq_79 8hld|spike_glycoprotein
+QDTHRPS
+>seq_80 8jmm|spike_glycoprotein
+DASNRAT
+>seq_81 8jmm|spike_glycoprotein
+SNNQRPS
+>seq_82 8pwu|reticulocyte-binding_protein_homolog_5
+DASNLET
+>seq_83 8pwv|reticulocyte-binding_protein_homolog_5
+EVSSRFS
+>seq_84 8pww|reticulocyte-binding_protein_homolog_5
+DVSNLET
+>seq_85 8pwx|reticulocyte-binding_protein_homolog_5
+AASSLQS
+>seq_86 8r9w|spike_protein
+DASTRTT
+>seq_87 8r9y|spike_protein
+DTSTRAT
+>seq_88 8r9y|spike_protein
+TASTLQS
+>seq_89 8x0y|spike_protein_s1
+AASTLES
+>seq_90 8yro|spike_glycoprotein
+NNNQRPS
+>seq_91 9fgr|spike_glycoprotein
+GGSTRAA
+>seq_92 9fgs|spike_glycoprotein,fibritin
+GASNRAA
+>seq_93 9fgt|spike_glycoprotein,fibritin
+GASSRAT
+>seq_94 8jio|spike_glycoprotein
+AASTLQS
+>seq_95 8swh|spike_glycoprotein
+KISNRFS
+>seq_96 8suo|spike_protein_s1
+WASTRES
+>seq_97 8suo|spike_protein_s1
+EVSKRPS
+>seq_98 8tnl|hemagglutinin
+LGLNRAF
+>seq_99 8toa|hemagglutinin
+LGFNRAS
+>seq_100 8zby|spike_glycoprotein
+KNDQRPS
+>seq_101 8qrf|spike_protein_s1
+GASSRAT
+>seq_102 8qrf|spike_protein_s1
+EVGNRPS
+>seq_103 8r8k|spike_glycoprotein
+AASSLQS
+>seq_104 8yx1|tumor_necrosis_factor_receptor_superfamily_member_5
+DASNLES
+>seq_105 8yx9|tumor_necrosis_factor_receptor_superfamily_member_5
+TVSNRFS
+>seq_106 8tqk|fusion_glycoprotein_f0
+KASTLQS
+>seq_107 8xea|spike_glycoprotein
+GASTRAS
+>seq_108 8xi6|spike_glycoprotein
+YDRGRPS
+>seq_109 8f2x|spike_protein_s1
+DASNLET
+>seq_110 8khc|spike_glycoprotein
+GKNNRPS
+>seq_111 8qzr|spike_protein_s1
+NASNRAT
+>seq_112 8u1c|neuraminidase
+GASSRAT
+>seq_113 8u1q|neuraminidase
+DASSLES
+>seq_114 8u1s|neuraminidase
+KASNLES
+>seq_115 8vye|spike_glycoprotein
+QDNKRPS
+>seq_116 8w0v|envelope_glycoprotein_e2
+GASSRAP
+>seq_117 8w0w|envelope_glycoprotein_e2
+GASTRAT
+>seq_118 8w0x|envelope_glycoprotein_e2
+KASSLES
+>seq_119 8w0y|envelope_glycoprotein_e2
+AASSLQD
+>seq_120 8gdr|spike_glycoprotein
+EVSNRPS
+>seq_121 8oz3|tumor_necrosis_factor_receptor_superfamily_member_9
+GASSLQS
+>seq_122 8r1c|spike_glycoprotein,fibritin
+EVSKWPS
+>seq_123 8r1d|spike_glycoprotein,fibritin
+QDTMRPS
+>seq_124 8sdg|spike_protein_s1
+KASILQS
+>seq_125 8siq|spike_protein_s1
+GNSNRPS
+>seq_126 8sis|spike_protein_s1
+GASSRAT
+>seq_127 8sit|spike_protein_s1
+DDSDRPS
+>seq_128 8gav|neuraminidase
+DVSKRPS
+>seq_129 8jel|t-cell_immunoreceptor_with_ig_and_itim_domains
+WASARHT
+>seq_130 8cin|spike_glycoprotein
+EVTKRPS
+>seq_131 8ekd|spike_protein_s2'
+WASERES
+>seq_132 8pwh|receptor_tyrosine-protein_kinase_erbb-2
+SASFLYS
+>seq_133 8pwh|receptor_tyrosine-protein_kinase_erbb-2
+SASYRYT
+>seq_134 8cbd|spike_protein_s1
+TASTLES
+>seq_135 8cbd|spike_protein_s1
+AASSLQS
+>seq_136 8cbe|spike_protein_s1
+EASNRAT
+>seq_137 8sxj|envelope_glycoprotein_gp160
+DASTRAA
+>seq_138 8hp9|spike_protein_s2'
+GASSRAT
+>seq_139 8qpr|spike_glycoprotein,fibritin
+EVTKRPS
+>seq_140 8qq0|spike_glycoprotein,fibritin
+EVTKRPS
+>seq_141 8tma|spike_glycoprotein
+DASSLES
+>seq_142 8kfa|envelope_glycoprotein_b
+AAYRLQS
+>seq_143 7y3n|spike_protein_s1
+VASSLQS
+>seq_144 8k5g|spike_protein_s1
+GASSRAT
+>seq_145 8hrd|spike_protein_s1
+GNSNRPS
+>seq_146 7ycy|spike_glycoprotein
+DVSKRPS
+>seq_147 8f2j|spike_protein_s1
+QDSKRPS
+>seq_148 8hws|spike_protein_s2'
+AASTLQS
+>seq_149 8j1t|spike_protein
+AASTLQS
+>seq_150 8t9z|fusion_glycoprotein_f0
+DAVSLES
+>seq_151 8bg1|spike_protein_s1
+LNSNRAS
+>seq_152 8bg2|spike_protein_s1
+GASSRAT
+>seq_153 8bg3|spike_protein_s1
+EVSKRPS
+>seq_154 8bg4|spike_protein_s1
+AASTLQS
+>seq_155 8bg8|spike_glycoprotein
+GASSRAT
+>seq_156 8ez7|neuraminidase
+GASSRAA
+>seq_157 8ez8|neuraminidase
+SNDQRPS
+>seq_158 8hes|spike_protein_s1
+DVSRRPS
+>seq_159 8bec|spike_protein_s1
+GASSRAT
+>seq_160 8pq2|spike_protein_s2'
+HASHLET
+>seq_161 8hgl|spike_glycoprotein
+GTSSRAT
+>seq_162 8eqf|spike_protein_s1
+AASSLQS
+>seq_163 8tp2|hemagglutinin
+GASTRAT
+>seq_164 8tp6|hemagglutinin
+TVTNFQS
+>seq_165 8tp7|hemagglutinin
+DVSHRPS
+>seq_166 8tp9|hemagglutinin
+AASTLQS
+>seq_167 7ukl|spike_glycoprotein
+QDNKRPS
+>seq_168 7ukm|spike_glycoprotein
+EVSNRFS
+>seq_169 8gy5|programmed_cell_death_protein_1
+AASSLHG
+>seq_170 8i3u|spike_glycoprotein
+GASTRAT
+>seq_171 8gye|tumor_necrosis_factor_receptor_superfamily_member_9
+YTSTLHS
+>seq_172 8szy|t-cell_immunoreceptor_with_ig_and_itim_domains
+EISNRFS
+>seq_173 8f0i|spike_protein_s1
+DASSLQS
+>seq_174 8gsb|spike_protein_s1
+GASSRAT
+>seq_175 8gpy|spike_protein_s1
+DVTDRPS
+>seq_176 8gnh|spike_glycoprotein
+DASNRAT
+>seq_177 8h7l|spike_glycoprotein
+EATTLVP
+>seq_178 8gf2|spike_protein_s1
+GASSRAT
+>seq_179 8gf2|spike_protein_s1
+WASTPES
+>seq_180 7yrn|envelope_glycoprotein_b
+TTSTLQS
+>seq_181 8e2u|fusion_glycoprotein_f0
+GDRNRPS
+>seq_182 8eay|fusion_glycoprotein_f0
+QDNRRPS
+>seq_183 8ezk|25_kda_ookinete_surface_antigen
+RNDQRPS
+>seq_184 8e6j|neuraminidase
+VASSLQS
+>seq_185 8e6k|neuraminidase
+ATSTLQR
+>seq_186 7tri|hemagglutinin
+DAISRAS
+>seq_187 8dyw|circumsporozoite_protein
+QASTLYR
+>seq_188 8dyy|circumsporozoite_protein
+EASSLES
+>seq_189 8dz3|circumsporozoite_protein
+GASTRAT
+>seq_190 8dz4|circumsporozoite_protein
+GASTRAT
+>seq_191 5xj3|cytotoxic_t-lymphocyte_protein_4
+GAFSRAT
+>seq_192 5xj4|programmed_cell_death_1_ligand_1
+DASSRAT
+>seq_193 7yds|programmed_cell_death_1_ligand_1
+WTSFLAS
+>seq_194 7yh6|spike_protein_s1
+DNNNRPS
+>seq_195 8el2|spike_protein_s1
+DVSNRPS
+>seq_196 8gto|spike_glycoprotein
+RNNERPS
+>seq_197 8cim|spike_glycoprotein,fibritin
+GASSLHS
+>seq_198 8e1g|spike_protein_s1
+DASNLET
+>seq_199 7ytn|spike_protein_s1
+DDSDRPS
+>seq_200 7yve|spike_glycoprotein
+SNDQRPS
+>seq_201 7yvg|spike_glycoprotein
+GASTRAT
+>seq_202 7yvi|spike_glycoprotein
+DVSNRPS
+>seq_203 7yvk|spike_glycoprotein
+EVSKRPS
+>seq_204 7y6l|spike_glycoprotein
+KASSLES
+>seq_205 8j1q|spike_protein_s1
+DVSKRPS
+>seq_206 8eoo|spike_protein_s1
+EDNQRPS
+>seq_207 8eoo|spike_protein_s1
+KVSKRDS
+>seq_208 7wt7|spike_glycoprotein
+DASNLET
+>seq_209 7vzt|spike_protein_s1
+EDNQRPS
+>seq_210 7xjf|leukocyte_surface_antigen_cd47
+YTSRLHS
+>seq_211 8dww|e2_glycoprotein
+AASSLQS
+>seq_212 8dwx|e2_glycoprotein
+AASSLQS
+>seq_213 8dwy|e2_glycoprotein
+DTNNRRS
+>seq_214 8g30|neuraminidase
+GASTRAT
+>seq_215 8g3m|neuraminidase
+DASTRAT
+>seq_216 8g3q|neuraminidase
+GASTRAT
+>seq_217 8h07|spike_glycoprotein
+AASNLQS
+>seq_218 7xsc|spike_protein_s1
+DASKLEA
+>seq_219 8cwi|spike_protein_s1
+AASTLLS
+>seq_220 8cwj|spike_glycoprotein
+WASTRES
+>seq_221 8cwj|spike_glycoprotein
+YASNLQS
+>seq_222 8cwk|spike_protein_s1
+SASSLQS
+>seq_223 8dnn|spike_protein_s1
+WASTRES
+>seq_224 7st5|tyrosine-protein_phosphatase_non-receptor_type_substrate_1
+AASNLQS
+>seq_225 8bse|spike_glycoprotein
+DTSNLQP
+>seq_226 8bsf|spike_protein_s1
+ENNQRPS
+>seq_227 8csj|spike_glycoprotein
+DNSNRPS
+>seq_228 8hn6|spike_protein_s1
+AASTLQS
+>seq_229 8hn7|spike_protein_s1
+DASKRAT
+>seq_230 7xsa|spike_protein_s1
+DVTKRPS
+>seq_231 7xsb|spike_protein_s1
+EDNQRPS
+>seq_232 8a96|spike_protein_s1
+GASSRAT
+>seq_233 8dy1|interleukin-17a
+ANNQRPS
+>seq_234 8f0h|spike_glycoprotein
+YDSDRPS
+>seq_235 7xs8|spike_protein_s1
+AASTLQG
+>seq_236 7uow|spike_glycoprotein
+GASTLQS
+>seq_237 7wn2|spike_protein_s1
+AASTLQS
+>seq_238 7wnb|spike_protein_s1
+AASTLQS
+>seq_239 7xj6|spike_glycoprotein
+KASSLES
+>seq_240 7xj6|spike_glycoprotein
+GASSRAT
+>seq_241 8sar|ch848.10.17_gp120
+EVNKRPS
+>seq_242 8sas|ch848.10.17_gp120
+EVKKWPS
+>seq_243 8sau|ch848.10.17_gp120
+EVNKWPS
+>seq_244 8sax|ch848.10.17.sosip_gp120
+EVSKRPS
+>seq_245 8say|ch848.10.17_gp120
+EVNKWAS
+>seq_246 8saz|envelope_glycoprotein_gp160
+EVSKRPS
+>seq_247 8sb0|ch848.10.17.sosip_gp120
+EVSKWPS
+>seq_248 8sb1|ch848.10.17_gp120
+EVNKRPS
+>seq_249 8sb2|ch848.10.17.sosip_gp120
+EVNKRPS
+>seq_250 8sb3|ch848.10.17_gp120
+EVSQWPS
+>seq_251 8sb4|ch848.10.17_gp120
+EVNKRPS
+>seq_252 8sb5|ch848.10.17.sosip_gp120
+EVNKWPS
+>seq_253 7x95|spike_glycoprotein
+RNTLRPS
+>seq_254 8bbn|spike_protein_s1
+AASSLQS
+>seq_255 8bbo|spike_glycoprotein
+DASSLHS
+>seq_256 8bcz|spike_protein_s1
+DASNLET
+>seq_257 8bcz|spike_protein_s1
+DASNLET
+>seq_258 7xdl|spike_glycoprotein
+GASSRAP
+>seq_259 7xdl|spike_glycoprotein
+KASSLES
+>seq_260 7x08|spike_glycoprotein
+EVSKRPS
+>seq_261 7ru8|spike_glycoprotein
+AASSLQS
+>seq_262 7s5q|spike_protein_s1
+GASSRAT
+>seq_263 7s5q|spike_protein_s1
+DASNLET
+>seq_264 7e9o|spike_glycoprotein
+LGSNRAS
+>seq_265 7ru4|spike_glycoprotein
+GASSRAT
+>seq_266 7v5k|spike_glycoprotein
+AASSLQS
+>seq_267 7wsl|programmed_cell_death_protein_1
+WASTLHT
+>seq_268 7s5p|spike_protein_s1
+DDSDRPS
+>seq_269 7s5r|spike_protein_s1
+GASSRAT
+>seq_270 7ul0|spike_protein_s1
+EGTKRPS
+>seq_271 7ul1|spike_protein_s1
+GASSRAT
+>seq_272 7u0x|spike_glycoprotein
+EDNQRPS
+>seq_273 7wsc|spike_protein_s1
+LGSNRAS
+>seq_274 7xcz|spike_glycoprotein
+AASSLQS
+>seq_275 8dg8|fusion_glycoprotein_f0
+GKNNRPS
+>seq_276 8dg9|fusion_glycoprotein_f0
+DNNNRPS
+>seq_277 7u9e|gametocyte_surface_protein_p230
+KASTLES
+>seq_278 7u9e|gametocyte_surface_protein_p230
+LKNQRPS
+>seq_279 7u9w|gametocyte_surface_protein_p230
+GASSLES
+>seq_280 7ua2|gametocyte_surface_protein_p230
+DASNRAT
+>seq_281 7ua8|gametocyte_surface_protein_p230
+AASSLQS
+>seq_282 7ubs|gametocyte_surface_protein_p230
+WASTRES
+>seq_283 7uc8|gametocyte_surface_protein_p230
+GASSRAT
+>seq_284 7ucq|gametocyte_surface_protein_p230
+DASNRAT
+>seq_285 7ui1|gametocyte_surface_protein_p230
+HVSKRDT
+>seq_286 7uvh|gametocyte_surface_protein_p230
+DASNRAP
+>seq_287 7uvi|gametocyte_surface_protein_p230
+GASTRAT
+>seq_288 7uvo|gametocyte_surface_protein_p230
+DVTKRPS
+>seq_289 7uvq|gametocyte_surface_protein_p230
+LTSNLAS
+>seq_290 7uvq|gametocyte_surface_protein_p230
+DASNRAT
+>seq_291 7uvs|gametocyte_surface_protein_p230
+WASTRES
+>seq_292 7z2m|interleukin-17a
+DASNRAT
+>seq_293 8f6e|cadmium_and_zinc_efflux_pump_fief
+SASSLYS
+>seq_294 7wr9|spike_protein_s1
+KDSERPP
+>seq_295 7yck|spike_protein_s1
+EDNQRPS
+>seq_296 7ycl|spike_protein_s1
+DASNLET
+>seq_297 7ycn|spike_protein_s1
+EDNQRPS
+>seq_298 7yxu|tumor_necrosis_factor_receptor_superfamily_member_9
+AASSLQS
+>seq_299 7wn8|leukocyte_surface_antigen_cd47
+WASTRES
+>seq_300 7wqv|spike_protein_s1
+GNSNRPS
+>seq_301 8d48|spike_glycoprotein
+WASARES
+>seq_302 8dm3|spike_glycoprotein
+KISNRFS
+>seq_303 8hc2|spike_glycoprotein
+AASTLQS
+>seq_304 7wh8|spike_glycoprotein
+DASNRAT
+>seq_305 7x25|spike_glycoprotein
+GASSRAT
+>seq_306 8dxt|spike_protein_s1
+DASSLES
+>seq_307 8dv6|envelope_protein_e
+DVNSRPS
+>seq_308 7wch|surface_glycoprotein
+AASSRAT
+>seq_309 7wcp|surface_glycoprotein
+GASTRAT
+>seq_310 7ykj|spike_glycoprotein
+GASSRAT
+>seq_311 7t72|spike_protein_s1
+DASNLET
+>seq_312 7wtf|spike_glycoprotein
+AASSLQS
+>seq_313 7x8w|spike_glycoprotein
+EVSKRPS
+>seq_314 7x8y|spike_glycoprotein
+AASSLQG
+>seq_315 7x90|spike_glycoprotein
+AASSLQS
+>seq_316 7x91|spike_glycoprotein
+DASNLET
+>seq_317 7x92|spike_glycoprotein
+DASNLET
+>seq_318 8dw9|spike_protein_s1
+GASTRAT
+>seq_319 8dwa|spike_protein_s1
+AASTLQS
+>seq_320 8dxs|spike_glycoprotein
+SASTLQS
+>seq_321 7wos|spike_glycoprotein
+EVSKRPS
+>seq_322 7u9o|spike_glycoprotein
+DASNRAT
+>seq_323 7u9p|spike_glycoprotein
+AASSLQS
+>seq_324 7xmz|spike_glycoprotein
+DDARRPS
+>seq_325 8as0|programmed_cell_death_protein_1
+AASSLQS
+>seq_326 7sj0|spike_glycoprotein
+DNNKRPS
+>seq_327 7s07|envelope_glycoprotein_h
+AASRLQS
+>seq_328 7s1b|envelope_glycoprotein_h
+GASSRAA
+>seq_329 7ugq|envelope_glycoprotein_gp120
+EVNRRPS
+>seq_330 8gpx|envelope_protein
+DTSTRAT
+>seq_331 7wb5|surface_glycoprotein
+YASQSIS
+>seq_332 8erq|spike_glycoprotein
+EVSNRPS
+>seq_333 7yr1|spike_glycoprotein
+AASSLQS
+>seq_334 7wrj|spike_protein_s1
+HNNHRPS
+>seq_335 7y0c|spike_protein_s1
+GASSRAT
+>seq_336 7y0v|spike_protein_s1
+TDNERPS
+>seq_337 7y0w|spike_protein_s1
+DASHLET
+>seq_338 7tjq|fusion_glycoprotein_f0
+EASSLER
+>seq_339 7tjq|fusion_glycoprotein_f0
+DNNNRPS
+>seq_340 7tl0|fusion_glycoprotein_f0
+DASDLET
+>seq_341 7wbz|spike_protein_s1
+GASTLQS
+>seq_342 8dad|spike_glycoprotein
+GASRRAT
+>seq_343 8dlr|spike_glycoprotein
+QDNKRPS
+>seq_344 8dlw|spike_glycoprotein
+GASSRAT
+>seq_345 8dzh|spike_glycoprotein
+GASSRAT
+>seq_346 7v3l|spike_glycoprotein
+KASTLQS
+>seq_347 7zbu|spike_glycoprotein
+GTSSRAT
+>seq_348 7upl|spike_glycoprotein
+DASNLET
+>seq_349 7fjc|spike_protein_s1
+DASSLES
+>seq_350 7str|nucleoprotein
+GASSRAT
+>seq_351 7sts|nucleoprotein
+RNNQRPS
+>seq_352 7sue|nucleoprotein
+EVTNRPS
+>seq_353 7v23|spike_glycoprotein
+QDSKRPS
+>seq_354 8cw9|fusion_glycoprotein_f0
+KDSERPS
+>seq_355 7qtj|surface_glycoprotein
+TASTLQS
+>seq_356 7qtj|surface_glycoprotein
+GASSRAT
+>seq_357 7t7b|spike_protein_s1
+DASNLET
+>seq_358 7wjy|spike_glycoprotein
+DDSDRPS
+>seq_359 7wo4|spike_glycoprotein
+EDNQRPS
+>seq_360 7woa|spike_glycoprotein
+GAASRAT
+>seq_361 7wog|spike_protein_s1
+EDNQRPS
+>seq_362 7wp0|spike_protein_s1
+GNSNRPS
+>seq_363 8dcc|spike_protein_s1
+EVSKRPS
+>seq_364 7jmo|spike_protein_s1
+GASSRAT
+>seq_365 7orb|spike_protein_s1
+AVSSLQS
+>seq_366 7orb|spike_protein_s1
+GASSGAT
+>seq_367 5w08|hemagglutinin_ha1
+EGSRRPS
+>seq_368 7cwn|spike_glycoprotein
+AASSLQS
+>seq_369 7cwn|spike_glycoprotein
+YASQSIS
+>seq_370 4ypg|interferon_alpha-2
+GASSRAT
+>seq_371 2vxs|interleukin-17a
+ANNQRPS
+>seq_372 7mw6|spike_glycoprotein
+AASNVES
+>seq_373 6o2b|circumsporozoite_protein
+GASSRAT
+>seq_374 7t4r|envelope_glycoprotein_h
+AASTLQS
+>seq_375 7t4r|envelope_glycoprotein_h
+LASNRAS
+>seq_376 6xcn|spike_glycoprotein
+EVSKRPS
+>seq_377 7bel|spike_glycoprotein
+YDDLLPS
+>seq_378 7bej|spike_glycoprotein
+AASTLQS
+>seq_379 7s0x|circumsporozoite_protein
+DDAVRPS
+>seq_380 7te1|spike_protein_s1
+HGTNLED
+>seq_381 6pzw|neuraminidase
+DVSNRPS
+>seq_382 4qhu|interleukin-17a
+DDIDRPS
+>seq_383 7wwl|spike_glycoprotein
+DASNRAT
+>seq_384 6mfp|clade_a/e_93th057_hiv-1_gp120_core
+AATTLQS
+>seq_385 6nms|tyrosine-protein_phosphatase_non-receptor_type_substrate_1
+GASSRAT
+>seq_386 5lbs|envelope_protein_e
+DASTRAT
+>seq_387 7ws1|spike_glycoprotein
+GASSLQS
+>seq_388 7lue|fusion_glycoprotein_f0
+KVSNRDS
+>seq_389 6v4n|neuraminidase
+AASRLQS
+>seq_390 7eh5|spike_glycoprotein
+SASYRYS
+>seq_391 7eh5|spike_glycoprotein
+YASESIS
+>seq_392 7luc|fusion_glycoprotein_f0
+RISHRDS
+>seq_393 7f3q|spike_glycoprotein
+YDSDRPS
+>seq_394 7f3q|spike_glycoprotein
+AASSLQS
+>seq_395 7chh|spike_glycoprotein
+LGSNRAS
+>seq_396 5ibl|hemagglutinin
+AGSSRAT
+>seq_397 7cyv|spike_protein_s1
+KDSERPS
+>seq_398 7s6j|spike_glycoprotein
+DASNRAT
+>seq_399 7mw3|spike_glycoprotein
+GSSNQGS
+>seq_400 4kxz|transforming_growth_factor_beta-2
+GASSRAP
+>seq_401 7pnq|spike_glycoprotein
+GASTRAT
+>seq_402 4ut6|envelope_glycoprotein_e
+EASKRPS
+>seq_403 6wir|interleukin-17a
+GASSRAT
+>seq_404 3whe|hemagglutinin
+GNSNRPS
+>seq_405 7mzk|spike_protein_s1
+WASTRES
+>seq_406 7mzk|spike_protein_s1
+ANDQRPS
+>seq_407 7czx|spike_glycoprotein
+WASTRES
+>seq_408 7vux|programmed_cell_death_protein_1
+YASQSIS
+>seq_409 6wo5|envelope_glycoprotein_e2
+KVSNRDS
+>seq_410 6wo5|envelope_glycoprotein_e2
+AASTLQS
+>seq_411 7ps0|surface_glycoprotein
+EGSRRPS
+>seq_412 7ly9|envelope_glycoprotein_gp120
+YDDDRPS
+>seq_413 7lex|arginase-1
+DASNRAT
+>seq_414 7nx7|spike_protein_s1
+GASTRAT
+>seq_415 6um7|envelope_glycoprotein_gp120
+EVSKRPS
+>seq_416 7ej4|spike_glycoprotein
+STSNLAS
+>seq_417 7dk2|spike_protein_s1
+AASTLES
+>seq_418 6wty|reticulocyte_binding_protein_2b
+EVTKRPS
+>seq_419 7nd7|spike_glycoprotein
+EVSKRPS
+>seq_420 7cws|spike_glycoprotein
+DNNKRPS
+>seq_421 4m5z|hemagglutinin_ha1_chain
+DDSDRPS
+>seq_422 7e8c|spike_glycoprotein
+LGSNRAS
+>seq_423 7ps2|surface_glycoprotein
+WASTRES
+>seq_424 7czu|spike_glycoprotein
+DASNLET
+>seq_425 7sc1|spike_glycoprotein
+AASTLQS
+>seq_426 7akd|spike_glycoprotein
+GASTRAP
+>seq_427 4z5r|interferon_alpha-2
+YASNLES
+>seq_428 7fjo|spike_glycoprotein
+WTSTRES
+>seq_429 7e5s|spike_glycoprotein
+AASNQGS
+>seq_430 7ejz|spike_protein_s1
+AASSLQS
+>seq_431 6lxj|neuraminidase
+DVSNRPS
+>seq_432 7dpm|spike_protein_s1
+AASSLQS
+>seq_433 4jhw|fusion_glycoprotein_f0
+VASNLET
+>seq_434 5y9j|tumor_necrosis_factor_ligand_superfamily_member_13b
+GKNNRPS
+>seq_435 4mwf|envelope_glycoprotein_e2
+GASTRAT
+>seq_436 7ley|arginase-1
+AASTLQS
+>seq_437 7si2|spike_protein_s1
+AASSLQS
+>seq_438 7k8s|spike_glycoprotein
+AASSLQS
+>seq_439 6xkq|spike_protein_s1
+GVRKRPS
+>seq_440 5ggv|cytotoxic_t-lymphocyte_protein_4
+AASSLQS
+>seq_441 7dzy|spike_glycoprotein
+GASTRAT
+>seq_442 6att|receptor_tyrosine-protein_kinase_erbb-2
+WASSRES
+>seq_443 6kyz|genome_polyprotein
+QDSKRPS
+>seq_444 7qf1|spike_protein_s1
+AASSLQS
+>seq_445 5k9o|hemagglutinin
+NVFTRDS
+>seq_446 7pnm|spike_glycoprotein
+LGSNRAS
+>seq_447 7shy|ige_fc
+AASYLES
+>seq_448 7dk0|spike_protein_s1
+GASTRAT
+>seq_449 6pe9|tumor_necrosis_factor_receptor_superfamily_member_5
+WASTRES
+>seq_450 7k8w|spike_glycoprotein
+DVSNRPS
+>seq_451 7pqy|spike_protein_s1
+DASNLET
+>seq_452 7lf2|arginase-1
+YASQSIS
+>seq_453 6cdi|glycoprotein_120
+KVSRRFS
+>seq_454 6aru|epidermal_growth_factor_receptor
+YADESID
+>seq_455 8dce|spike_protein_s1
+DVSNRPS
+>seq_456 7qnw|surface_glycoprotein
+KASSLES
+>seq_457 5n0a|envelope_glycoprotein_e
+EGTKRPS
+>seq_458 7x7o|spike_protein_s1
+GASSRAT
+>seq_459 7kn4|spike_protein_s1
+FDYRRPS
+>seq_460 7jva|sars-cov-2_spike_glycoprotein
+EDNQRPS
+>seq_461 5w4l|clade_a/e_93th057_hiv-1_gp120_core
+DVSSRAT
+>seq_462 5w4l|clade_a/e_93th057_hiv-1_gp120_core
+EVSERPS
+>seq_463 6phf|25_kda_ookinete_surface_antigen
+QDSKRPS
+>seq_464 7wwm|spike_glycoprotein
+DTFNRAT
+>seq_465 7l56|spike_glycoprotein
+DVSKRPS
+>seq_466 6iut|hemagglutinin
+DVNKRPS
+>seq_467 7tcc|spike_glycoprotein
+GTNTRSS
+>seq_468 7tcc|spike_glycoprotein
+GASSRAT
+>seq_469 7ls9|spike_glycoprotein
+GASSRAT
+>seq_470 7kfv|surface_glycoprotein
+AASTLQS
+>seq_471 4yjz|hemagglutinin
+YNNQRPS
+>seq_472 7kqh|hemagglutinin
+DASNLQT
+>seq_473 7m6e|spike_glycoprotein
+RNNQRPS
+>seq_474 7d0d|spike_glycoprotein
+WASTRES
+>seq_475 7r40|spike_glycoprotein
+DASNRAT
+>seq_476 6ii8|hemagglutinin
+EDNQRPS
+>seq_477 7si0|ige_fc
+AASYLES
+>seq_478 6v4o|neuraminidase
+GASSRAT
+>seq_479 7nd5|spike_glycoprotein
+AASTLQS
+>seq_480 7cho|spike_protein_s1
+GNSNRPS
+>seq_481 7m6d|spike_protein_s1
+GASSRAT
+>seq_482 7kml|spike_glycoprotein
+SASDLYS
+>seq_483 5ggs|programmed_cell_death_protein_1
+LASYLES
+>seq_484 5xwd|epidermal_growth_factor_receptor
+YDSDRPS
+>seq_485 7kfw|surface_glycoprotein
+AASTLQS
+>seq_486 3b2u|epidermal_growth_factor_receptor
+DASNRAT
+>seq_487 4dag|fusion_glycoprotein_f0
+QDSERPS
+>seq_488 6wn1|reticulocyte_binding_protein_2b
+YDSDRPS
+>seq_489 7tb8|spike_glycoprotein
+DASSLQS
+>seq_490 7rbu|spike_protein_s1
+AASSLQS
+>seq_491 7neg|surface_glycoprotein
+AASTLQS
+>seq_492 7m6i|spike_glycoprotein
+GASSRAT
+>seq_493 5tz2|leukocyte_surface_antigen_cd47
+WASTRAI
+>seq_494 6e4x|hemagglutinin
+AASNLQS
+>seq_495 6xpz|hemagglutinin
+DASYLQG
+>seq_496 7mem|hemagglutinin_ha1_chain
+DASNLEA
+>seq_497 5ugy|hemagglutinin_ha1
+YDSDRPS
+>seq_498 7cgw|programmed_cell_death_protein_1
+YAFHRFT
+>seq_499 7czp|spike_glycoprotein
+DVSKRPS
+>seq_500 6vn1|envelope_glycoprotein_b
+KASILEN
+>seq_501 6pe8|tumor_necrosis_factor_receptor_superfamily_member_5
+WASTRES
+>seq_502 5ggt|programmed_cell_death_1_ligand_1
+DASNRAT
+>seq_503 7cdj|spike_protein_s1
+AASTLQS
+>seq_504 7wee|spike_glycoprotein
+EVTNRPS
+>seq_505 7r8l|spike_protein_s1
+GASRRAT
+>seq_506 7mmo|spike_protein_s1
+EVSDRPS
+>seq_507 5iwl|leukocyte_surface_antigen_cd47
+KVSNRFS
+>seq_508 4yk4|hemagglutinin
+AASSLQS
+>seq_509 7m6h|spike_glycoprotein
+GNSNRPS
+>seq_510 6oe4|fusion_glycoprotein_f0
+GASNLET
+>seq_511 7jv4|sars-cov-2_spike_glycoprotein
+DTSNKHS
+>seq_512 6pzz|neuraminidase
+AASSLQS
+>seq_513 6urm|hemagglutinin
+TDINRPS
+>seq_514 7po5|spike_glycoprotein
+GASTRAT
+>seq_515 7bq5|envelope_protein
+GASTLQS
+>seq_516 6xq0|hemagglutinin
+GASNRAT
+>seq_517 7mzj|spike_protein_s1
+AASSLQS
+>seq_518 7m6g|spike_glycoprotein
+GASSRAT
+>seq_519 5w1k|pre-glycoprotein_polyprotein_gp_complex
+GASGRAT
+>seq_520 7beo|spike_glycoprotein
+GASSRAT
+>seq_521 6mg7|clade_a/e_93th057_hiv-1_gp120_core
+AASSLLS
+>seq_522 3p0y|epidermal_growth_factor_receptor
+SASFLYS
+>seq_523 7q9f|surface_glycoprotein
+GASSRAT
+>seq_524 5tzt|leukocyte_surface_antigen_cd47
+KVSNRFS
+>seq_525 7czs|spike_glycoprotein
+AASTLQS
+>seq_526 5udc|fusion_glycoprotein_f0
+VASNLET
+>seq_527 7jmp|spike_protein_s1
+EVTKRPS
+>seq_528 5ggr|programmed_cell_death_protein_1
+DASNRAT
+>seq_529 7mzh|spike_protein_s1
+YDDLLPA
+>seq_530 6xpy|hemagglutinin
+AVSNLQS
+>seq_531 6xkp|spike_protein_s1
+EVSNRPS
+>seq_532 7uar|spike_glycoprotein
+SDDQRPS
+>seq_533 5gzo|genome_polyprotein
+AASSLQS
+>seq_534 6pzy|neuraminidase
+SNNQRPS
+>seq_535 6iw2|envelope_protein_e
+KASSLES
+>seq_536 7su0|cytotoxic_t-lymphocyte_protein_4
+GAFSRAT
+>seq_537 5anm|ig_epsilon_chain_c_region
+DNFNRPS
+>seq_538 7czy|spike_glycoprotein
+WASTRES
+>seq_539 7r7n|spike_glycoprotein
+AASSLQS
+>seq_540 7lcn|spike_glycoprotein
+EVSKRPS
+>seq_541 7lxw|spike_glycoprotein
+DDSDRPS
+>seq_542 6u02|neuraminidase
+AASSLQG
+>seq_543 5f9w|clade_a/e_93th057_hiv-1_gp120_core
+GTSTRAT
+>seq_544 7qez|spike_protein_s1
+SASSRAT
+>seq_545 7m6f|spike_glycoprotein
+GNSNRPS
+>seq_546 6wtv|reticulocyte_binding_protein_2b
+YDNDRPS
+>seq_547 7dx4|spike_protein_s1
+GNSNRPS
+>seq_548 7l2c|spike_glycoprotein
+EVSKRPS
+>seq_549 7e86|spike_protein_s1
+AASSLQT
+>seq_550 7l7e|spike_protein_s1
+GASSRAT
+>seq_551 6q1z|neuraminidase
+AASLLQS
+>seq_552 7ljr|spike_glycoprotein
+GASSRAT
+>seq_553 4y5x|erythropoietin_receptor
+YDNLLPS
+>seq_554 7tat|spike_glycoprotein
+SNNQRPS
+>seq_555 7q0i|spike_protein_s1
+YNSDRPS
+>seq_556 6wm9|reticulocyte_binding_protein_2b
+DVTERPS
+>seq_557 7jx3|spike_glycoprotein
+EDNQRPS
+>seq_558 3wsq|receptor_tyrosine-protein_kinase_erbb-2
+TAPQGPS
+>seq_559 7cm4|spike_glycoprotein
+DNNKRPS
+>seq_560 7n3i|spike_protein_s1
+GASSRAT
+>seq_561 6kz0|genome_polyprotein
+AASTLQS
+>seq_562 7ey5|spike_glycoprotein
+GASTLQS
+>seq_563 7pry|surface_glycoprotein
+DASDRAT
+>seq_564 5sx4|epidermal_growth_factor_receptor
+DASNLET
+>seq_565 7ttx|spike_glycoprotein
+EDNQRPS
+>seq_566 6uyg|envelope_glycoprotein_e2
+GASNRAT
+>seq_567 7ll1|envelope_glycoprotein_gp120
+AASSRSI
+>seq_568 7q9j|spike_glycoprotein
+DDSDRPS
+>seq_569 6o25|circumsporozoite_protein
+GASSRAT
+>seq_570 6woz|reticulocyte_binding_protein_2b
+DVSNRAT
+>seq_571 7lsf|envelope_protein_e
+GASTRAT
+>seq_572 7kzb|spike_glycoprotein
+AASALQS
+>seq_573 7kzb|spike_glycoprotein
+DSSYLQS
+>seq_574 7k8v|spike_glycoprotein
+QASSLES
+>seq_575 7z0x|surface_glycoprotein
+EVSKRPS
+>seq_576 6jjp|programmed_cell_death_protein_1
+WASTRHT
+>seq_577 4y5v|erythropoietin_receptor
+DVSRRPS
+>seq_578 7k8z|spike_glycoprotein
+EASSLES
+>seq_579 7n5h|spike_glycoprotein
+GASSRAT
+>seq_580 7m7b|spike_glycoprotein
+EDNQRPS
+>seq_581 5grj|programmed_cell_death_1_ligand_1
+DVSNRPS
+>seq_582 5t3z|envelope_glycoprotein_gp160
+EVNKRPS
+>seq_583 7zrc|spike_glycoprotein,fibritin
+DASNLES
+>seq_584 5x8l|programmed_cell_death_1_ligand_1
+SASFLYS
+>seq_585 7l5b|spike_protein_s1
+DVSKRPS
+>seq_586 6xq2|hemagglutinin
+DAFSLES
+>seq_587 7l2f|spike_glycoprotein
+GASSRAT
+>seq_588 6mlm|hemagglutinin_ha1_chain
+DASSLQS
+>seq_589 7wkx|interleukin-17a
+KVSNHLS
+>seq_590 6bft|vascular_endothelial_growth_factor_a
+FTDDLHS
+>seq_591 7s4s|spike_protein_s1
+GATSRAT
+>seq_592 7ly3|spike_protein_s1
+KDSERPS
+>seq_593 7kqg|hemagglutinin
+DASNLET
+>seq_594 6nmu|tyrosine-protein_phosphatase_non-receptor_type_substrate_1
+DATNRAT
+>seq_595 7bu8|genome_polyprotein
+DASNLKT
+>seq_596 6u0n|envelope_glycoprotein_gp120
+ENNERPS
+>seq_597 7bep|spike_glycoprotein
+AASTLQS
+>seq_598 7kde|envelope_glycoprotein_gp120
+DNDKRPS
+>seq_599 7q0h|spike_protein_s1
+AASTLQS
+>seq_600 6ii9|hemagglutinin
+GNSFRPS
+>seq_601 2qad|envelope_glycoprotein_gp160
+KASSLKS
+>seq_602 7wi0|spike_protein_s1
+ETSSLES
+>seq_603 7wi0|spike_protein_s1
+AASSLQS
+>seq_604 7wi0|spike_protein_s1
+GNSNRPS
+>seq_605 2fjh|vascular_endothelial_growth_factor_a
+AASNLAS
+>seq_606 5vn8|envelope_glycoprotein_gp160
+GVSNRAS
+>seq_607 7tht|spike_glycoprotein
+AASSLQS
+>seq_608 6wtu|reticulocyte_binding_protein_2b
+YDNDRPS
+>seq_609 7e9b|programmed_cell_death_protein_1
+WASTRHT
+>seq_610 6pze|neuraminidase
+DNNKRPS
+>seq_611 6mi2|tumor_necrosis_factor_receptor_superfamily_member_9
+QDKNRPS
+>seq_612 2fjg|vascular_endothelial_growth_factor_a
+SASFLYS
+>seq_613 7msq|spike_protein_s1
+AASTLQS
+>seq_614 7k9z|spike_glycoprotein
+AASSLES
+>seq_615 7k9z|spike_glycoprotein
+WASTRES
+>seq_616 7chc|spike_glycoprotein
+GASSRAT
+>seq_617 7e7x|spike_protein_s1
+DVTKRPS
+>seq_618 7kqb|spike_glycoprotein
+AASSLQS
+>seq_619 7rw2|spike_glycoprotein
+AASTLQS
+>seq_620 7fcp|spike_protein_s1
+EVSDRPS
+>seq_621 7fcp|spike_protein_s1
+DASNLET
+>seq_622 7rdw|glycoprotein_120
+GASSRAT
+>seq_623 7vyr|spike_protein_s1
+DDSDRPS
+>seq_624 5vkd|nucleoprotein
+SASSLYS
+>seq_625 7ps7|surface_glycoprotein
+KDSERPS
+>seq_626 7s0c|spike_glycoprotein
+DASNLET
+>seq_627 7coe|spike_glycoprotein
+DASSRAT
+>seq_628 5uea|histone_chaperone_asf1
+SASSLYS
+>seq_629 7e7y|spike_protein_s1
+EVTKRPS
+>seq_630 6xq4|hemagglutinin
+WASTRES
+>seq_631 7ps5|surface_glycoprotein
+GASSRAT
+>seq_632 3wlw|receptor_tyrosine-protein_kinase_erbb-2
+DVSKRPS
+>seq_633 7v2a|spike_glycoprotein
+DNNKRPS
+>seq_634 7or9|spike_protein_s1
+AASSLQS
+>seq_635 7kfy|surface_glycoprotein
+AASTLEN
+>seq_636 7bnv|surface_glycoprotein
+GASTRAT
+>seq_637 5xhv|hemagglutinin
+WSSYLYS
+>seq_638 7rxj|circumsporozoite_protein
+QDSKRPS
+>seq_639 6oc3|hemagglutinin
+AASNLQS
+>seq_640 7xic|spike_glycoprotein
+DASTRAT
+>seq_641 7qny|surface_glycoprotein
+DDSDRPS
+>seq_642 7e88|spike_protein_s1
+DASHLET
+>seq_643 7lrt|sars-cov-2_spike_glycoprotein
+SASSRAT
+>seq_644 7e3k|spike_glycoprotein
+GASSRAT
+>seq_645 5a3i|hemagglutinin
+LGSNRAS
+>seq_646 7np1|spike_protein_s1
+AASSLQS
+>seq_647 7prz|surface_glycoprotein
+WASTRES
+>seq_648 6xey|sars-cov-2_spike_glycoprotein
+EVSKRPS
+>seq_649 7shz|ige_fc
+AASYLES
+>seq_650 7czw|spike_glycoprotein
+DVSNRPS
+>seq_651 7klg|spike_glycoprotein
+SASDLYS
+>seq_652 7m3i|spike_protein_s1
+DDSDRPS
+>seq_653 5tzu|leukocyte_surface_antigen_cd47
+FASQSIS
+>seq_654 4zff|vascular_endothelial_growth_factor_a
+GASSLYS
+>seq_655 7cjf|spike_glycoprotein
+AASSLQS
+>seq_656 7cu5|programmed_cell_death_protein_1
+TATSLAD
+>seq_657 6b0g|25_kda_ookinete_surface_antigen
+KVSNRDS
+>seq_658 7vyt|t-cell_immunoreceptor_with_ig_and_itim_domains
+GASSRAT
+>seq_659 4ydi|envelope_glycoprotein_gp160
+HASAREE
+>seq_660 5te6|clade_a/e_93th057_hiv-1_gp120_core
+HTSSVED
+>seq_661 7mzf|spike_protein_s1
+KASSLES
+>seq_662 6utk|envelope_glycoprotein_gp120
+AASARAA
+>seq_663 7rxi|circumsporozoite_protein
+DDKIRPS
+>seq_664 7wph|spike_protein_s1
+DVSNRPS
+>seq_665 7rxl|circumsporozoite_protein
+QDTKRPS
+>seq_666 6iuv|hemagglutinin
+LGSHRAS
+>seq_667 7k8m|surface_glycoprotein
+GASSRAT
+>seq_668 7bz5|spike_protein_s1
+AASTLQS
+>seq_669 7zr9|spike_glycoprotein,fibritin
+GASSRAT
+>seq_670 7r6x|spike_protein_s1
+GASSRAT
+>seq_671 7ezv|spike_glycoprotein
+GASSRAT
+>seq_672 7ezv|spike_glycoprotein
+AASTLQS
+>seq_673 7e39|spike_protein_s1
+AASSLLS
+>seq_674 7lop|spike_protein_s1
+DASNRAT
+>seq_675 7chs|spike_protein_s1
+AASTLQS
+>seq_676 4xak|spike_glycoprotein
+AASSLQS
+>seq_677 6pdx|hemagglutinin
+DNNKRPS
+>seq_678 7ur4|fusion_glycoprotein_f0
+GENIRPS
+>seq_679 7kdd|envelope_glycoprotein_b
+DNNKRPS
+>seq_680 7ey0|spike_glycoprotein
+YDSDRPS
+>seq_681 7ey0|spike_glycoprotein
+AASSLHS
+>seq_682 7kmh|spike_protein_s1
+DASNLET
+>seq_683 4xnm|hemagglutinin
+QDTKRPS
+>seq_684 6fax|tumor_necrosis_factor_receptor_superfamily_member_5
+YTSSLHS
+>seq_685 6dfh|envelope_glycoprotein_gp160
+KDSERPS
+>seq_686 7s0d|spike_glycoprotein
+DASNLET
+>seq_687 6q20|neuraminidase
+AASLLQS
+>seq_688 7lss|spike_glycoprotein
+DVSKRPS
+>seq_689 5uek|histone_chaperone_asf1
+SASSLYS
+>seq_690 7kmg|spike_protein_s1
+AASSLQS
+>seq_691 6phc|25_kda_ookinete_surface_antigen
+LGSNRAS
+>seq_692 7mzn|spike_protein_s1
+DASILET
+>seq_693 6xpx|hemagglutinin
+WASTRES
+>seq_694 7djz|spike_protein_s1
+GASTRAT
+>seq_695 6uig|hemagglutinin
+AASSLHS
+>seq_696 7lab|spike_glycoprotein
+GASSRAT
+>seq_697 7deo|spike_protein_s1
+LGSNRAS
+>seq_698 7ps1|surface_glycoprotein
+GTSSRAT
+>seq_699 7laa|spike_glycoprotein
+GNNNRPS
+>seq_700 7s0b|spike_protein_s1
+DASNLET
+>seq_701 6phb|25_kda_ookinete_surface_antigen
+DASNLET
+>seq_702 3hi1|glycoprotein_120
+GASSRAT
+>seq_703 7e5y|spike_protein_s1
+NDRLRPS
+>seq_704 7phu|reticulocyte-binding_protein_homolog_5
+YDSDRPS
+>seq_705 7phu|reticulocyte-binding_protein_homolog_5
+KASSLES
+>seq_706 6xkr|programmed_cell_death_protein_1
+WTSYRES
+>seq_707 7l2d|spike_glycoprotein
+DVSKRPS
+>seq_708 7f15|spike_protein_s1
+SASSRYS
+>seq_709 4dvr|envelope_glycoprotein_gp160
+AASTLQS
+>seq_710 7ps4|surface_glycoprotein
+SNNQRPS
+>seq_711 7eya|spike_glycoprotein
+AAFTLQS
+>seq_712 7kfx|surface_glycoprotein
+AASTLES
+>seq_713 7d0c|spike_glycoprotein
+GASSRAT
+>seq_714 7mzm|spike_protein_s1
+GASSRAT
+>seq_715 6xy2|cytotoxic_t-lymphocyte_protein_4
+AATNLQD
+>seq_716 7b3o|surface_glycoprotein
+AASTLQS
+>seq_717 7r8n|spike_glycoprotein
+DVTNRPS
+>seq_718 7vmu|spike_protein_s1
+AASTLQS
+>seq_719 7n4l|spike_protein_s1
+AASTLQS
+>seq_720 5f9o|clade_a/e_93th057_hiv-1_gp120_core
+GASTRAT
+>seq_721 7bpk|envelope_protein
+DSNKRPS
+>seq_722 7rxp|circumsporozoite_protein
+LGSDRAS
+>seq_723 7nd3|spike_glycoprotein
+DASNLET
+>seq_724 5kjr|clade_a/e_93th057_hiv-1_gp120_core
+EVSNRPS
+>seq_725 5ug0|hemagglutinin_ha1
+ETSRRAT
+>seq_726 6b0e|25_kda_ookinete_surface_antigen
+KVSNRDS
+>seq_727 4ot1|envelope_glycoprotein_b
+DNNKRPS
+>seq_728 5n7w|interleukin-17a
+YTSRLHS
+>seq_729 6b0s|circumsporozoite_protein
+QDTKRPS
+>seq_730 6ii4|hemagglutinin
+EYNQRPS
+>seq_731 7qf0|spike_protein_s1
+GASTLQS
+>seq_732 7eng|spike_glycoprotein
+WASTRES
+>seq_733 3u2s|envelope_glycoprotein_gp120
+DVSKRPS
+>seq_734 7rr0|spike_protein_s1
+GASSRAT
+>seq_735 4jb9|clade_a/e_93th057_hiv-1_gp120_core
+DTSRRAS
+>seq_736 7e3o|spike_protein_s1
+SNNQRPS
+>seq_737 7t01|spike_protein_s1
+AASRLQS
+>seq_738 4fqj|hemagglutinin
+RSYQRPS
+>seq_739 6e56|hemagglutinin
+GASTRAT
+>seq_740 7zfd|spike_protein_s1
+DASSLQS
+>seq_741 7k8x|spike_glycoprotein
+EGSKRPS
+>seq_742 4y5y|erythropoietin_receptor
+EVARRPS
+>seq_743 6wqo|reticulocyte_binding_protein_2b
+DASTLES
+>seq_744 7kn3|spike_protein_s1
+WASTRES
+>seq_745 6oej|clade_a/e_93th057_hiv-1_gp120_core
+LGSNRAS
+>seq_746 7czq|spike_glycoprotein
+DASNLET
+>seq_747 7e5o|spike_protein_s1
+AASSLQS
+>seq_748 5vag|hemagglutinin
+AASSLQS
+>seq_749 6wo4|envelope_glycoprotein_e2
+GASRRAT
+>seq_750 6xe1|spike_protein_s1
+GASSRAT
+>seq_751 4uv7|epidermal_growth_factor_receptor
+KVSNRFS
+>seq_752 4hfu|hemagglutinin_ha1
+GASTRAT
+>seq_753 7kmi|spike_protein_s1
+AASSLQS
+>seq_754 7n3c|nucleoprotein
+DASNRAS
+>seq_755 7swp|spike_protein_s1
+GNSNRPS
+>seq_756 7mf1|spike_protein_s1
+DVSNRPS
+>seq_757 7dzx|spike_glycoprotein
+AASSLQS
+>seq_758 2ghw|spike_glycoprotein
+DASTRAT
+>seq_759 7e23|spike_protein_s1
+DASNRAT
+>seq_760 2dd8|spike_glycoprotein
+DDSDRPS
+>seq_761 6meh|e2_glycoprotein
+KASSLET
+>seq_762 7ps6|spike_protein_s1
+AGSKRPS
+>seq_763 6bgt|receptor_tyrosine-protein_kinase_erbb-2
+SADFLYS
+>seq_764 5eii|histone_chaperone_asf1
+SASSLYS
+>seq_765 6c6z|spike_protein
+LGSNRAS
+>seq_766 4al8|envelope_protein
+LASNRHT
+>seq_767 4j6r|envelope_glycoprotein_gp160
+GASTRAS
+>seq_768 5w42|hemagglutinin
+GSSSRAT
+>seq_769 7mzl|spike_protein_s1
+NASKRAT
+>seq_770 7n4i|spike_protein_s1
+AASSLQS
+>seq_771 7m42|spike_protein_s1
+DVSNRPS
+>seq_772 7byr|sars-cov-2_spike_glycoprotein
+KASSLES
+>seq_773 5o4g|receptor_tyrosine-protein_kinase_erbb-2
+AASSLQS
+>seq_774 7ntc|spike_glycoprotein
+DASNLET
+>seq_775 6ofi|clade_a/e_93th057_hiv-1_gp120_core
+GASTRAT
+>seq_776 7n62|spike_glycoprotein
+GASSRAT
+>seq_777 7n3d|nucleoprotein
+AASSLQS
