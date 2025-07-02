@@ -1,0 +1,1400 @@
+>seq_1 8ved|hemagglutinin
+GASVSSY
+>seq_2 8vpf|spike_glycoprotein
+GGTFNYH
+>seq_3 9dpc|neuraminidase
+GDTFSSY
+>seq_4 9l6c|spike_protein_s1
+GFTFSSY
+>seq_5 9l6c|spike_protein_s1
+GFTFSSY
+>seq_6 9l6c|spike_protein_s1
+GITVSSN
+>seq_7 9azr|hemagglutinin_ha1_chain
+GYTFTGY
+>seq_8 9azt|hemagglutinin_ha1_chain
+GYTFTDN
+>seq_9 9cci|spike_glycoprotein
+GYSFSSF
+>seq_10 9bj2|spike_glycoprotein
+GVIFSRN
+>seq_11 9bj3|spike_glycoprotein
+GGTFINY
+>seq_12 8xsd|spike_glycoprotein
+GITVSAN
+>seq_13 8y3h|envelope_protein
+GGTFNNY
+>seq_14 8y3i|envelope_protein
+GYTFTSY
+>seq_15 8z4e|neuraminidase
+GGTFSSY
+>seq_16 8z4e|neuraminidase
+GFKFDDY
+>seq_17 8z6s|spike_glycoprotein,fibritin,expression_tag
+GYTFSYY
+>seq_18 8z6u|spike_glycoprotein,fibritin,expression_tag
+GYTFSYY
+>seq_19 9aru|spike_glycoprotein
+GFTFSSY
+>seq_20 9avo|histone_chaperone_asf1
+GFNVSYY
+>seq_21 9dq3|cytotoxic_t-lymphocyte_protein_4
+GFTFSKY
+>seq_22 9dq5|cytotoxic_t-lymphocyte_protein_4
+GYTFTDY
+>seq_23 8zr4|neuraminidase
+GFTLETY
+>seq_24 9l1s|receptor_tyrosine-protein_kinase_erbb-2
+GFTFSAY
+>seq_25 8ume|hemagglutinin
+GFTFSSY
+>seq_26 9dwe|hemagglutinin
+GGTSNNY
+>seq_27 8uzc|hemagglutinin
+GFTFSSY
+>seq_28 9c44|spike_glycoprotein
+GFTFNSY
+>seq_29 8wyj|spike_glycoprotein
+GGTFRSH
+>seq_30 8wyj|spike_glycoprotein
+GYPFTSY
+>seq_31 9bdg|hemagglutinin
+GFTFHNY
+>seq_32 8us0|hemagglutinin
+GYRLTAL
+>seq_33 8s6m|spike_protein_s1
+GITFSSF
+>seq_34 9au2|spike_glycoprotein
+GITFSSF
+>seq_35 8wpw|spike_protein_s1
+EFIVSYN
+>seq_36 8k18|spike_protein_s1
+GFIVSRN
+>seq_37 8v5l|envelope_glycoprotein_e
+GYVFNEY
+>seq_38 8v5s|envelope_glycoprotein_e
+GGSISRY
+>seq_39 8wfh|spike_protein_s1
+GFTFDDY
+>seq_40 8vym|envelope_glycoprotein_b
+GYTFTDY
+>seq_41 8vus|glutamate_receptor_ionotropic,_nmda_1
+GYSFTTF
+>seq_42 8y4a|spike_glycoprotein
+GFPFIIY
+>seq_43 8tzy|envelope_glycoprotein_e2
+GGSFGTY
+>seq_44 8zhe|spike_glycoprotein,fibritin,expression_tag
+GFTFSSY
+>seq_45 8zho|spike_glycoprotein
+GGTFSSY
+>seq_46 8kdr|spike_glycoprotein
+GFTFRNY
+>seq_47 8keo|spike_glycoprotein
+VFSFDTS
+>seq_48 8sdh|spike_protein_s1
+GYTFTRH
+>seq_49 8qkr|reticulocyte-binding_protein-like_protein_5
+GYTFTDY
+>seq_50 8yww|spike_glycoprotein
+GLKFDDF
+>seq_51 8yww|spike_glycoprotein
+GFIVSRN
+>seq_52 8ywx|spike_protein_s2'
+GLKFDDF
+>seq_53 8tgv|envelope_glycoprotein_e2
+GGTHSNY
+>seq_54 8thz|envelope_glycoprotein_e2
+GGTFNNY
+>seq_55 8q5y|spike_glycoprotein
+GFTFSNY
+>seq_56 8xse|spike_protein_s1
+GFTFSSY
+>seq_57 8xse|spike_protein_s1
+GFTFSSY
+>seq_58 8xsf|spike_protein_s1
+GFTFSRY
+>seq_59 8xsj|spike_protein_s1
+GFTFSNY
+>seq_60 8vui|erythropoietin_receptor
+GFNLRSY
+>seq_61 8ghk|hemagglutinin
+GFTFNTF
+>seq_62 8c0y|spike_protein_s2'
+EFIVSAN
+>seq_63 8qh0|spike_protein_s1
+GITVTSN
+>seq_64 8rh0|envelope_glycoprotein_b
+GHTFRTF
+>seq_65 8rp8|leukocyte_surface_antigen_cd47
+GFTFSSY
+>seq_66 8rpb|programmed_cell_death_1_ligand_1
+GFTFSSY
+>seq_67 8xbf|spike_glycoprotein
+GIIVSRN
+>seq_68 8jiz|glutamate_receptor_ionotropic,_nmda_1
+GFTLSDY
+>seq_69 8yz5|spike_glycoprotein
+GVTVTSN
+>seq_70 8hlc|spike_glycoprotein
+GFTFSDY
+>seq_71 8hld|spike_glycoprotein
+GYTFSRY
+>seq_72 8jmm|spike_glycoprotein
+GFTFGDY
+>seq_73 8jmm|spike_glycoprotein
+GFRFDDH
+>seq_74 8pwu|reticulocyte-binding_protein_homolog_5
+GGSISTY
+>seq_75 8pwv|reticulocyte-binding_protein_homolog_5
+GGTFSSY
+>seq_76 8pww|reticulocyte-binding_protein_homolog_5
+GGPISSY
+>seq_77 8pwx|reticulocyte-binding_protein_homolog_5
+GFAFSSY
+>seq_78 8r9w|spike_protein
+GFTFSSY
+>seq_79 8r9y|spike_protein
+GGTFSSL
+>seq_80 8r9y|spike_protein
+GFTFSSY
+>seq_81 8yro|spike_glycoprotein
+GYSFTSH
+>seq_82 9fgr|spike_glycoprotein
+GFTVSAN
+>seq_83 9fgs|spike_glycoprotein,fibritin
+GLTVSAN
+>seq_84 9fgt|spike_glycoprotein,fibritin
+GFTVSAN
+>seq_85 8jio|spike_glycoprotein
+GGSISSY
+>seq_86 8swh|spike_glycoprotein
+GYTLTEL
+>seq_87 8suo|spike_protein_s1
+GFTFRDV
+>seq_88 8suo|spike_protein_s1
+GFPFDDY
+>seq_89 8tnl|hemagglutinin
+GGSINSY
+>seq_90 8toa|hemagglutinin
+GVSINSY
+>seq_91 8zby|spike_glycoprotein
+GYIFSDY
+>seq_92 8qrf|spike_protein_s1
+GGTFSSS
+>seq_93 8qrf|spike_protein_s1
+GFTFDDY
+>seq_94 8r8k|spike_glycoprotein
+GFSFTNA
+>seq_95 8yx9|tumor_necrosis_factor_receptor_superfamily_member_5
+GYSFTGY
+>seq_96 8tqk|fusion_glycoprotein_f0
+GFTFSKY
+>seq_97 8xea|spike_glycoprotein
+GFTVSRN
+>seq_98 8xi6|spike_glycoprotein
+GFSFSGY
+>seq_99 8f2x|spike_protein_s1
+GFTFSSY
+>seq_100 8khc|spike_glycoprotein
+GFSFSDA
+>seq_101 8qzr|spike_protein_s1
+GDTFINS
+>seq_102 8u1c|neuraminidase
+GYTFPIY
+>seq_103 8w0v|envelope_glycoprotein_e2
+GYTFISN
+>seq_104 8w0w|envelope_glycoprotein_e2
+GYTYIST
+>seq_105 8w0x|envelope_glycoprotein_e2
+GGSFSGY
+>seq_106 8w0y|envelope_glycoprotein_e2
+GDAFSGN
+>seq_107 8oz3|tumor_necrosis_factor_receptor_superfamily_member_9
+GFNFGYS
+>seq_108 8r1d|spike_glycoprotein,fibritin
+GVTFSSY
+>seq_109 8sdg|spike_protein_s1
+GFTLSDS
+>seq_110 8siq|spike_protein_s1
+GFTFSSR
+>seq_111 8sis|spike_protein_s1
+GYTFTRY
+>seq_112 8sit|spike_protein_s1
+GFTFSPY
+>seq_113 8gav|neuraminidase
+GFTFSDY
+>seq_114 8jel|t-cell_immunoreceptor_with_ig_and_itim_domains
+GFTFSDY
+>seq_115 8cin|spike_glycoprotein
+GGSIDNF
+>seq_116 8ekd|spike_protein_s2'
+GFTFRDV
+>seq_117 8pwh|receptor_tyrosine-protein_kinase_erbb-2
+GFNIKDT
+>seq_118 8pwh|receptor_tyrosine-protein_kinase_erbb-2
+GFTFTDY
+>seq_119 8cbd|spike_protein_s1
+AFTFSSY
+>seq_120 8cbe|spike_protein_s1
+GFTLRSF
+>seq_121 8sxj|envelope_glycoprotein_gp160
+GYTFNDY
+>seq_122 8qpr|spike_glycoprotein,fibritin
+GYTFTGY
+>seq_123 8qq0|spike_glycoprotein,fibritin
+GYTFTDH
+>seq_124 8kfa|envelope_glycoprotein_b
+GFSFSGS
+>seq_125 7y3n|spike_protein_s1
+GFTFDDY
+>seq_126 8k5g|spike_protein_s1
+GFRFSIS
+>seq_127 8hrd|spike_protein_s1
+GYNFSRY
+>seq_128 8f2j|spike_protein_s1
+GFIFSSY
+>seq_129 8hws|spike_protein_s2'
+GIIVSSN
+>seq_130 8j1t|spike_protein
+GLTVSSN
+>seq_131 8t9z|fusion_glycoprotein_f0
+GFTFTTY
+>seq_132 8bg1|spike_protein_s1
+GFTFDDY
+>seq_133 8bg2|spike_protein_s1
+GFIVSRN
+>seq_134 8bg3|spike_protein_s1
+EITVSDN
+>seq_135 8bg4|spike_protein_s1
+GVTVSRN
+>seq_136 8bg8|spike_glycoprotein
+GFTFSSA
+>seq_137 8ez7|neuraminidase
+GFDFSSF
+>seq_138 8ez8|neuraminidase
+GDSIRNS
+>seq_139 8hes|spike_protein_s1
+GFTFYSY
+>seq_140 8bec|spike_protein_s1
+GLIVSRN
+>seq_141 8pq2|spike_protein_s2'
+DESFSDY
+>seq_142 8hgl|spike_glycoprotein
+GFTFYYS
+>seq_143 8eqf|spike_protein_s1
+GFTFSSY
+>seq_144 8tp2|hemagglutinin
+GGSLSTH
+>seq_145 7ukl|spike_glycoprotein
+GFTFSNY
+>seq_146 7ukm|spike_glycoprotein
+GFTFNTY
+>seq_147 8gy5|programmed_cell_death_protein_1
+GFTFSNF
+>seq_148 8i3u|spike_glycoprotein
+EFTIDDY
+>seq_149 8gye|tumor_necrosis_factor_receptor_superfamily_member_9
+GSSLTSY
+>seq_150 8szy|t-cell_immunoreceptor_with_ig_and_itim_domains
+GYSFTGY
+>seq_151 8f0i|spike_protein_s1
+GFTFSSY
+>seq_152 8gsb|spike_protein_s1
+GFTFTPS
+>seq_153 8gpy|spike_protein_s1
+GFTFNDY
+>seq_154 8gnh|spike_glycoprotein
+GGSFSDY
+>seq_155 8h7l|spike_glycoprotein
+EFTFSSF
+>seq_156 8gf2|spike_protein_s1
+GFTVSSN
+>seq_157 8gf2|spike_protein_s1
+GYGFIWY
+>seq_158 7yrn|envelope_glycoprotein_b
+GYTFTNY
+>seq_159 8e2u|fusion_glycoprotein_f0
+GFTFSSY
+>seq_160 8eay|fusion_glycoprotein_f0
+GGSISNY
+>seq_161 7tri|hemagglutinin
+GGSISNY
+>seq_162 8dyw|circumsporozoite_protein
+RLTFRNF
+>seq_163 8dyy|circumsporozoite_protein
+GFTFSNY
+>seq_164 8dz3|circumsporozoite_protein
+GFSFSTY
+>seq_165 8dz4|circumsporozoite_protein
+GFTFRNF
+>seq_166 5xj3|cytotoxic_t-lymphocyte_protein_4
+GFTFSSY
+>seq_167 5xj4|programmed_cell_death_1_ligand_1
+GFTFSRY
+>seq_168 7yds|programmed_cell_death_1_ligand_1
+GIDLSSY
+>seq_169 7yh6|spike_protein_s1
+GFKFSKF
+>seq_170 8el2|spike_protein_s1
+GYTFTGY
+>seq_171 8gto|spike_glycoprotein
+GDTFSSY
+>seq_172 8cim|spike_glycoprotein,fibritin
+GGSFSTS
+>seq_173 8e1g|spike_protein_s1
+EFIVSSN
+>seq_174 7ytn|spike_protein_s1
+GGTFGNW
+>seq_175 7yvg|spike_glycoprotein
+GITVSRN
+>seq_176 7yvi|spike_glycoprotein
+GFMISDS
+>seq_177 7y6l|spike_glycoprotein
+GYNFRNY
+>seq_178 8j1q|spike_protein_s1
+GFTFSNY
+>seq_179 8eoo|spike_protein_s1
+GFTFSSY
+>seq_180 7wt7|spike_glycoprotein
+GIIVSSN
+>seq_181 7vzt|spike_protein_s1
+GFTFSSY
+>seq_182 7xjf|leukocyte_surface_antigen_cd47
+GYKFTNY
+>seq_183 8dww|e2_glycoprotein
+GFTFSSY
+>seq_184 8dwy|e2_glycoprotein
+GYTFTEY
+>seq_185 8g30|neuraminidase
+EGTFNKY
+>seq_186 8g3m|neuraminidase
+GGSFNNQ
+>seq_187 8g3q|neuraminidase
+GGTFSNN
+>seq_188 8h07|spike_glycoprotein
+GFTFSTY
+>seq_189 7xsc|spike_protein_s1
+GFTVSSN
+>seq_190 8cwi|spike_protein_s1
+GFTFSSY
+>seq_191 8cwj|spike_glycoprotein
+GYGFITY
+>seq_192 8cwj|spike_glycoprotein
+GFRISDE
+>seq_193 8cwk|spike_protein_s1
+GFRFDYE
+>seq_194 8dnn|spike_protein_s1
+GGTFNRY
+>seq_195 7st5|tyrosine-protein_phosphatase_non-receptor_type_substrate_1
+GYTFRGY
+>seq_196 8bse|spike_glycoprotein
+GFTVSSN
+>seq_197 8bsf|spike_protein_s1
+GYSFANY
+>seq_198 8csj|spike_glycoprotein
+GYTFTSY
+>seq_199 8hn6|spike_protein_s1
+GLTVSSN
+>seq_200 8hn7|spike_protein_s1
+GFAFSTY
+>seq_201 7xsb|spike_protein_s1
+GLTFTGY
+>seq_202 8a96|spike_protein_s1
+GGTFNTY
+>seq_203 8dy1|interleukin-17a
+GFGFSSY
+>seq_204 8f0h|spike_glycoprotein
+GFTFDDY
+>seq_205 7xs8|spike_protein_s1
+GITVSSN
+>seq_206 7uow|spike_glycoprotein
+GITVSSN
+>seq_207 7wn2|spike_protein_s1
+GFTFSDY
+>seq_208 7wnb|spike_protein_s1
+GFIVSRN
+>seq_209 7xj6|spike_glycoprotein
+GGTFSSY
+>seq_210 7xj6|spike_glycoprotein
+GFTFSSS
+>seq_211 8sar|ch848.10.17_gp120
+GYTFTDF
+>seq_212 8sas|ch848.10.17_gp120
+GYTFTDF
+>seq_213 8sau|ch848.10.17_gp120
+GYGFTDF
+>seq_214 8sax|ch848.10.17.sosip_gp120
+GYTFTGY
+>seq_215 8say|ch848.10.17_gp120
+GYTLSDY
+>seq_216 8saz|envelope_glycoprotein_gp160
+GYTFTDY
+>seq_217 8sb0|ch848.10.17.sosip_gp120
+GYTFTDY
+>seq_218 8sb1|ch848.10.17_gp120
+GYTFTDY
+>seq_219 8sb2|ch848.10.17.sosip_gp120
+GYTFTDF
+>seq_220 8sb3|ch848.10.17_gp120
+GYTFTDY
+>seq_221 8sb4|ch848.10.17_gp120
+GYTFTDY
+>seq_222 8sb5|ch848.10.17.sosip_gp120
+GYTFTDF
+>seq_223 7x95|spike_glycoprotein
+GFTFSSY
+>seq_224 8bbn|spike_protein_s1
+GFTFEDY
+>seq_225 8bcz|spike_protein_s1
+GFTVTVN
+>seq_226 8bcz|spike_protein_s1
+GFTFSTY
+>seq_227 7xdl|spike_glycoprotein
+GESFSGY
+>seq_228 7x08|spike_glycoprotein
+GFSFISN
+>seq_229 7ru8|spike_glycoprotein
+GGTFSIY
+>seq_230 7s5q|spike_protein_s1
+GITFTSS
+>seq_231 7s5q|spike_protein_s1
+GYTFTSY
+>seq_232 7e9o|spike_glycoprotein
+GFTFDDY
+>seq_233 7ru4|spike_glycoprotein
+GGTFSSS
+>seq_234 7v5k|spike_glycoprotein
+GGTFSIY
+>seq_235 7wsl|programmed_cell_death_protein_1
+GFTFSSY
+>seq_236 7s5p|spike_protein_s1
+GFTVSSN
+>seq_237 7s5r|spike_protein_s1
+GFTFTSS
+>seq_238 7ul0|spike_protein_s1
+GYTFSSY
+>seq_239 7ul1|spike_protein_s1
+GITVSSN
+>seq_240 7u0x|spike_glycoprotein
+GFTFRSY
+>seq_241 7wsc|spike_protein_s1
+GFIFSRY
+>seq_242 7xcz|spike_glycoprotein
+GFTFSSY
+>seq_243 8dg8|fusion_glycoprotein_f0
+GFTFSSF
+>seq_244 8dg9|fusion_glycoprotein_f0
+GFPFSSY
+>seq_245 7u9e|gametocyte_surface_protein_p230
+GGTFNTY
+>seq_246 7u9e|gametocyte_surface_protein_p230
+GFPFTSY
+>seq_247 7u9w|gametocyte_surface_protein_p230
+GFNFISS
+>seq_248 7ua2|gametocyte_surface_protein_p230
+AFTFSSY
+>seq_249 7ua8|gametocyte_surface_protein_p230
+GYTFTEY
+>seq_250 7ubs|gametocyte_surface_protein_p230
+GYTFTSY
+>seq_251 7uc8|gametocyte_surface_protein_p230
+GASFSGY
+>seq_252 7ucq|gametocyte_surface_protein_p230
+GFTFSSF
+>seq_253 7ui1|gametocyte_surface_protein_p230
+GLIFNKY
+>seq_254 7uvh|gametocyte_surface_protein_p230
+GFAFSTY
+>seq_255 7uvi|gametocyte_surface_protein_p230
+GFTFNSY
+>seq_256 7uvo|gametocyte_surface_protein_p230
+GFNFEDY
+>seq_257 7uvq|gametocyte_surface_protein_p230
+GFTISSY
+>seq_258 7uvs|gametocyte_surface_protein_p230
+GGTFNSY
+>seq_259 7z2m|interleukin-17a
+GYSFTSY
+>seq_260 8f6e|cadmium_and_zinc_efflux_pump_fief
+GFTIYSS
+>seq_261 7wr9|spike_protein_s1
+GYRFISH
+>seq_262 7yck|spike_protein_s1
+GFTFSSY
+>seq_263 7ycl|spike_protein_s1
+GYSFTNY
+>seq_264 7ycn|spike_protein_s1
+GGSFSGY
+>seq_265 7yxu|tumor_necrosis_factor_receptor_superfamily_member_9
+GFTFSYG
+>seq_266 7wn8|leukocyte_surface_antigen_cd47
+GYTFTSY
+>seq_267 7wqv|spike_protein_s1
+GGTFSSY
+>seq_268 8d48|spike_glycoprotein
+GYTFTSF
+>seq_269 8dm3|spike_glycoprotein
+GYTLTEL
+>seq_270 8hc2|spike_glycoprotein
+GLTVSSN
+>seq_271 7wh8|spike_glycoprotein
+GGTFSNY
+>seq_272 7x25|spike_glycoprotein
+GGTFSSY
+>seq_273 8dxt|spike_protein_s1
+GFTFSSY
+>seq_274 8dv6|envelope_protein_e
+GFAFSNY
+>seq_275 7wch|surface_glycoprotein
+GFTFTNS
+>seq_276 7wcp|surface_glycoprotein
+EFIVSRN
+>seq_277 7ykj|spike_glycoprotein
+GFTFSNY
+>seq_278 7t72|spike_protein_s1
+GFTVSRN
+>seq_279 7wtf|spike_glycoprotein
+GGTFSNY
+>seq_280 7x8w|spike_glycoprotein
+GFLFTGY
+>seq_281 7x8y|spike_glycoprotein
+GFTFNNA
+>seq_282 7x90|spike_glycoprotein
+GFTFSHY
+>seq_283 7x91|spike_glycoprotein
+GFIFTNS
+>seq_284 7x92|spike_glycoprotein
+GFTFSNS
+>seq_285 8dw9|spike_protein_s1
+GDTFYTF
+>seq_286 8dwa|spike_protein_s1
+GGTFGDD
+>seq_287 8dxs|spike_glycoprotein
+GFNFDDY
+>seq_288 7wos|spike_glycoprotein
+GFTVSSN
+>seq_289 7u9o|spike_glycoprotein
+GDTFTGY
+>seq_290 7u9p|spike_glycoprotein
+GFSFNSY
+>seq_291 7xmz|spike_glycoprotein
+GFTFEDY
+>seq_292 8as0|programmed_cell_death_protein_1
+GFTFSSY
+>seq_293 7sj0|spike_glycoprotein
+GYTLTEL
+>seq_294 7s07|envelope_glycoprotein_h
+GFSLSDH
+>seq_295 7s1b|envelope_glycoprotein_h
+GGSLSGY
+>seq_296 7ugq|envelope_glycoprotein_gp120
+GYNFVDH
+>seq_297 8gpx|envelope_protein
+GYTFIAY
+>seq_298 7wb5|surface_glycoprotein
+GYTFTDY
+>seq_299 7yr1|spike_glycoprotein
+GLTVSSN
+>seq_300 7y0c|spike_protein_s1
+GGTFSTY
+>seq_301 7y0w|spike_protein_s1
+GGTFRSH
+>seq_302 7tjq|fusion_glycoprotein_f0
+GYTFNGY
+>seq_303 7tjq|fusion_glycoprotein_f0
+GFTFSSY
+>seq_304 7tl0|fusion_glycoprotein_f0
+GYTFTTY
+>seq_305 7wbz|spike_protein_s1
+GFTVRSN
+>seq_306 8dad|spike_glycoprotein
+QFTFSIS
+>seq_307 8dlr|spike_glycoprotein
+GGTFSSH
+>seq_308 8dlw|spike_glycoprotein
+GYTFTGY
+>seq_309 8dzh|spike_glycoprotein
+GFSFTSY
+>seq_310 7v3l|spike_glycoprotein
+GGTFSSY
+>seq_311 7zbu|spike_glycoprotein
+GFIFSSY
+>seq_312 7upl|spike_glycoprotein
+GYNFAYY
+>seq_313 7fjc|spike_protein_s1
+GYTFTTY
+>seq_314 7str|nucleoprotein
+GGSISSY
+>seq_315 7sts|nucleoprotein
+GGSISSY
+>seq_316 7sue|nucleoprotein
+GGTFSSC
+>seq_317 7v23|spike_glycoprotein
+EFTFSSY
+>seq_318 7qtj|surface_glycoprotein
+GFRFDDY
+>seq_319 7qtj|surface_glycoprotein
+GFTFTSS
+>seq_320 7t7b|spike_protein_s1
+GYTFSVF
+>seq_321 7wjy|spike_glycoprotein
+GFTFDDY
+>seq_322 7wo4|spike_glycoprotein
+GFTFSSY
+>seq_323 7woa|spike_glycoprotein
+GDTFINY
+>seq_324 7wog|spike_protein_s1
+GFTFSSY
+>seq_325 7wp0|spike_protein_s1
+GFTFSSI
+>seq_326 7jmo|spike_protein_s1
+GFTVSSN
+>seq_327 7orb|spike_protein_s1
+GFTFNNY
+>seq_328 7orb|spike_protein_s1
+GFTFTTS
+>seq_329 5w08|hemagglutinin_ha1
+GYTFTAY
+>seq_330 7cwn|spike_glycoprotein
+GFTFSSY
+>seq_331 7cwn|spike_glycoprotein
+GYSFSNY
+>seq_332 4ypg|interferon_alpha-2
+GYTFTSY
+>seq_333 2vxs|interleukin-17a
+GFTFSSY
+>seq_334 7mw6|spike_glycoprotein
+GYSFTGY
+>seq_335 6o2b|circumsporozoite_protein
+GFTFGDY
+>seq_336 7t4r|envelope_glycoprotein_h
+GYTFTNY
+>seq_337 7t4r|envelope_glycoprotein_h
+GFTFSPY
+>seq_338 6xcn|spike_glycoprotein
+GFTVSSN
+>seq_339 7bej|spike_glycoprotein
+GVTVSSN
+>seq_340 7s0x|circumsporozoite_protein
+GFSFSEY
+>seq_341 7te1|spike_protein_s1
+GYSFTDY
+>seq_342 6pzw|neuraminidase
+GFTFNNY
+>seq_343 4qhu|interleukin-17a
+GFTFSSY
+>seq_344 7wwl|spike_glycoprotein
+GFSFSNY
+>seq_345 6mfp|clade_a/e_93th057_hiv-1_gp120_core
+GYTFASY
+>seq_346 6nms|tyrosine-protein_phosphatase_non-receptor_type_substrate_1
+GFTFSSY
+>seq_347 5lbs|envelope_protein_e
+GFTFSTY
+>seq_348 7ws1|spike_glycoprotein
+GFTFDDY
+>seq_349 7lue|fusion_glycoprotein_f0
+GYRFSNY
+>seq_350 6v4n|neuraminidase
+GDSIGGS
+>seq_351 7eh5|spike_glycoprotein
+GYTFTEY
+>seq_352 7eh5|spike_glycoprotein
+DFSLTTY
+>seq_353 7luc|fusion_glycoprotein_f0
+GYTFNNY
+>seq_354 7f3q|spike_glycoprotein
+GFTFDES
+>seq_355 7f3q|spike_glycoprotein
+GFTFSSY
+>seq_356 7chh|spike_glycoprotein
+GFAFTTY
+>seq_357 5ibl|hemagglutinin
+GYSFSSY
+>seq_358 7cyv|spike_protein_s1
+GGTFSSY
+>seq_359 7s6j|spike_glycoprotein
+GGTFSSY
+>seq_360 7mw3|spike_glycoprotein
+GYTFTSY
+>seq_361 4kxz|transforming_growth_factor_beta-2
+GYTFSSN
+>seq_362 7pnq|spike_glycoprotein
+GGSFSGY
+>seq_363 4ut6|envelope_glycoprotein_e
+GFTFSSH
+>seq_364 6wir|interleukin-17a
+GFTFSNY
+>seq_365 3whe|hemagglutinin
+GYTLTSY
+>seq_366 7mzk|spike_protein_s1
+GYTFTSY
+>seq_367 7mzk|spike_protein_s1
+GFTFSRF
+>seq_368 7czx|spike_glycoprotein
+GGSISSY
+>seq_369 7vux|programmed_cell_death_protein_1
+GFAFSSY
+>seq_370 6wo5|envelope_glycoprotein_e2
+DGTFRAY
+>seq_371 6wo5|envelope_glycoprotein_e2
+GGTLSSY
+>seq_372 7ly9|envelope_glycoprotein_gp120
+GFSFDDS
+>seq_373 7lex|arginase-1
+GYTFTNY
+>seq_374 7nx7|spike_protein_s1
+GLTVSSN
+>seq_375 6um7|envelope_glycoprotein_gp120
+GYTFTDY
+>seq_376 7ej4|spike_glycoprotein
+GFTFSSY
+>seq_377 7dk2|spike_protein_s1
+GFTFSSY
+>seq_378 6wty|reticulocyte_binding_protein_2b
+GGTFNRY
+>seq_379 7nd7|spike_glycoprotein
+GYTFTGY
+>seq_380 7cws|spike_glycoprotein
+GYTLPEV
+>seq_381 7e8c|spike_glycoprotein
+GFAFTTY
+>seq_382 7ps2|surface_glycoprotein
+GFTFSNY
+>seq_383 7czu|spike_glycoprotein
+GFTFSSY
+>seq_384 7sc1|spike_glycoprotein
+GLTVSSN
+>seq_385 7akd|spike_glycoprotein
+GGSISSH
+>seq_386 4z5r|interferon_alpha-2
+GYTFTEY
+>seq_387 7fjo|spike_glycoprotein
+GYRFTSY
+>seq_388 7e5s|spike_glycoprotein
+GFTFTNY
+>seq_389 7ejz|spike_protein_s1
+GLIVSSN
+>seq_390 6lxj|neuraminidase
+GGPFSSY
+>seq_391 7dpm|spike_protein_s1
+GFTFSSY
+>seq_392 4jhw|fusion_glycoprotein_f0
+GGPLRNY
+>seq_393 5y9j|tumor_necrosis_factor_ligand_superfamily_member_13b
+GGTFNNN
+>seq_394 4mwf|envelope_glycoprotein_e2
+GGTFDNY
+>seq_395 7ley|arginase-1
+GFTFDDY
+>seq_396 7si2|spike_protein_s1
+GFTFSSY
+>seq_397 7k8s|spike_glycoprotein
+GFTFSIY
+>seq_398 6xkq|spike_protein_s1
+GYNFTNF
+>seq_399 5ggv|cytotoxic_t-lymphocyte_protein_4
+GFTFSSY
+>seq_400 7dzy|spike_glycoprotein
+GFTFSSY
+>seq_401 6att|receptor_tyrosine-protein_kinase_erbb-2
+GFTFSSY
+>seq_402 6kyz|genome_polyprotein
+GFTFSSY
+>seq_403 7qf1|spike_protein_s1
+GGTYSSY
+>seq_404 5k9o|hemagglutinin
+GYSFSSY
+>seq_405 7pnm|spike_glycoprotein
+GFTFSSY
+>seq_406 7dk0|spike_protein_s1
+GGTFSSY
+>seq_407 6pe9|tumor_necrosis_factor_receptor_superfamily_member_5
+GFTFSDY
+>seq_408 7k8w|spike_glycoprotein
+GYTFTSY
+>seq_409 7pqy|spike_protein_s1
+GFTVSSN
+>seq_410 7lf2|arginase-1
+GYTFTDY
+>seq_411 6cdi|glycoprotein_120
+GYAFSDY
+>seq_412 6aru|epidermal_growth_factor_receptor
+GFDLTDY
+>seq_413 8dce|spike_protein_s1
+GFTVSNN
+>seq_414 5n0a|envelope_glycoprotein_e
+GFSYSNH
+>seq_415 7x7o|spike_protein_s1
+GFTFSIS
+>seq_416 7jva|sars-cov-2_spike_glycoprotein
+GFTFSSY
+>seq_417 5w4l|clade_a/e_93th057_hiv-1_gp120_core
+GGSFSRY
+>seq_418 5w4l|clade_a/e_93th057_hiv-1_gp120_core
+GFTFSTY
+>seq_419 6phf|25_kda_ookinete_surface_antigen
+GYSFTSY
+>seq_420 7wwm|spike_glycoprotein
+GFSFSHY
+>seq_421 7l56|spike_glycoprotein
+GYTFTGY
+>seq_422 6iut|hemagglutinin
+GGSINSY
+>seq_423 7tcc|spike_glycoprotein
+GFTLSSY
+>seq_424 7tcc|spike_glycoprotein
+GFTFTSS
+>seq_425 7ls9|spike_glycoprotein
+GFTFSDH
+>seq_426 7kfv|surface_glycoprotein
+GFTVSSN
+>seq_427 4yjz|hemagglutinin
+RGTFSNH
+>seq_428 7kqh|hemagglutinin
+GFTFDDY
+>seq_429 7m6e|spike_glycoprotein
+GYSFTSY
+>seq_430 7r40|spike_glycoprotein
+GFTFSSY
+>seq_431 6ii8|hemagglutinin
+GFTFSSY
+>seq_432 6v4o|neuraminidase
+GYTFINH
+>seq_433 7nd5|spike_glycoprotein
+GVTVSSN
+>seq_434 7cho|spike_protein_s1
+GFIVSSN
+>seq_435 7m6d|spike_protein_s1
+GITVVRN
+>seq_436 7kml|spike_glycoprotein
+GFDLGGY
+>seq_437 5ggs|programmed_cell_death_protein_1
+GYTFTNY
+>seq_438 7kfw|surface_glycoprotein
+GFTVSSN
+>seq_439 4dag|fusion_glycoprotein_f0
+GFTVSSS
+>seq_440 6wn1|reticulocyte_binding_protein_2b
+GFTFRNY
+>seq_441 7tb8|spike_glycoprotein
+GFTFSSY
+>seq_442 7neg|surface_glycoprotein
+GLTVNRN
+>seq_443 7m6i|spike_glycoprotein
+GGTFSSY
+>seq_444 5tz2|leukocyte_surface_antigen_cd47
+GYSFTDY
+>seq_445 6xpz|hemagglutinin
+GFSFSNF
+>seq_446 7mem|hemagglutinin_ha1_chain
+GFTFSSF
+>seq_447 5ugy|hemagglutinin_ha1
+GYTFTDY
+>seq_448 7cgw|programmed_cell_death_protein_1
+GFSLTSY
+>seq_449 7czp|spike_glycoprotein
+GGSISSY
+>seq_450 6vn1|envelope_glycoprotein_b
+GGTFSNF
+>seq_451 6pe8|tumor_necrosis_factor_receptor_superfamily_member_5
+GFTFSDY
+>seq_452 5ggt|programmed_cell_death_1_ligand_1
+GDTFSTY
+>seq_453 7cdj|spike_protein_s1
+GFTFSDY
+>seq_454 7r8l|spike_protein_s1
+GITVSSN
+>seq_455 5iwl|leukocyte_surface_antigen_cd47
+GYTFTNY
+>seq_456 4yk4|hemagglutinin
+GGSISSY
+>seq_457 7m6h|spike_glycoprotein
+GYTFTSY
+>seq_458 7jv4|sars-cov-2_spike_glycoprotein
+GFTFSSY
+>seq_459 6pzz|neuraminidase
+GYTFISY
+>seq_460 7po5|spike_glycoprotein
+GGSFSGY
+>seq_461 6xq0|hemagglutinin
+GFMFRSY
+>seq_462 7mzj|spike_protein_s1
+GFTFSYA
+>seq_463 7m6g|spike_glycoprotein
+GYTFTSY
+>seq_464 7beo|spike_glycoprotein
+GFTFTTS
+>seq_465 6mg7|clade_a/e_93th057_hiv-1_gp120_core
+GFTFTRS
+>seq_466 3p0y|epidermal_growth_factor_receptor
+GFTLSGD
+>seq_467 7q9f|surface_glycoprotein
+RGTFNTY
+>seq_468 5tzt|leukocyte_surface_antigen_cd47
+GYTFTDY
+>seq_469 7czs|spike_glycoprotein
+GFTVSSN
+>seq_470 5udc|fusion_glycoprotein_f0
+GGLLEDY
+>seq_471 7jmp|spike_protein_s1
+GFTVSSN
+>seq_472 5ggr|programmed_cell_death_protein_1
+GITFSNS
+>seq_473 7mzh|spike_protein_s1
+GYTFTGY
+>seq_474 6xpy|hemagglutinin
+GGSLSIY
+>seq_475 6xkp|spike_protein_s1
+GFTFSDY
+>seq_476 7uar|spike_glycoprotein
+GGTFNSF
+>seq_477 6iw2|envelope_protein_e
+GGSTYNH
+>seq_478 7su0|cytotoxic_t-lymphocyte_protein_4
+GFTFSHY
+>seq_479 5anm|ig_epsilon_chain_c_region
+GYIFTDY
+>seq_480 7czy|spike_glycoprotein
+GYTFTSY
+>seq_481 7r7n|spike_glycoprotein
+GGPFSSS
+>seq_482 7lcn|spike_glycoprotein
+GYTLPEL
+>seq_483 7lxw|spike_glycoprotein
+GFTFSNY
+>seq_484 6u02|neuraminidase
+GFTFSSY
+>seq_485 5f9w|clade_a/e_93th057_hiv-1_gp120_core
+GYTFTNY
+>seq_486 7qez|spike_protein_s1
+GFTFTTS
+>seq_487 7m6f|spike_glycoprotein
+GFTVSSN
+>seq_488 6wtv|reticulocyte_binding_protein_2b
+GFTFTPY
+>seq_489 7dx4|spike_protein_s1
+GGTFSSY
+>seq_490 7l2c|spike_glycoprotein
+GYTLIEL
+>seq_491 7e86|spike_protein_s1
+GFIVSSN
+>seq_492 7l7e|spike_protein_s1
+GFTFMSS
+>seq_493 6q1z|neuraminidase
+GFTFDDY
+>seq_494 7ljr|spike_glycoprotein
+GGTFSRY
+>seq_495 4y5x|erythropoietin_receptor
+GFTFSSY
+>seq_496 7tat|spike_glycoprotein
+GFTFHDH
+>seq_497 7q0i|spike_protein_s1
+GFTFSSY
+>seq_498 6wm9|reticulocyte_binding_protein_2b
+GFMFNSY
+>seq_499 7jx3|spike_glycoprotein
+GFTFSNA
+>seq_500 3wsq|receptor_tyrosine-protein_kinase_erbb-2
+SYTFTSY
+>seq_501 7n3i|spike_protein_s1
+GFTVSSN
+>seq_502 6kz0|genome_polyprotein
+GDIFSTY
+>seq_503 7ey5|spike_glycoprotein
+GFKFSDA
+>seq_504 6uyg|envelope_glycoprotein_e2
+GGNFNSY
+>seq_505 7ll1|envelope_glycoprotein_gp120
+GYIFTDY
+>seq_506 7q9j|spike_glycoprotein
+GASISNY
+>seq_507 6o25|circumsporozoite_protein
+GFTFSSY
+>seq_508 6woz|reticulocyte_binding_protein_2b
+GFLFSSY
+>seq_509 7lsf|envelope_protein_e
+GFTFSNY
+>seq_510 7kzb|spike_glycoprotein
+GYGFITY
+>seq_511 7kzb|spike_glycoprotein
+GFTFSDH
+>seq_512 7k8v|spike_glycoprotein
+GYSFTSY
+>seq_513 7z0x|surface_glycoprotein
+GFTVSSN
+>seq_514 6jjp|programmed_cell_death_protein_1
+GFTFSSY
+>seq_515 4y5v|erythropoietin_receptor
+GFTFSSY
+>seq_516 7k8z|spike_glycoprotein
+GFTFSSY
+>seq_517 7m7b|spike_glycoprotein
+GGSFSGY
+>seq_518 5grj|programmed_cell_death_1_ligand_1
+GFTFSSY
+>seq_519 5t3z|envelope_glycoprotein_gp160
+GYKFTGY
+>seq_520 7zrc|spike_glycoprotein,fibritin
+GGNFNMY
+>seq_521 5x8l|programmed_cell_death_1_ligand_1
+GFTFSDS
+>seq_522 7l5b|spike_protein_s1
+GYTFTGY
+>seq_523 6xq2|hemagglutinin
+GFTFSNY
+>seq_524 7l2f|spike_glycoprotein
+GLTFSSY
+>seq_525 6mlm|hemagglutinin_ha1_chain
+GYTLTRY
+>seq_526 7wkx|interleukin-17a
+EYIFTNY
+>seq_527 6bft|vascular_endothelial_growth_factor_a
+GYDFDNY
+>seq_528 7s4s|spike_protein_s1
+GFIVSRN
+>seq_529 7ly3|spike_protein_s1
+GFTFSSY
+>seq_530 7kqg|hemagglutinin
+GFTFDDY
+>seq_531 6nmu|tyrosine-protein_phosphatase_non-receptor_type_substrate_1
+GFSFSSY
+>seq_532 7bu8|genome_polyprotein
+GYTFTSN
+>seq_533 6u0n|envelope_glycoprotein_gp120
+GATLNSH
+>seq_534 7bep|spike_glycoprotein
+GFTFSDY
+>seq_535 6ii9|hemagglutinin
+GGSFSGY
+>seq_536 2qad|envelope_glycoprotein_gp160
+GGTFSNY
+>seq_537 7wi0|spike_protein_s1
+GFTFSSY
+>seq_538 7wi0|spike_protein_s1
+GFTFRTY
+>seq_539 7wi0|spike_protein_s1
+GGTFSSF
+>seq_540 2fjh|vascular_endothelial_growth_factor_a
+GFTINAS
+>seq_541 5vn8|envelope_glycoprotein_gp160
+GYRFSNF
+>seq_542 7tht|spike_glycoprotein
+GGTFSSY
+>seq_543 6wtu|reticulocyte_binding_protein_2b
+GFTFTPY
+>seq_544 7e9b|programmed_cell_death_protein_1
+GFTFSNY
+>seq_545 6mi2|tumor_necrosis_factor_receptor_superfamily_member_9
+GYSFSTY
+>seq_546 2fjg|vascular_endothelial_growth_factor_a
+GFTISDY
+>seq_547 7msq|spike_protein_s1
+GGSISSY
+>seq_548 7k9z|spike_glycoprotein
+GYTFTSY
+>seq_549 7k9z|spike_glycoprotein
+GGTFSTY
+>seq_550 7chc|spike_glycoprotein
+EFIVSRN
+>seq_551 7e7x|spike_protein_s1
+GYTLIEI
+>seq_552 7kqb|spike_glycoprotein
+GFTFSSY
+>seq_553 7rw2|spike_glycoprotein
+GYTFTSY
+>seq_554 7fcp|spike_protein_s1
+GYIFTSY
+>seq_555 7fcp|spike_protein_s1
+GFTFRDY
+>seq_556 7rdw|glycoprotein_120
+GYTFTGY
+>seq_557 7vyr|spike_protein_s1
+GGTFGNW
+>seq_558 5vkd|nucleoprotein
+GFNISYS
+>seq_559 7s0c|spike_glycoprotein
+GFTFSSY
+>seq_560 7coe|spike_glycoprotein
+GGTFNNN
+>seq_561 5uea|histone_chaperone_asf1
+GFNVSYS
+>seq_562 7e7y|spike_protein_s1
+GVTVSSN
+>seq_563 6xq4|hemagglutinin
+GFTVSRN
+>seq_564 7ps5|surface_glycoprotein
+GFTFITS
+>seq_565 3wlw|receptor_tyrosine-protein_kinase_erbb-2
+GYSFTSY
+>seq_566 7v2a|spike_glycoprotein
+GYSFSNY
+>seq_567 7or9|spike_protein_s1
+GYIFIRY
+>seq_568 7kfy|surface_glycoprotein
+GFTVSSN
+>seq_569 7bnv|surface_glycoprotein
+GYSFTSY
+>seq_570 5xhv|hemagglutinin
+GFTIGDF
+>seq_571 7rxj|circumsporozoite_protein
+GFNFTTY
+>seq_572 7xic|spike_glycoprotein
+GFTFDDY
+>seq_573 7qny|surface_glycoprotein
+GFTFDDY
+>seq_574 7e88|spike_protein_s1
+EFIVSRN
+>seq_575 7lrt|sars-cov-2_spike_glycoprotein
+GFTFTSS
+>seq_576 7e3k|spike_glycoprotein
+GFTFSGS
+>seq_577 5a3i|hemagglutinin
+GYSFSDY
+>seq_578 7np1|spike_protein_s1
+GITVSSN
+>seq_579 7prz|surface_glycoprotein
+GFTFSNY
+>seq_580 6xey|sars-cov-2_spike_glycoprotein
+GYTFTGY
+>seq_581 7klg|spike_glycoprotein
+GFDLGGY
+>seq_582 7m3i|spike_protein_s1
+GGSISSY
+>seq_583 5tzu|leukocyte_surface_antigen_cd47
+GFTFSGY
+>seq_584 4zff|vascular_endothelial_growth_factor_a
+GFTISDY
+>seq_585 7cjf|spike_glycoprotein
+GFIVSSN
+>seq_586 7cu5|programmed_cell_death_protein_1
+GFTFSSY
+>seq_587 6b0g|25_kda_ookinete_surface_antigen
+GYTFTSY
+>seq_588 7vyt|t-cell_immunoreceptor_with_ig_and_itim_domains
+GYTFTSY
+>seq_589 4ydi|envelope_glycoprotein_gp160
+GYTFNAY
+>seq_590 5te6|clade_a/e_93th057_hiv-1_gp120_core
+GYTFTAH
+>seq_591 7mzf|spike_protein_s1
+EFIVSRN
+>seq_592 6utk|envelope_glycoprotein_gp120
+GGTFTNF
+>seq_593 7rxi|circumsporozoite_protein
+GFNFSTH
+>seq_594 7rxl|circumsporozoite_protein
+GFTFSSY
+>seq_595 6iuv|hemagglutinin
+GNNFPSY
+>seq_596 7k8m|surface_glycoprotein
+GFIVSSN
+>seq_597 7bz5|spike_protein_s1
+GFIVSSN
+>seq_598 7zr9|spike_glycoprotein,fibritin
+GGTFSSY
+>seq_599 7r6x|spike_protein_s1
+GFTFTSS
+>seq_600 7ezv|spike_glycoprotein
+GFTFSTS
+>seq_601 7ezv|spike_glycoprotein
+EYKLISF
+>seq_602 7e39|spike_protein_s1
+GFIFSSY
+>seq_603 7lop|spike_protein_s1
+GYTFTGY
+>seq_604 7chs|spike_protein_s1
+GFTVSSN
+>seq_605 4xak|spike_glycoprotein
+GGTFSSY
+>seq_606 6pdx|hemagglutinin
+GASISSF
+>seq_607 7ur4|fusion_glycoprotein_f0
+DFNFRDY
+>seq_608 7kdd|envelope_glycoprotein_b
+GYSLKDH
+>seq_609 7ey0|spike_glycoprotein
+GFTFDDY
+>seq_610 7ey0|spike_glycoprotein
+EFIVSAN
+>seq_611 7kmh|spike_protein_s1
+GLTVSSN
+>seq_612 6fax|tumor_necrosis_factor_receptor_superfamily_member_5
+GYTFTEY
+>seq_613 7s0d|spike_glycoprotein
+GFTFSSY
+>seq_614 6q20|neuraminidase
+GFTFDDY
+>seq_615 5uek|histone_chaperone_asf1
+GFNVSYY
+>seq_616 7kmg|spike_protein_s1
+GGTFSNY
+>seq_617 6phc|25_kda_ookinete_surface_antigen
+GFTFSNY
+>seq_618 7mzn|spike_protein_s1
+GLTVSSN
+>seq_619 6xpx|hemagglutinin
+GFTFRDS
+>seq_620 7djz|spike_protein_s1
+GGTFSSF
+>seq_621 7lab|spike_glycoprotein
+GYTFTDY
+>seq_622 7deo|spike_protein_s1
+GFTFSYY
+>seq_623 7ps1|surface_glycoprotein
+GLTVRSN
+>seq_624 7laa|spike_glycoprotein
+GVTFSSY
+>seq_625 7s0b|spike_protein_s1
+GFTFSSY
+>seq_626 6phb|25_kda_ookinete_surface_antigen
+GDSMSSY
+>seq_627 3hi1|glycoprotein_120
+GGSISSH
+>seq_628 7e5y|spike_protein_s1
+EITVSSN
+>seq_629 7phu|reticulocyte-binding_protein_homolog_5
+GYTFTDY
+>seq_630 7phu|reticulocyte-binding_protein_homolog_5
+GYTFTSY
+>seq_631 6xkr|programmed_cell_death_protein_1
+GYTFTSY
+>seq_632 7l2d|spike_glycoprotein
+GYTLIEL
+>seq_633 7f15|spike_protein_s1
+GYTFTEY
+>seq_634 4dvr|envelope_glycoprotein_gp160
+GYTFSDF
+>seq_635 7ps4|surface_glycoprotein
+GYSFTNY
+>seq_636 7eya|spike_glycoprotein
+GFTFSNY
+>seq_637 7kfx|surface_glycoprotein
+GFTVSNN
+>seq_638 7d0c|spike_glycoprotein
+GFTVSSN
+>seq_639 7mzm|spike_protein_s1
+GFTFSDY
+>seq_640 6xy2|cytotoxic_t-lymphocyte_protein_4
+GFSLTSY
+>seq_641 7b3o|surface_glycoprotein
+GLTVSSN
+>seq_642 7r8n|spike_glycoprotein
+GFGVRNN
+>seq_643 7vmu|spike_protein_s1
+GVTVSSN
+>seq_644 7n4l|spike_protein_s1
+GFTFSSY
+>seq_645 5f9o|clade_a/e_93th057_hiv-1_gp120_core
+GYNFNDY
+>seq_646 7bpk|envelope_protein
+GFTFSSY
+>seq_647 7rxp|circumsporozoite_protein
+GLTLSEY
+>seq_648 7nd3|spike_glycoprotein
+GFTVSRN
+>seq_649 5ug0|hemagglutinin_ha1
+GFTFNIY
+>seq_650 6b0e|25_kda_ookinete_surface_antigen
+GYIFTSY
+>seq_651 4ot1|envelope_glycoprotein_b
+GYSLKDH
+>seq_652 5n7w|interleukin-17a
+GYTFSSY
+>seq_653 6b0s|circumsporozoite_protein
+GFTFSSY
+>seq_654 6ii4|hemagglutinin
+GFTFSSY
+>seq_655 7qf0|spike_protein_s1
+GFTVSRN
+>seq_656 7eng|spike_glycoprotein
+GFTFSSY
+>seq_657 3u2s|envelope_glycoprotein_gp120
+GFDFSRQ
+>seq_658 7rr0|spike_protein_s1
+GFTFSSS
+>seq_659 4jb9|clade_a/e_93th057_hiv-1_gp120_core
+GYNFRDF
+>seq_660 7e3o|spike_protein_s1
+GFTFSSY
+>seq_661 4fqj|hemagglutinin
+GYIFTES
+>seq_662 6e56|hemagglutinin
+GFTFNHY
+>seq_663 7zfd|spike_protein_s1
+GFTFDDY
+>seq_664 7k8x|spike_glycoprotein
+GYTFTGY
+>seq_665 4y5y|erythropoietin_receptor
+GFTFSKY
+>seq_666 6wqo|reticulocyte_binding_protein_2b
+GGSSSGY
+>seq_667 7kn3|spike_protein_s1
+GFTVSLS
+>seq_668 6oej|clade_a/e_93th057_hiv-1_gp120_core
+GFTFSSY
+>seq_669 7czq|spike_glycoprotein
+GFTVSSN
+>seq_670 7e5o|spike_protein_s1
+GGSFSGY
+>seq_671 5vag|hemagglutinin
+GGTFSSY
+>seq_672 6wo4|envelope_glycoprotein_e2
+GATFSSF
+>seq_673 6xe1|spike_protein_s1
+GVIVSSN
+>seq_674 4uv7|epidermal_growth_factor_receptor
+GFTFSDY
+>seq_675 4hfu|hemagglutinin_ha1
+GDTFSSY
+>seq_676 7kmi|spike_protein_s1
+GFTVSSN
+>seq_677 7n3c|nucleoprotein
+GYSFSSY
+>seq_678 7swp|spike_protein_s1
+GFTFSRY
+>seq_679 7mf1|spike_protein_s1
+GGTFSTY
+>seq_680 7dzx|spike_glycoprotein
+GFTFSSY
+>seq_681 2ghw|spike_glycoprotein
+GFAFSSY
+>seq_682 7e23|spike_protein_s1
+GGSFSGY
+>seq_683 2dd8|spike_glycoprotein
+GGTFSSY
+>seq_684 6meh|e2_glycoprotein
+GGTYINY
+>seq_685 7ps6|spike_protein_s1
+GYTFTSY
+>seq_686 6bgt|receptor_tyrosine-protein_kinase_erbb-2
+GFNIDDT
+>seq_687 5eii|histone_chaperone_asf1
+GFNISYS
+>seq_688 6c6z|spike_protein
+GGTFSIY
+>seq_689 4al8|envelope_protein
+GYTFSSY
+>seq_690 4j6r|envelope_glycoprotein_gp160
+GYSFTDY
+>seq_691 5w42|hemagglutinin
+GDTFSSY
+>seq_692 7mzl|spike_protein_s1
+GETLSGY
+>seq_693 7n4i|spike_protein_s1
+GYSFISY
+>seq_694 7m42|spike_protein_s1
+GYIFTGY
+>seq_695 7byr|sars-cov-2_spike_glycoprotein
+GYTFTSY
+>seq_696 5o4g|receptor_tyrosine-protein_kinase_erbb-2
+GYTFTAY
+>seq_697 7ntc|spike_glycoprotein
+GFSFSSY
+>seq_698 6ofi|clade_a/e_93th057_hiv-1_gp120_core
+GYIFISY
+>seq_699 7n62|spike_glycoprotein
+GFTFSSF
+>seq_700 7n3d|nucleoprotein
+GGSISSY
