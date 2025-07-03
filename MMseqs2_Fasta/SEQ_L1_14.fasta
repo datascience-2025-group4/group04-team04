@@ -1,238 +1,298 @@
 >seq_1 8vpf|spike_glycoprotein
 TGTYNDIGGYNFVS
->seq_2 8y3i|envelope_protein
+>seq_2 8vkx|vp1
+TGTSSDVGNYNLFS
+>seq_3 8y3i|envelope_protein
 TGTSSDVGGFNYVS
->seq_3 8z4e|neuraminidase
+>seq_4 8z4e|neuraminidase
 TGTSSDVGGYNYVS
->seq_4 8z6s|spike_glycoprotein,fibritin,expression_tag
+>seq_5 8z6r|spike_glycoprotein,fibritin,spike_glycoprotein,fibritin,spike_glycoprotein,fibritin,expression_tag_
 TGISSDVGGDNYVS
->seq_5 8z6u|spike_glycoprotein,fibritin,expression_tag
+>seq_6 8z6u|spike_glycoprotein,fibritin,expression_tag
 TGASSDVGGYNYVS
->seq_6 8s6m|spike_protein_s1
-TGTSSDVGAYNYVS
->seq_7 9au2|spike_glycoprotein
-TGTSSDVGAYNYVS
->seq_8 8wfh|spike_protein_s1
-TGTISDVGAYNYVS
->seq_9 8y4c|spike_glycoprotein
-TGSSPNIGARNDVH
->seq_10 8zho|spike_glycoprotein
-TGSSSNIGAGYDVH
->seq_11 8rpb|programmed_cell_death_1_ligand_1
-TGTSSDVFRPPLVS
->seq_12 8suo|spike_protein_s1
-TGTSSDVGGYNYVS
->seq_13 8qrf|spike_protein_s1
-TGTSSDVGGYNYVS
->seq_14 8gdr|spike_glycoprotein
-SGTSRDIGGYNYVA
->seq_15 8r1c|spike_glycoprotein,fibritin
+>seq_7 9aug|hiv-1_bg505_ds-sosip_glycoprotein_gp120
 TGTSSDVGSYNLVS
->seq_16 8siq|spike_protein_s1
-TGSSSNIGAGYDVH
->seq_17 8gav|neuraminidase
-TGTTSDFGDHNYVS
->seq_18 8cin|spike_glycoprotein
+>seq_8 9auh|hiv-1_bg505_ds-sosip_glycoprotein_gp120
 TGTSSDVGSYNLVS
->seq_19 8qpr|spike_glycoprotein,fibritin
-TGTSNDVGGYNYVS
->seq_20 8qq0|spike_glycoprotein,fibritin
-TGTRSDVDGYNYVS
->seq_21 8hrd|spike_protein_s1
-LGGSSNIGAGYDVH
->seq_22 7ycy|spike_glycoprotein
-TATSSDVGAYNYVS
->seq_23 8bg3|spike_protein_s1
-TGTSSDVGGHNFVS
->seq_24 8hes|spike_protein_s1
-TGTSSDVGGYNFVS
->seq_25 8tp7|hemagglutinin
-TGTSSDIGGYNYVS
->seq_26 8gpy|spike_protein_s1
-TGTSSDVGGYNYVS
->seq_27 8e2u|fusion_glycoprotein_f0
-TGSGSNLGADYGVH
->seq_28 7yh6|spike_protein_s1
-TGSSSNIGAGYDVH
->seq_29 8el2|spike_protein_s1
-TGTSSDVGVYNYVS
->seq_30 7yvi|spike_glycoprotein
-TGTSSDVGGYNYVS
->seq_31 7yvk|spike_glycoprotein
-TATSSDVGAYQYVS
->seq_32 8j1q|spike_protein_s1
-TGTSSDVGGYNYVS
->seq_33 8dwy|e2_glycoprotein
-RSNIGAVTSSNCAN
->seq_34 8csj|spike_glycoprotein
-TGSSSNIGAGYDVH
->seq_35 7xsa|spike_protein_s1
-TGTSSDVGDFNYVS
->seq_36 8sar|ch848.10.17_gp120
+>seq_9 8s6m|spike_protein_s1
+TGTSSDVGAYNYVS
+>seq_10 9au2|spike_glycoprotein
+TGTSSDVGAYNYVS
+>seq_11 8vgv|ch848_de3_sosip_gp120
 TGTKYDVGSHDLVS
->seq_37 8sas|ch848.10.17_gp120
-TGTIYDVGKFDLVS
->seq_38 8sau|ch848.10.17_gp120
-TGTSYDVAKFDLVS
->seq_39 8sax|ch848.10.17.sosip_gp120
-TGTSSDVGSYNLVS
->seq_40 8say|ch848.10.17_gp120
-TGSSSDVGSYNLVS
->seq_41 8saz|envelope_glycoprotein_gp160
-TGTSYDVGSYNLVS
->seq_42 8sb0|ch848.10.17.sosip_gp120
-TGTSYDVGSYNLVS
->seq_43 8sb1|ch848.10.17_gp120
-TGTSYDVGSYNLVS
->seq_44 8sb2|ch848.10.17.sosip_gp120
-TGTSYDVGSYDLVS
->seq_45 8sb3|ch848.10.17_gp120
-TGTSYDVGSYNLVS
->seq_46 8sb4|ch848.10.17_gp120
-TGTNYDVGSYNLVS
->seq_47 8sb5|ch848.10.17.sosip_gp120
-TGTSYDVGKFDLVS
->seq_48 7x08|spike_glycoprotein
-TGTSSDVGGSNYVS
->seq_49 7ul0|spike_protein_s1
-TGTSSDVGSYNLVS
->seq_50 8dg9|fusion_glycoprotein_f0
-TGTNSNIGTGYDVH
->seq_51 7uvo|gametocyte_surface_protein_p230
-TGTNDDVGEYNYVS
->seq_52 7wqv|spike_protein_s1
-TGNSSNIGAGYDVH
->seq_53 8dv6|envelope_protein_e
-SGSSNDVGGYNYVS
->seq_54 7x8w|spike_glycoprotein
+>seq_12 8wfh|spike_protein_s1
+TGTISDVGAYNYVS
+>seq_13 9clp|zinc_metalloproteinase-disintegrin-like_ecarin
 TGTSSDVGGYNYVS
->seq_55 7wos|spike_glycoprotein
-TGTSSDFGGYNSVS
->seq_56 7ugq|envelope_glycoprotein_gp120
-TGTSSDVGGYNYVS
->seq_57 8erq|spike_glycoprotein
-TATSSDVGNYNYVS
->seq_58 7tjq|fusion_glycoprotein_f0
+>seq_14 8y4c|spike_glycoprotein
+TGSSPNIGARNDVH
+>seq_15 8zho|spike_glycoprotein
 TGSSSNIGAGYDVH
->seq_59 7sue|nucleoprotein
+>seq_16 8rpb|programmed_cell_death_1_ligand_1
+TGTSSDVFRPPLVS
+>seq_17 8suo|spike_protein_s1
 TGTSSDVGGYNYVS
->seq_60 7wp0|spike_protein_s1
+>seq_18 8qrf|spike_protein_s1
+TGTSSDVGGYNYVS
+>seq_19 8jg5|vp1
+TGTSSDVGGYNYVS
+>seq_20 8gdr|spike_glycoprotein
+SGTSRDIGGYNYVA
+>seq_21 8r1c|spike_glycoprotein,fibritin
+TGTSSDVGSYNLVS
+>seq_22 8siq|spike_protein_s1
 TGSSSNIGAGYDVH
->seq_61 8dcc|spike_protein_s1
+>seq_23 8gav|neuraminidase
+TGTTSDFGDHNYVS
+>seq_24 8cin|spike_glycoprotein
+TGTSSDVGSYNLVS
+>seq_25 8qpr|spike_glycoprotein,fibritin
+TGTSNDVGGYNYVS
+>seq_26 8qq0|spike_glycoprotein,fibritin
+TGTRSDVDGYNYVS
+>seq_27 8hrd|spike_protein_s1
+LGGSSNIGAGYDVH
+>seq_28 7ycy|spike_glycoprotein
+TATSSDVGAYNYVS
+>seq_29 8bg3|spike_protein_s1
+TGTSSDVGGHNFVS
+>seq_30 8hes|spike_protein_s1
+TGTSSDVGGYNFVS
+>seq_31 8tp7|hemagglutinin
+TGTSSDIGGYNYVS
+>seq_32 8gpy|spike_protein_s1
 TGTSSDVGGYNYVS
->seq_62 5w08|hemagglutinin_ha1
-TGTNSDVGTFDLVS
->seq_63 6xcn|spike_glycoprotein
-TGTSSDVGGYKYVS
->seq_64 6pzw|neuraminidase
+>seq_33 8dzw|rsv_fusion_protein
+TGSGSNLGADYGVH
+>seq_34 8f6x|structurally_designed_hmpv_f_protein_hmpv_v3b_d12_ds454,fibritin_
+TGSSSNIGAGYDVH
+>seq_35 7yh6|spike_protein_s1
+TGSSSNIGAGYDVH
+>seq_36 8el2|spike_protein_s1
+TGTSSDVGVYNYVS
+>seq_37 7yvi|spike_glycoprotein
 TGTSSDVGGYNYVS
->seq_65 4ut6|envelope_glycoprotein_e
-TGISSDVETYNLVS
->seq_66 3whe|hemagglutinin
-TGSSSNIGAGYAVH
->seq_67 7ps0|surface_glycoprotein
-TGTSIDVGNYNLAS
->seq_68 6um7|envelope_glycoprotein_gp120
-TGTSYDVGTYNLVS
->seq_69 6wty|reticulocyte_binding_protein_2b
-TGTGIDVGGFSYVS
->seq_70 7nd7|spike_glycoprotein
+>seq_38 7yvk|spike_glycoprotein
+TATSSDVGAYQYVS
+>seq_39 8e1p|bg505-sosip.v4.1-gt1.2gp120
 TGTSSDVGGYNYVS
->seq_71 6lxj|neuraminidase
-TGASSDVGDYNYVS
->seq_72 6xkq|spike_protein_s1
-TGTSSDLGAYHFVT
->seq_73 7k8w|spike_glycoprotein
-TGTSSDVGGYKYVS
->seq_74 8dce|spike_protein_s1
+>seq_40 8j1q|spike_protein_s1
 TGTSSDVGGYNYVS
->seq_75 5n0a|envelope_glycoprotein_e
+>seq_41 8cxi|ankyrin_repeat_family_a_protein_2,envelope_e_protein
 TGTSSNADTYNLVS
->seq_76 5w4l|clade_a/e_93th057_hiv-1_gp120_core
-TGTSSDVGSYNFVS
->seq_77 7l56|spike_glycoprotein
-TGTSSDVGGYNYVS
->seq_78 6iut|hemagglutinin
-TGTSSDVGDYNYVS
->seq_79 7tcc|spike_glycoprotein
-GLSSGSVSTAYFPS
->seq_80 7cho|spike_protein_s1
-TGSSSNIGAGYDVH
->seq_81 7czp|spike_glycoprotein
-TGTSSDVGGYNYVS
->seq_82 7wee|spike_glycoprotein
-TGTSSDVGGSNYVS
->seq_83 7mmo|spike_protein_s1
-TATSSDVGDYNYVS
->seq_84 7m6h|spike_glycoprotein
-TGSSSNIGAGYDVH
->seq_85 7jv4|sars-cov-2_spike_glycoprotein
-GSSTGAVTSGHYPY
->seq_86 7jmp|spike_protein_s1
-TGTSSDVGSYNLVS
->seq_87 6xkp|spike_protein_s1
-TGTSSDVGGYNYVS
->seq_88 5anm|ig_epsilon_chain_c_region
-TGSSSNIGAGYDVH
->seq_89 7lcn|spike_glycoprotein
-TGTSSDVGGYNYVS
->seq_90 7m6f|spike_glycoprotein
+>seq_42 8cz8|mesothelin,_cleaved_form
+TGTSSDIGGYNSVS
+>seq_43 8dwy|e2_glycoprotein
+RSNIGAVTSSNCAN
+>seq_44 8ahn|envelope_polyprotein
 TGSSSNIGAGYYVH
->seq_91 7dx4|spike_protein_s1
+>seq_45 8csj|spike_glycoprotein
 TGSSSNIGAGYDVH
->seq_92 7l2c|spike_glycoprotein
-TGTSSDVGGYNYVS
->seq_93 6wm9|reticulocyte_binding_protein_2b
-TGTSNDVGFYNFVS
->seq_94 7z0x|surface_glycoprotein
+>seq_46 7xsa|spike_protein_s1
+TGTSSDVGDFNYVS
+>seq_47 8sas|ch848.10.17_gp120
+TGTIYDVGKFDLVS
+>seq_48 8sau|ch848.10.17_gp120
+TGTSYDVAKFDLVS
+>seq_49 8say|ch848.10.17_gp120
+TGSSSDVGSYNLVS
+>seq_50 8saz|envelope_glycoprotein_gp160
+TGTSYDVGSYNLVS
+>seq_51 8sb0|ch848.10.17.sosip_gp120
+TGTSYDVGSYNLVS
+>seq_52 8sb1|ch848.10.17_gp120
+TGTSYDVGSYNLVS
+>seq_53 8sb2|ch848.10.17.sosip_gp120
+TGTSYDVGSYDLVS
+>seq_54 8sb3|ch848.10.17_gp120
+TGTSYDVGSYNLVS
+>seq_55 8sb4|ch848.10.17_gp120
+TGTNYDVGSYNLVS
+>seq_56 8sb5|ch848.10.17.sosip_gp120
+TGTSYDVGKFDLVS
+>seq_57 7x08|spike_glycoprotein
+TGTSSDVGGSNYVS
+>seq_58 7ul0|spike_protein_s1
 TGTSSDVGSYNLVS
->seq_95 4y5v|erythropoietin_receptor
-TGTSSDVGGYIYVS
->seq_96 5grj|programmed_cell_death_1_ligand_1
+>seq_59 8dg9|fusion_glycoprotein_f0
+TGTNSNIGTGYDVH
+>seq_60 7uvo|gametocyte_surface_protein_p230
+TGTNDDVGEYNYVS
+>seq_61 7wqv|spike_protein_s1
+TGNSSNIGAGYDVH
+>seq_62 8dv6|envelope_protein_e
+SGSSNDVGGYNYVS
+>seq_63 7ox1|interleukin-9
+GLSSGSVTSSNYPG
+>seq_64 7x8w|spike_glycoprotein
 TGTSSDVGGYNYVS
->seq_97 5t3z|envelope_glycoprotein_gp160
-AGSSRDVGGFDLVS
->seq_98 7l5b|spike_protein_s1
-TGTSSDVGGYNFVS
->seq_99 6ii9|hemagglutinin
-TGSSSNIGAGFDVH
->seq_100 7wi0|spike_protein_s1
-TGSSSNIGSGYDVH
->seq_101 7e7x|spike_protein_s1
-TGTSSDVGSYNYVS
->seq_102 7fcp|spike_protein_s1
-TGTSSDVGGYNFVS
->seq_103 7e7y|spike_protein_s1
-TGTSSDVGSYNLVS
->seq_104 3wlw|receptor_tyrosine-protein_kinase_erbb-2
+>seq_65 7wos|spike_glycoprotein
+TGTSSDFGGYNSVS
+>seq_66 7ugq|envelope_glycoprotein_gp120
 TGTSSDVGGYNYVS
->seq_105 6xey|sars-cov-2_spike_glycoprotein
-TGTSSDVGGYNYVS
->seq_106 7czw|spike_glycoprotein
-TGTSSDVGGYNYVS
->seq_107 7wph|spike_protein_s1
-TGTSSDVGGYNYVS
->seq_108 7lss|spike_glycoprotein
-TGTSSDVGAYNYVS
->seq_109 7laa|spike_glycoprotein
+>seq_67 8erq|spike_glycoprotein
+TATSSDVGNYNYVS
+>seq_68 7tjq|fusion_glycoprotein_f0
 TGSSSNIGAGYDVH
->seq_110 7l2d|spike_glycoprotein
+>seq_69 7sue|nucleoprotein
 TGTSSDVGGYNYVS
->seq_111 7r8n|spike_glycoprotein
+>seq_70 7wp0|spike_protein_s1
+TGSSSNIGAGYDVH
+>seq_71 8dcc|spike_protein_s1
 TGTSSDVGGYNYVS
->seq_112 5kjr|clade_a/e_93th057_hiv-1_gp120_core
+>seq_72 5w08|hemagglutinin_ha1
+TGTNSDVGTFDLVS
+>seq_73 6xcn|spike_glycoprotein
 TGTSSDVGGYKYVS
->seq_113 3u2s|envelope_glycoprotein_gp120
-QGTSNDVGGYESVS
->seq_114 7k8x|spike_glycoprotein
+>seq_74 6pzw|neuraminidase
+TGTSSDVGGYNYVS
+>seq_75 4ut6|envelope_glycoprotein_e
+TGISSDVETYNLVS
+>seq_76 3whe|hemagglutinin
+TGSSSNIGAGYAVH
+>seq_77 7ps0|surface_glycoprotein
+TGTSIDVGNYNLAS
+>seq_78 6um7|envelope_glycoprotein_gp120
+TGTSYDVGTYNLVS
+>seq_79 6wty|reticulocyte_binding_protein_2b
+TGTGIDVGGFSYVS
+>seq_80 7nd7|spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_81 5nh3|activin_receptor_type-2a
+TGTSSDVGSYNYVN
+>seq_82 6lxj|neuraminidase
+TGASSDVGDYNYVS
+>seq_83 6xkq|spike_protein_s1
+TGTSSDLGAYHFVT
+>seq_84 7dm1|phosphate-binding_protein_psts_1
+TGSRSDVGGYDYVS
+>seq_85 5cbe|c-x-c_motif_chemokine_13
+TGTSSDVGAYDWVS
+>seq_86 7k8w|spike_glycoprotein
+TGTSSDVGGYKYVS
+>seq_87 4rfo|hiv-1_clade_a/e_gp120
+TGTSSDVGGYKYVS
+>seq_88 8dce|spike_protein_s1
+TGTSSDVGGYNYVS
+>seq_89 5w4l|clade_a/e_93th057_hiv-1_gp120_core
+TGTSSDVGSYNFVS
+>seq_90 7l56|spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_91 6iut|hemagglutinin
+TGTSSDVGDYNYVS
+>seq_92 7tcc|spike_glycoprotein
+GLSSGSVSTAYFPS
+>seq_93 7cho|spike_protein_s1
+TGSSSNIGAGYDVH
+>seq_94 6vca|5'-nucleotidase,_ecto_(cd73),_isoform_cra_a
+GLSSGSVSTSYYPN
+>seq_95 7czp|spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_96 7wee|spike_glycoprotein
+TGTSSDVGGSNYVS
+>seq_97 7mmo|spike_protein_s1
+TATSSDVGDYNYVS
+>seq_98 7m6h|spike_glycoprotein
+TGSSSNIGAGYDVH
+>seq_99 3t2n|serine_protease_hepsin
+RSSTGAVTTSNYAN
+>seq_100 7jv4|sars-cov-2_spike_glycoprotein
+GSSTGAVTSGHYPY
+>seq_101 4ttd|lysozyme_c
+TGRSSNIGAGYDVH
+>seq_102 7jmp|spike_protein_s1
 TGTSSDVGSYNLVS
->seq_115 4y5y|erythropoietin_receptor
+>seq_103 6xkp|spike_protein_s1
+TGTSSDVGGYNYVS
+>seq_104 6ktr|fibroblast_growth_factor_19
+TGTSSDVGGYNYVS
+>seq_105 5anm|ig_epsilon_chain_c_region
+TGSSSNIGAGYDVH
+>seq_106 7lcn|spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_107 7m6f|spike_glycoprotein
+TGSSSNIGAGYYVH
+>seq_108 7dx4|spike_protein_s1
+TGSSSNIGAGYDVH
+>seq_109 7l2c|spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_110 6wm9|reticulocyte_binding_protein_2b
+TGTSNDVGFYNFVS
+>seq_111 5cba|c-x-c_motif_chemokine_13
+TGTSSDVGAYDWVS
+>seq_112 7z0x|surface_glycoprotein
+TGTSSDVGSYNLVS
+>seq_113 4y5v|erythropoietin_receptor
+TGTSSDVGGYIYVS
+>seq_114 5grj|programmed_cell_death_1_ligand_1
+TGTSSDVGGYNYVS
+>seq_115 5t3z|envelope_glycoprotein_gp160
+AGSSRDVGGFDLVS
+>seq_116 7l5b|spike_protein_s1
+TGTSSDVGGYNFVS
+>seq_117 6txz|hepatitis_a_virus_cellular_receptor_2
+TGTSSDVGGYNYVS
+>seq_118 6ii9|hemagglutinin
+TGSSSNIGAGFDVH
+>seq_119 4dqo|1fd6-v1v2_scaffold_zm109_hiv-1_strain
+QGTSSDVGGFDSVS
+>seq_120 5ush|imv_membrane_protein
+TGSSSNIGAGYDVH
+>seq_121 7wi0|spike_protein_s1
+TGSSSNIGSGYDVH
+>seq_122 7e7x|spike_protein_s1
+TGTSSDVGSYNYVS
+>seq_123 7fcp|spike_protein_s1
+TGTSSDVGGYNFVS
+>seq_124 7e7y|spike_protein_s1
+TGTSSDVGSYNLVS
+>seq_125 7lfa|apolipoprotein_l1
+RSSTGAVTSGNFAN
+>seq_126 3wlw|receptor_tyrosine-protein_kinase_erbb-2
+TGTSSDVGGYNYVS
+>seq_127 5occ|low_affinity_immunoglobulin_gamma_fc_region_receptor_ii-b
+TGSSSNIGAGYDVH
+>seq_128 6xey|sars-cov-2_spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_129 7czw|spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_130 7wph|spike_protein_s1
+TGTSSDVGGYNYVS
+>seq_131 4tsb|lysozyme_c
+TGRSSNIGAGYDVH
+>seq_132 7lss|spike_glycoprotein
 TGTSSDVGAYNYVS
->seq_116 7swp|spike_protein_s1
-TGSSSNIGVGYDVH
->seq_117 7mf1|spike_protein_s1
-TGTSSDVGGYKFVS
->seq_118 7ps6|spike_protein_s1
+>seq_133 6wh9|kr1
+GSSTGAVTSGHYPY
+>seq_134 4tsa|lysozyme_c
+TGRSSNIGAGYDVH
+>seq_135 7laa|spike_glycoprotein
+TGSSSNIGAGYDVH
+>seq_136 7l2d|spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_137 7r8n|spike_glycoprotein
+TGTSSDVGGYNYVS
+>seq_138 6m3b|vitamin_k-dependent_protein_c_heavy_chain
+TGSSSNIGAAYDVH
+>seq_139 5otj|polcalcin_phl_p_7
+TGGSSNFGAGYDVH
+>seq_140 3u4e|v1v2_region_of_hiv-1_on_1fd6_scaffold
+QGTSNDVGGYESVS
+>seq_141 6dc3|rsv_fusion_glycoprotein
+TGTSSDVGGYVYVS
+>seq_142 7k8x|spike_glycoprotein
 TGTSSDVGSYNLVS
->seq_119 7m42|spike_protein_s1
+>seq_143 6wno|plasmodium_vivax_reticulocyte_binding_protein_2b
+TGTSSDVGFYNFVS
+>seq_144 4y5y|erythropoietin_receptor
+TGTSSDVGAYNYVS
+>seq_145 4uu9|complement_c5
+TGTSSDIGGSKYVS
+>seq_146 7swp|spike_protein_s1
+TGSSSNIGVGYDVH
+>seq_147 7mf1|spike_protein_s1
+TGTSSDVGGYKFVS
+>seq_148 7ps6|spike_protein_s1
+TGTSSDVGSYNLVS
+>seq_149 7m42|spike_protein_s1
 TGTSSDVGTYNYVS
