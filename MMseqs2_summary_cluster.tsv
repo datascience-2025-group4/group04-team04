@@ -1,0 +1,737 @@
+PDB_ID	antigen_name	CF_H1	CF_H2	CF_L1	CF_L2	CF_L3
+2dd8	spike_glycoprotein	H1-7-seq_549	H2-6-seq_525	L1-11-seq_199	L2-7-seq_641	L3-10-seq_178
+2fjg	vascular_endothelial_growth_factor_a	H1-7-seq_584	H2-6-seq_426	L1-11-seq_302	L2-7-seq_132	L3-9-seq_425
+2fjh	vascular_endothelial_growth_factor_a	H1-7-seq_540	H2-6-seq_420	L1-11-seq_315	L2-7-seq_416	L3-9-seq_335
+2ghw	spike_glycoprotein	H1-7-seq_65	H2-6-seq_386	L1-11-seq_399	L2-7-seq_386	L3-9-seq_164
+2qad	envelope_glycoprotein_gp160	H1-7-seq_450	H2-6-seq_416	L1-11-seq_312	L2-7-seq_601	L3-9-seq_332
+2vxs	interleukin-17a	H1-7-seq_65	H2-6-seq_257	L1-13-seq_32	L2-7-seq_710	L3-9-seq_199
+3b2u	epidermal_growth_factor_receptor	H1-9-seq_39		L1-11-seq_33	L2-7-seq_290	L3-9-seq_267
+3hi1	glycoprotein_120	H1-7-seq_627		L1-12-seq_99	L2-7-seq_33	L3-9-seq_390
+3p0y	epidermal_growth_factor_receptor	H1-7-seq_466	H2-6-seq_360	L1-11-seq_273	L2-7-seq_132	L3-9-seq_293
+3u2s	envelope_glycoprotein_gp120	H1-7-seq_657	H2-6-seq_507	L1-14-seq_53	L2-7-seq_577	L3-10-seq_170
+3whe	hemagglutinin	H1-7-seq_423	H2-6-seq_283	L1-14-seq_34	L2-7-seq_545	L3-11-seq_91
+3wlw	receptor_tyrosine-protein_kinase_erbb-2	H1-7-seq_565	H2-6-seq_290	L1-14-seq_53	L2-7-seq_577	L3-10-seq_146
+3wsq	receptor_tyrosine-protein_kinase_erbb-2	H1-7-seq_500	H2-6-seq_387	L1-13-seq_47	L2-7-seq_558	L3-11-seq_85
+4al8	envelope_protein	H1-7-seq_65	H2-6-seq_531	L1-11-seq_405	L2-7-seq_766	L3-9-seq_422
+4dag	fusion_glycoprotein_f0	H1-7-seq_439		L1-11-seq_386	L2-7-seq_487	L3-9-seq_185
+4dvr	envelope_glycoprotein_gp160	H1-7-seq_577	H2-6-seq_493	L1-11-seq_376	L2-7-seq_65	L3-8-seq_40
+4fqj	hemagglutinin	H1-7-seq_661	H2-6-seq_510	L1-13-seq_2	L2-7-seq_738	L3-11-seq_14
+4hfu	hemagglutinin_ha1	H1-7-seq_3	H2-6-seq_519	L1-11-seq_395	L2-7-seq_33	L3-10-seq_148
+4j6r	envelope_glycoprotein_gp160	H1-7-seq_577	H2-6-seq_532	L1-11-seq_406	L2-7-seq_33	
+4jb9	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_659	H2-6-seq_509	L1-10-seq_2	L2-7-seq_735	
+4jhw	fusion_glycoprotein_f0	H1-7-seq_392	H2-6-seq_203	L1-11-seq_384	L2-7-seq_433	L3-9-seq_227
+4kxz	transforming_growth_factor_beta-2	H1-7-seq_532	H2-6-seq_280	L1-12-seq_56	L2-7-seq_258	L3-9-seq_215
+4m5z	hemagglutinin_ha1_chain	H1-8-seq_7		L1-11-seq_199	L2-7-seq_641	L3-11-seq_59
+4mwf	envelope_glycoprotein_e2	H1-7-seq_394	H2-6-seq_68	L1-11-seq_228	L2-7-seq_33	L3-9-seq_235
+4ot1	envelope_glycoprotein_b	H1-7-seq_608	H2-6-seq_474	L1-13-seq_4	L2-7-seq_610	L3-10-seq_157
+4qhu	interleukin-17a	H1-7-seq_65	H2-6-seq_264	L1-11-seq_386	L2-7-seq_382	L3-11-seq_52
+4ut6	envelope_glycoprotein_e	H1-7-seq_363	H2-6-seq_281	L1-14-seq_65	L2-7-seq_402	L3-10-seq_100
+4uv7	epidermal_growth_factor_receptor	H1-7-seq_577	H2-6-seq_518	L1-16-seq_28	L2-7-seq_71	L3-9-seq_243
+4xak	spike_glycoprotein	H1-7-seq_549	H2-6-seq_419	L1-11-seq_1	L2-7-seq_65	L3-9-seq_331
+4xnm	hemagglutinin	H1-8-seq_15		L1-11-seq_29	L2-7-seq_353	L3-9-seq_379
+4y5v	erythropoietin_receptor	H1-7-seq_65	H2-6-seq_397	L1-14-seq_53	L2-7-seq_577	L3-10-seq_133
+4y5x	erythropoietin_receptor	H1-7-seq_65	H2-6-seq_257	L1-13-seq_33	L2-7-seq_553	L3-11-seq_14
+4y5y	erythropoietin_receptor	H1-7-seq_678	H2-6-seq_397	L1-14-seq_101	L2-7-seq_97	L3-11-seq_110
+4ydi	envelope_glycoprotein_gp160	H1-7-seq_589	H2-6-seq_460	L1-11-seq_347	L2-7-seq_659	
+4yjz	hemagglutinin	H1-7-seq_427	H2-6-seq_334	L1-13-seq_2	L2-7-seq_471	L3-11-seq_64
+4yk4	hemagglutinin	H1-7-seq_449		L1-11-seq_33	L2-7-seq_65	L3-9-seq_282
+4ypg	interferon_alpha-2	H1-7-seq_65	H2-6-seq_256	L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+4z5r	interferon_alpha-2	H1-7-seq_386	H2-6-seq_300	L1-15-seq_3	L2-7-seq_221	L3-9-seq_230
+4zff	vascular_endothelial_growth_factor_a	H1-7-seq_584	H2-6-seq_426	L1-12-seq_90	L2-7-seq_654	L3-9-seq_365
+5a3i	hemagglutinin	H1-7-seq_577	H2-6-seq_451	L1-16-seq_31	L2-7-seq_36	L3-9-seq_360
+5anm	ig_epsilon_chain_c_region	H1-7-seq_505	H2-6-seq_369	L1-14-seq_34	L2-7-seq_537	L3-11-seq_77
+5eii	histone_chaperone_asf1	H1-7-seq_558	H2-6-seq_529	L1-11-seq_36	L2-7-seq_67	L3-9-seq_421
+5f9o	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_287	H2-6-seq_498	L1-11-seq_383	L2-7-seq_33	L3-8-seq_42
+5f9w	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_158	H2-6-seq_375	L1-11-seq_399	L2-7-seq_33	L3-8-seq_31
+5ggr	programmed_cell_death_protein_1	H1-7-seq_472	H2-6-seq_364	L1-11-seq_33	L2-7-seq_290	L3-9-seq_286
+5ggs	programmed_cell_death_protein_1	H1-7-seq_158	H2-6-seq_341	L1-15-seq_7	L2-7-seq_483	L3-9-seq_265
+5ggt	programmed_cell_death_1_ligand_1	H1-7-seq_3	H2-6-seq_351	L1-11-seq_33	L2-7-seq_290	L3-8-seq_30
+5ggv	cytotoxic_t-lymphocyte_protein_4	H1-7-seq_65	H2-6-seq_385	L1-11-seq_232	L2-7-seq_65	L3-9-seq_258
+5grj	programmed_cell_death_1_ligand_1	H1-7-seq_65	H2-6-seq_399	L1-14-seq_53	L2-7-seq_450	L3-10-seq_111
+5gzo	genome_polyprotein	H1-8-seq_1		L1-11-seq_1	L2-7-seq_65	L3-9-seq_43
+5ibl	hemagglutinin	H1-7-seq_65	H2-6-seq_276	L1-12-seq_55	L2-7-seq_396	L3-9-seq_79
+5iwl	leukocyte_surface_antigen_cd47	H1-7-seq_158	H2-6-seq_353	L1-16-seq_28	L2-7-seq_71	L3-9-seq_38
+5k9o	hemagglutinin	H1-7-seq_65	H2-6-seq_290	L1-16-seq_15	L2-7-seq_445	L3-9-seq_243
+5kjr	clade_a/e_93th057_hiv-1_gp120_core	H1-9-seq_60		L1-14-seq_53	L2-7-seq_332	L3-10-seq_4
+5lbs	envelope_protein_e	H1-7-seq_65	H2-6-seq_268	L1-11-seq_33	L2-7-seq_386	L3-10-seq_148
+5n0a	envelope_glycoprotein_e	H1-7-seq_414	H2-6-seq_281	L1-14-seq_75	L2-7-seq_741	L3-10-seq_113
+5n7w	interleukin-17a	H1-7-seq_65	H2-6-seq_503	L1-11-seq_385	L2-7-seq_68	L3-9-seq_401
+5o4g	receptor_tyrosine-protein_kinase_erbb-2	H1-7-seq_696	H2-6-seq_537	L1-11-seq_33	L2-7-seq_65	L3-9-seq_425
+5sx4	epidermal_growth_factor_receptor	H1-9-seq_39		L1-11-seq_384	L2-7-seq_257	L3-9-seq_310
+5t3z	envelope_glycoprotein_gp160	H1-7-seq_519	H2-6-seq_400	L1-14-seq_97	L2-7-seq_582	L3-8-seq_34
+5te6	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_590	H2-6-seq_461	L1-11-seq_347	L2-7-seq_660	
+5tz2	leukocyte_surface_antigen_cd47	H1-7-seq_577	H2-6-seq_34	L1-11-seq_256	L2-7-seq_493	L3-9-seq_272
+5tzt	leukocyte_surface_antigen_cd47	H1-7-seq_577	H2-6-seq_362	L1-16-seq_29	L2-7-seq_71	L3-9-seq_38
+5tzu	leukocyte_surface_antigen_cd47	H1-7-seq_98	H2-6-seq_292	L1-11-seq_35	L2-7-seq_452	L3-9-seq_364
+5udc	fusion_glycoprotein_f0	H1-7-seq_470	H2-6-seq_203	L1-11-seq_384	L2-7-seq_433	L3-9-seq_227
+5uea	histone_chaperone_asf1	H1-7-seq_558	H2-6-seq_439	L1-11-seq_36	L2-7-seq_67	L3-9-seq_350
+5uek	histone_chaperone_asf1	H1-7-seq_20	H2-6-seq_479	L1-11-seq_36	L2-7-seq_67	L3-9-seq_383
+5ug0	hemagglutinin_ha1	H1-7-seq_649		L1-12-seq_102	L2-7-seq_725	L3-10-seq_167
+5ugy	hemagglutinin_ha1	H1-7-seq_577	H2-6-seq_348	L1-11-seq_260	L2-7-seq_484	L3-11-seq_53
+5vag	hemagglutinin	H1-7-seq_549	H2-6-seq_419	L1-11-seq_33	L2-7-seq_65	L3-9-seq_196
+5vkd	nucleoprotein	H1-7-seq_558	H2-6-seq_436	L1-11-seq_36	L2-7-seq_67	L3-9-seq_347
+5vn8	envelope_glycoprotein_gp160	H1-7-seq_541	H2-6-seq_18	L1-12-seq_83	L2-7-seq_606	L3-9-seq_336
+5w08	hemagglutinin_ha1	H1-7-seq_329	H2-6-seq_370	L1-14-seq_62	L2-7-seq_741	L3-8-seq_27
+5w1k	pre-glycoprotein_polyprotein_gp_complex	H1-9-seq_47		L1-12-seq_1	L2-7-seq_519	L3-9-seq_290
+5w42	hemagglutinin	H1-7-seq_3	H2-6-seq_533	L1-12-seq_106	L2-7-seq_33	L3-8-seq_46
+5w4l	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_65	H2-6-seq_327	L1-12-seq_61	L2-7-seq_461	L3-11-seq_63
+5x8l	programmed_cell_death_1_ligand_1	H1-7-seq_100	H2-6-seq_402	L1-11-seq_302	L2-7-seq_132	L3-9-seq_323
+5xhv	hemagglutinin	H1-7-seq_570	H2-6-seq_445	L1-11-seq_334	L2-7-seq_637	L3-9-seq_354
+5xj3	cytotoxic_t-lymphocyte_protein_4	H1-7-seq_65	H2-6-seq_118	L1-12-seq_26	L2-7-seq_23	L3-9-seq_79
+5xj4	programmed_cell_death_1_ligand_1	H1-7-seq_678	H2-6-seq_129	L1-12-seq_27	L2-7-seq_386	L3-9-seq_104
+5xwd	epidermal_growth_factor_receptor	H1-9-seq_38		L1-11-seq_199	L2-7-seq_484	L3-11-seq_53
+5y9j	tumor_necrosis_factor_ligand_superfamily_member_13b	H1-7-seq_560	H2-6-seq_68	L1-11-seq_61	L2-7-seq_110	L3-11-seq_60
+6aru	epidermal_growth_factor_receptor	H1-7-seq_412		L1-11-seq_239	L2-7-seq_454	L3-9-seq_286
+6att	receptor_tyrosine-protein_kinase_erbb-2	H1-7-seq_65	H2-6-seq_231	L1-17-seq_24	L2-7-seq_449	L3-9-seq_240
+6b0e	25_kda_ookinete_surface_antigen	H1-7-seq_554	H2-6-seq_290	L1-16-seq_15	L2-7-seq_2	L3-9-seq_243
+6b0g	25_kda_ookinete_surface_antigen	H1-7-seq_65	H2-6-seq_290	L1-16-seq_15	L2-7-seq_2	L3-9-seq_243
+6b0s	circumsporozoite_protein	H1-7-seq_65	H2-6-seq_231	L1-11-seq_386	L2-7-seq_353	L3-9-seq_185
+6bft	vascular_endothelial_growth_factor_a	H1-7-seq_527	H2-6-seq_408	L1-11-seq_384	L2-7-seq_590	L3-9-seq_327
+6bgt	receptor_tyrosine-protein_kinase_erbb-2	H1-7-seq_686	H2-6-seq_83	L1-11-seq_403	L2-7-seq_763	L3-9-seq_72
+6c6z	spike_protein	H1-7-seq_229	H2-6-seq_419	L1-16-seq_33	L2-7-seq_36	L3-8-seq_14
+6cdi	glycoprotein_120	H1-7-seq_577	H2-6-seq_323	L1-16-seq_28	L2-7-seq_453	L3-9-seq_38
+6dfh	envelope_glycoprotein_gp160	H1-8-seq_1		L1-11-seq_159	L2-7-seq_354	L3-11-seq_54
+6e4x	hemagglutinin	H1-9-seq_41		L1-11-seq_257	L2-7-seq_494	
+6e56	hemagglutinin	H1-7-seq_662	H2-6-seq_511	L1-11-seq_228	L2-7-seq_33	L3-10-seq_172
+6fax	tumor_necrosis_factor_receptor_superfamily_member_5	H1-7-seq_386	H2-6-seq_476	L1-11-seq_244	L2-7-seq_684	L3-9-seq_380
+6ii4	hemagglutinin	H1-7-seq_65	H2-6-seq_386	L1-13-seq_5	L2-7-seq_730	L3-9-seq_403
+6ii8	hemagglutinin	H1-7-seq_65	H2-6-seq_257	L1-13-seq_5	L2-7-seq_226	L3-9-seq_24
+6ii9	hemagglutinin	H1-7-seq_517		L1-14-seq_34	L2-7-seq_600	L3-11-seq_91
+6iut	hemagglutinin	H1-7-seq_89		L1-14-seq_35	L2-7-seq_466	L3-10-seq_117
+6iuv	hemagglutinin	H1-7-seq_595	H2-6-seq_465	L1-16-seq_33	L2-7-seq_666	L3-8-seq_35
+6iw2	envelope_protein_e	H1-7-seq_477		L1-11-seq_345	L2-7-seq_705	L3-9-seq_300
+6jjp	programmed_cell_death_protein_1	H1-7-seq_65	H2-6-seq_175	L1-11-seq_299	L2-7-seq_129	L3-9-seq_319
+6kyz	genome_polyprotein	H1-7-seq_65	H2-6-seq_386	L1-11-seq_386	L2-7-seq_353	L3-9-seq_185
+6kz0	genome_polyprotein	H1-7-seq_502	H2-6-seq_217	L1-11-seq_225	L2-7-seq_65	L3-9-seq_308
+6lxj	neuraminidase	H1-7-seq_390	H2-6-seq_419	L1-14-seq_35	L2-7-seq_450	L3-10-seq_107
+6meh	e2_glycoprotein	H1-7-seq_684	H2-6-seq_526	L1-11-seq_70	L2-7-seq_705	L3-9-seq_419
+6mfp	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_65	H2-6-seq_187	L1-11-seq_203	L2-7-seq_65	L3-9-seq_308
+6mg7	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_465	H2-6-seq_97	L1-11-seq_272	L2-7-seq_673	L3-9-seq_292
+6mi2	tumor_necrosis_factor_receptor_superfamily_member_9	H1-7-seq_545	H2-6-seq_425	L1-11-seq_319	L2-7-seq_611	L3-11-seq_94
+6mlm	hemagglutinin_ha1_chain	H1-7-seq_525	H2-6-seq_406	L1-11-seq_304	L2-7-seq_740	L3-9-seq_292
+6nms	tyrosine-protein_phosphatase_non-receptor_type_substrate_1	H1-7-seq_65	H2-6-seq_267	L1-11-seq_3	L2-7-seq_33	L3-10-seq_97
+6nmu	tyrosine-protein_phosphatase_non-receptor_type_substrate_1	H1-7-seq_65	H2-6-seq_411	L1-11-seq_308	L2-7-seq_290	L3-10-seq_139
+6o25	circumsporozoite_protein	H1-7-seq_65	H2-6-seq_385	L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+6o2b	circumsporozoite_protein	H1-7-seq_335	H2-8-seq_10	L1-12-seq_1	L2-7-seq_33	L3-9-seq_79
+6oc3	hemagglutinin	H1-9-seq_56		L1-11-seq_336	L2-7-seq_494	L3-9-seq_356
+6oe4	fusion_glycoprotein_f0	H1-9-seq_44		L1-11-seq_151	L2-7-seq_510	L3-9-seq_283
+6oej	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_65	H2-6-seq_515	L1-16-seq_33	L2-7-seq_36	L3-8-seq_44
+6ofi	clade_a/e_93th057_hiv-1_gp120_core	H1-7-seq_698	H2-6-seq_539	L1-11-seq_228	L2-7-seq_33	L3-10-seq_148
+6pdx	hemagglutinin	H1-7-seq_606		L1-13-seq_55	L2-7-seq_610	L3-10-seq_156
+6pe8	tumor_necrosis_factor_receptor_superfamily_member_5	H1-7-seq_577	H2-6-seq_350	L1-17-seq_17	L2-7-seq_449	L3-9-seq_246
+6pe9	tumor_necrosis_factor_receptor_superfamily_member_5	H1-7-seq_577	H2-6-seq_320	L1-17-seq_17	L2-7-seq_449	L3-9-seq_246
+6phb	25_kda_ookinete_surface_antigen	H1-7-seq_626		L1-11-seq_384	L2-7-seq_257	L3-10-seq_161
+6phc	25_kda_ookinete_surface_antigen	H1-7-seq_617	H2-6-seq_481	L1-15-seq_9	L2-7-seq_36	L3-8-seq_37
+6phf	25_kda_ookinete_surface_antigen	H1-7-seq_419	H2-6-seq_329	L1-11-seq_241	L2-7-seq_353	L3-10-seq_115
+6pze	neuraminidase	H1-9-seq_38		L1-13-seq_33	L2-7-seq_610	L3-11-seq_32
+6pzw	neuraminidase	H1-7-seq_321	H2-6-seq_386	L1-14-seq_53	L2-7-seq_450	L3-10-seq_95
+6pzy	neuraminidase	H1-8-seq_6		L1-13-seq_18	L2-7-seq_710	L3-11-seq_4
+6pzz	neuraminidase	H1-7-seq_297	H2-6-seq_290	L1-11-seq_33	L2-7-seq_65	L3-9-seq_292
+6q1z	neuraminidase	H1-7-seq_321	H2-6-seq_12	L1-11-seq_151	L2-7-seq_551	L3-10-seq_153
+6q20	neuraminidase	H1-7-seq_321	H2-6-seq_12	L1-11-seq_151	L2-7-seq_551	L3-10-seq_159
+6u02	neuraminidase	H1-7-seq_65	H2-6-seq_129	L1-11-seq_33	L2-7-seq_235	L3-10-seq_99
+6u0n	envelope_glycoprotein_gp120	H1-7-seq_533	H2-6-seq_419	L1-13-seq_33	L2-7-seq_226	L3-11-seq_32
+6uig	hemagglutinin	H1-9-seq_59		L1-11-seq_370	L2-7-seq_681	L3-9-seq_387
+6um7	envelope_glycoprotein_gp120	H1-7-seq_577	H2-6-seq_291	L1-14-seq_47	L2-7-seq_97	L3-10-seq_25
+6urm	hemagglutinin	H1-9-seq_7		L1-11-seq_199	L2-7-seq_513	L3-9-seq_285
+6utk	envelope_glycoprotein_gp120	H1-7-seq_450	H2-6-seq_462	L1-12-seq_92	L2-7-seq_662	L3-9-seq_370
+6uyg	envelope_glycoprotein_e2	H1-7-seq_504	H2-6-seq_68	L1-12-seq_69	L2-7-seq_516	L3-8-seq_33
+6v4n	neuraminidase	H1-7-seq_350		L1-11-seq_207	L2-7-seq_1	L3-9-seq_208
+6v4o	neuraminidase	H1-7-seq_432	H2-6-seq_339	L1-12-seq_64	L2-7-seq_33	L3-9-seq_262
+6vn1	envelope_glycoprotein_b	H1-7-seq_450	H2-6-seq_349	L1-11-seq_70	L2-7-seq_500	L3-9-seq_149
+6wir	interleukin-17a	H1-7-seq_364	H2-6-seq_282	L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+6wm9	reticulocyte_binding_protein_2b	H1-7-seq_498	H2-6-seq_386	L1-14-seq_93	L2-7-seq_556	L3-10-seq_72
+6wn1	reticulocyte_binding_protein_2b	H1-7-seq_165	H2-6-seq_342	L1-11-seq_252	L2-7-seq_484	L3-11-seq_69
+6wo4	envelope_glycoprotein_e2	H1-7-seq_672	H2-6-seq_68	L1-12-seq_104	L2-7-seq_749	L3-9-seq_5
+6wo5	envelope_glycoprotein_e2	H1-7-seq_370	H2-6-seq_203	L1-11-seq_225	L2-7-seq_2	L3-9-seq_222
+6woz	reticulocyte_binding_protein_2b	H1-7-seq_508	H2-6-seq_392	L1-11-seq_294	L2-7-seq_570	L3-9-seq_164
+6wqo	reticulocyte_binding_protein_2b	H1-7-seq_666		L1-11-seq_391	L2-7-seq_740	L3-9-seq_408
+6wtu	reticulocyte_binding_protein_2b	H1-7-seq_488	H2-6-seq_257	L1-11-seq_317	L2-7-seq_546	L3-11-seq_92
+6wtv	reticulocyte_binding_protein_2b	H1-7-seq_488	H2-6-seq_257	L1-11-seq_260	L2-7-seq_546	L3-11-seq_92
+6wty	reticulocyte_binding_protein_2b	H1-7-seq_378	H2-6-seq_294	L1-14-seq_69	L2-7-seq_97	L3-10-seq_103
+6xcn	spike_glycoprotein	H1-7-seq_513		L1-14-seq_53	L2-7-seq_97	L3-11-seq_50
+6xe1	spike_protein_s1	H1-7-seq_129		L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+6xey	sars-cov-2_spike_glycoprotein	H1-7-seq_603	H2-6-seq_33	L1-14-seq_53	L2-7-seq_97	L3-10-seq_65
+6xkp	spike_protein_s1	H1-7-seq_577	H2-6-seq_366	L1-14-seq_53	L2-7-seq_332	L3-10-seq_124
+6xkq	spike_protein_s1	H1-7-seq_398	H2-6-seq_489	L1-14-seq_72	L2-7-seq_439	L3-10-seq_109
+6xkr	programmed_cell_death_protein_1	H1-7-seq_65	H2-6-seq_490	L1-17-seq_17	L2-7-seq_706	L3-9-seq_392
+6xpx	hemagglutinin	H1-7-seq_619	H2-6-seq_482	L1-17-seq_22	L2-7-seq_449	L3-9-seq_386
+6xpy	hemagglutinin	H1-7-seq_474		L1-11-seq_277	L2-7-seq_530	L3-9-seq_292
+6xpz	hemagglutinin	H1-7-seq_445	H2-6-seq_346	L1-11-seq_384	L2-7-seq_495	L3-9-seq_273
+6xq0	hemagglutinin	H1-7-seq_461		L1-12-seq_68	L2-7-seq_516	L3-9-seq_288
+6xq2	hemagglutinin	H1-7-seq_523	H2-6-seq_404	L1-11-seq_303	L2-7-seq_586	L3-9-seq_324
+6xq4	hemagglutinin	H1-7-seq_97		L1-17-seq_20	L2-7-seq_449	L3-9-seq_351
+6xy2	cytotoxic_t-lymphocyte_protein_4	H1-7-seq_423		L1-11-seq_379	L2-7-seq_715	L3-9-seq_397
+7akd	spike_glycoprotein	H1-7-seq_627		L1-11-seq_105	L2-7-seq_258	L3-9-seq_286
+7b3o	surface_glycoprotein	H1-7-seq_641		L1-11-seq_225	L2-7-seq_65	L3-10-seq_153
+7bej	spike_glycoprotein	H1-7-seq_578		L1-11-seq_225	L2-7-seq_65	L3-9-seq_204
+7bel	spike_glycoprotein	H1-9-seq_33		L1-13-seq_33	L2-7-seq_553	L3-11-seq_51
+7beo	spike_glycoprotein	H1-7-seq_486	H2-6-seq_97	L1-12-seq_1	L2-7-seq_33	L3-9-seq_79
+7bep	spike_glycoprotein	H1-7-seq_577	H2-6-seq_414	L1-11-seq_225	L2-7-seq_65	L3-9-seq_330
+7bnv	surface_glycoprotein	H1-7-seq_569	H2-6-seq_34	L1-12-seq_1	L2-7-seq_33	L3-11-seq_8
+7bpk	envelope_protein	H1-7-seq_65	H2-6-seq_386	L1-13-seq_33	L2-7-seq_721	L3-11-seq_32
+7bq5	envelope_protein	H1-9-seq_46		L1-11-seq_225	L2-7-seq_387	L3-9-seq_287
+7bu8	genome_polyprotein	H1-7-seq_532	H2-6-seq_412	L1-11-seq_384	L2-7-seq_595	L3-9-seq_227
+7byr	sars-cov-2_spike_glycoprotein	H1-7-seq_65	H2-6-seq_536	L1-11-seq_70	L2-7-seq_705	L3-9-seq_393
+7bz5	spike_protein_s1	H1-7-seq_585		L1-11-seq_225	L2-7-seq_65	L3-10-seq_153
+7cdj	spike_protein_s1	H1-7-seq_577	H2-6-seq_366	L1-11-seq_225	L2-7-seq_65	L3-9-seq_331
+7cgw	programmed_cell_death_protein_1	H1-7-seq_423		L1-11-seq_261	L2-7-seq_498	L3-9-seq_275
+7chc	spike_glycoprotein	H1-7-seq_550		L1-11-seq_225	L2-7-seq_33	L3-9-seq_255
+7chh	spike_glycoprotein	H1-7-seq_356	H2-6-seq_275	L1-16-seq_33	L2-7-seq_36	L3-9-seq_212
+7cho	spike_protein_s1	H1-7-seq_585		L1-14-seq_34	L2-7-seq_545	L3-11-seq_67
+7chs	spike_protein_s1	H1-7-seq_513		L1-11-seq_225	L2-7-seq_65	L3-8-seq_36
+7cjf	spike_glycoprotein	H1-7-seq_585		L1-11-seq_162	L2-7-seq_65	L3-9-seq_148
+7cm4	spike_glycoprotein	H1-9-seq_37		L1-13-seq_33	L2-7-seq_610	L3-11-seq_32
+7coe	spike_glycoprotein	H1-7-seq_560	H2-6-seq_438	L1-12-seq_1	L2-7-seq_386	L3-9-seq_5
+7cu5	programmed_cell_death_protein_1	H1-7-seq_65	H2-6-seq_457	L1-11-seq_345	L2-7-seq_656	L3-9-seq_367
+7cwn	spike_glycoprotein	H1-7-seq_65	H2-6-seq_255	L1-11-seq_33	L2-7-seq_65	L3-9-seq_196
+7cws	spike_glycoprotein	H1-7-seq_380	H2-6-seq_484	L1-13-seq_33	L2-7-seq_610	L3-11-seq_32
+7cyv	spike_protein_s1	H1-7-seq_549	H2-6-seq_483	L1-11-seq_159	L2-7-seq_354	L3-11-seq_54
+7czp	spike_glycoprotein	H1-7-seq_449		L1-14-seq_53	L2-7-seq_577	L3-10-seq_120
+7czq	spike_glycoprotein	H1-7-seq_513		L1-11-seq_384	L2-7-seq_257	L3-10-seq_174
+7czs	spike_glycoprotein	H1-7-seq_513		L1-11-seq_225	L2-7-seq_65	L3-9-seq_295
+7czu	spike_glycoprotein	H1-7-seq_65	H2-6-seq_386	L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+7czw	spike_glycoprotein	H1-9-seq_57		L1-14-seq_53	L2-7-seq_450	L3-11-seq_98
+7czx	spike_glycoprotein	H1-7-seq_449		L1-17-seq_24	L2-7-seq_449	L3-9-seq_258
+7czy	spike_glycoprotein	H1-7-seq_65	H2-6-seq_370	L1-17-seq_24	L2-7-seq_449	L3-9-seq_258
+7d0c	spike_glycoprotein	H1-7-seq_513		L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+7d0d	spike_glycoprotein	H1-9-seq_37		L1-17-seq_24	L2-7-seq_449	L3-9-seq_258
+7deo	spike_protein_s1	H1-7-seq_622	H2-6-seq_385	L1-16-seq_33	L2-7-seq_36	L3-9-seq_56
+7djz	spike_protein_s1	H1-7-seq_549	H2-6-seq_483	L1-11-seq_228	L2-7-seq_33	L3-8-seq_42
+7dk0	spike_protein_s1	H1-7-seq_549	H2-6-seq_419	L1-11-seq_228	L2-7-seq_33	L3-10-seq_148
+7dk2	spike_protein_s1	H1-7-seq_65	H2-6-seq_293	L1-11-seq_225	L2-7-seq_65	L3-9-seq_225
+7dpm	spike_protein_s1	H1-7-seq_65	H2-6-seq_257	L1-11-seq_225	L2-7-seq_65	L3-9-seq_43
+7dx4	spike_protein_s1	H1-7-seq_549	H2-6-seq_378	L1-14-seq_34	L2-7-seq_545	L3-11-seq_91
+7dzx	spike_glycoprotein	H1-7-seq_65	H2-6-seq_282	L1-11-seq_1	L2-7-seq_65	L3-9-seq_43
+7dzy	spike_glycoprotein	H1-7-seq_65	H2-6-seq_313	L1-11-seq_228	L2-7-seq_33	L3-9-seq_239
+7e23	spike_protein_s1	H1-7-seq_517		L1-11-seq_33	L2-7-seq_290	L3-9-seq_164
+7e39	spike_protein_s1	H1-7-seq_554	H2-6-seq_385	L1-11-seq_225	L2-7-seq_673	L3-9-seq_43
+7e3k	spike_glycoprotein	H1-7-seq_576	H2-6-seq_97	L1-12-seq_103	L2-7-seq_33	L3-9-seq_79
+7e3o	spike_protein_s1	H1-7-seq_65		L1-13-seq_2	L2-7-seq_710	L3-10-seq_17
+7e5o	spike_protein_s1	H1-7-seq_517		L1-11-seq_244	L2-7-seq_65	L3-9-seq_410
+7e5s	spike_glycoprotein	H1-7-seq_388	H2-6-seq_292	L1-15-seq_4	L2-7-seq_429	L3-9-seq_232
+7e5y	spike_protein_s1	H1-7-seq_628		L1-13-seq_57	L2-7-seq_703	L3-11-seq_105
+7e7x	spike_protein_s1	H1-7-seq_551	H2-6-seq_429	L1-14-seq_101	L2-7-seq_577	L3-10-seq_4
+7e7y	spike_protein_s1	H1-7-seq_578		L1-14-seq_101	L2-7-seq_97	L3-10-seq_25
+7e86	spike_protein_s1	H1-7-seq_585		L1-11-seq_33	L2-7-seq_65	L3-10-seq_99
+7e88	spike_protein_s1	H1-7-seq_550		L1-11-seq_384	L2-7-seq_642	L3-9-seq_167
+7e8c	spike_glycoprotein	H1-7-seq_381	H2-6-seq_275	L1-16-seq_33	L2-7-seq_36	L3-9-seq_212
+7e9b	programmed_cell_death_protein_1	H1-7-seq_544	H2-6-seq_457	L1-11-seq_302	L2-7-seq_129	L3-9-seq_338
+7e9o	spike_glycoprotein	H1-7-seq_321	H2-6-seq_193	L1-16-seq_33	L2-7-seq_36	L3-9-seq_141
+7eh5	spike_glycoprotein	H1-7-seq_352	H2-6-seq_271	L1-11-seq_208	L2-7-seq_133	L3-9-seq_210
+7ej4	spike_glycoprotein	H1-7-seq_65	H2-6-seq_292	L1-12-seq_59	L2-7-seq_416	L3-9-seq_224
+7ejz	spike_protein_s1	H1-7-seq_389		L1-11-seq_33	L2-7-seq_65	L3-10-seq_99
+7eng	spike_glycoprotein	H1-7-seq_65	H2-6-seq_386	L1-17-seq_24	L2-7-seq_449	L3-9-seq_404
+7ey0	spike_glycoprotein	H1-7-seq_321	H2-6-seq_193	L1-11-seq_33	L2-7-seq_484	L3-10-seq_158
+7ey5	spike_glycoprotein	H1-7-seq_503	H2-8-seq_14	L1-11-seq_289	L2-7-seq_387	L3-9-seq_309
+7eya	spike_glycoprotein	H1-7-seq_636	H2-6-seq_231	L1-11-seq_377	L2-7-seq_711	L3-9-seq_394
+7ezv	spike_glycoprotein	H1-7-seq_486	H2-6-seq_168	L1-11-seq_352	L2-7-seq_33	L3-9-seq_79
+7f15	spike_protein_s1	H1-7-seq_386	H2-6-seq_492	L1-11-seq_375	L2-7-seq_708	L3-9-seq_393
+7f3q	spike_glycoprotein	H1-7-seq_65	H2-6-seq_273	L1-11-seq_162	L2-7-seq_65	L3-11-seq_53
+7fcp	spike_protein_s1	H1-7-seq_165	H2-6-seq_432	L1-11-seq_384	L2-7-seq_257	L3-10-seq_142
+7fjc	spike_protein_s1	H1-7-seq_313	H2-6-seq_10	L1-11-seq_70	L2-7-seq_740	L3-9-seq_393
+7fjo	spike_glycoprotein	H1-7-seq_387	H2-6-seq_301	L1-17-seq_17	L2-7-seq_449	L3-9-seq_393
+7jmo	spike_protein_s1	H1-7-seq_513		L1-12-seq_1	L2-7-seq_33	L3-8-seq_26
+7jmp	spike_protein_s1	H1-7-seq_513		L1-14-seq_101	L2-7-seq_97	L3-10-seq_25
+7jv4	sars-cov-2_spike_glycoprotein	H1-7-seq_65	H2-6-seq_129	L1-14-seq_85	L2-7-seq_511	L3-10-seq_121
+7jva	sars-cov-2_spike_glycoprotein	H1-7-seq_65	H2-6-seq_129	L1-13-seq_5	L2-7-seq_226	L3-10-seq_92
+7jx3	spike_glycoprotein	H1-7-seq_100	H2-8-seq_4	L1-13-seq_5	L2-7-seq_226	L3-9-seq_306
+7k8m	surface_glycoprotein	H1-7-seq_585		L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+7k8s	spike_glycoprotein	H1-7-seq_397	H2-6-seq_386	L1-11-seq_33	L2-7-seq_65	L3-9-seq_196
+7k8v	spike_glycoprotein	H1-7-seq_512	H2-6-seq_34	L1-11-seq_298	L2-7-seq_578	L3-9-seq_393
+7k8w	spike_glycoprotein	H1-7-seq_65	H2-6-seq_321	L1-14-seq_53	L2-7-seq_450	L3-11-seq_61
+7k8x	spike_glycoprotein	H1-7-seq_603	H2-6-seq_513	L1-14-seq_101	L2-7-seq_741	L3-10-seq_25
+7k8z	spike_glycoprotein	H1-7-seq_65	H2-6-seq_398	L1-11-seq_312	L2-7-seq_578	L3-9-seq_393
+7k9z	spike_glycoprotein	H1-7-seq_65	H2-6-seq_428	L1-11-seq_1	L2-7-seq_65	L3-9-seq_258
+7kdd	envelope_glycoprotein_b	H1-7-seq_608	H2-6-seq_474	L1-13-seq_4	L2-7-seq_610	L3-10-seq_157
+7kde	envelope_glycoprotein_gp120	H1-8-seq_12	H2-6-seq_415	L1-13-seq_52	L2-7-seq_610	L3-11-seq_90
+7kfv	surface_glycoprotein	H1-7-seq_513		L1-11-seq_225	L2-7-seq_65	L3-9-seq_256
+7kfw	surface_glycoprotein	H1-7-seq_513		L1-11-seq_225	L2-7-seq_65	L3-9-seq_353
+7kfx	surface_glycoprotein	H1-7-seq_637		L1-11-seq_225	L2-7-seq_65	L3-9-seq_353
+7kfy	surface_glycoprotein	H1-7-seq_513		L1-11-seq_225	L2-7-seq_635	L3-9-seq_353
+7klg	spike_glycoprotein	H1-7-seq_436	H2-6-seq_340	L1-11-seq_36	L2-7-seq_651	L3-9-seq_363
+7kmg	spike_protein_s1	H1-7-seq_450	H2-6-seq_483	L1-11-seq_33	L2-7-seq_65	L3-9-seq_196
+7kmh	spike_protein_s1	H1-7-seq_641		L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+7kmi	spike_protein_s1	H1-7-seq_513		L1-11-seq_162	L2-7-seq_65	L3-10-seq_176
+7kml	spike_glycoprotein	H1-7-seq_436	H2-6-seq_340	L1-11-seq_36	L2-7-seq_651	L3-9-seq_264
+7kn3	spike_protein_s1	H1-7-seq_667		L1-17-seq_24	L2-7-seq_449	L3-9-seq_351
+7kn4	spike_protein_s1	H1-9-seq_36		L1-13-seq_2	L2-7-seq_459	L3-11-seq_14
+7kqb	spike_glycoprotein	H1-7-seq_65	H2-6-seq_386	L1-11-seq_33	L2-7-seq_65	L3-9-seq_344
+7kqg	hemagglutinin	H1-7-seq_321	H2-6-seq_410	L1-11-seq_244	L2-7-seq_257	L3-9-seq_227
+7kqh	hemagglutinin	H1-7-seq_321	H2-6-seq_335	L1-11-seq_244	L2-7-seq_257	L3-9-seq_257
+7kzb	spike_glycoprotein	H1-7-seq_191	H2-6-seq_394	L1-11-seq_125	L2-7-seq_65	L3-9-seq_316
+7l2c	spike_glycoprotein	H1-7-seq_632	H2-6-seq_379	L1-14-seq_53	L2-7-seq_97	L3-9-seq_305
+7l2d	spike_glycoprotein	H1-7-seq_632	H2-6-seq_491	L1-14-seq_53	L2-7-seq_577	L3-10-seq_136
+7l2f	spike_glycoprotein	H1-7-seq_524	H2-6-seq_364	L1-12-seq_1	L2-7-seq_33	L3-10-seq_137
+7l56	spike_glycoprotein	H1-7-seq_603	H2-6-seq_33	L1-14-seq_53	L2-7-seq_577	L3-10-seq_4
+7l5b	spike_protein_s1	H1-7-seq_603	H2-6-seq_403	L1-14-seq_53	L2-7-seq_577	L3-10-seq_136
+7l7e	spike_protein_s1	H1-7-seq_492	H2-6-seq_97	L1-12-seq_1	L2-7-seq_33	L3-10-seq_127
+7laa	spike_glycoprotein	H1-7-seq_33	H2-6-seq_129	L1-14-seq_34	L2-7-seq_699	L3-11-seq_91
+7lab	spike_glycoprotein	H1-7-seq_577	H2-6-seq_484	L1-12-seq_1	L2-7-seq_33	L3-10-seq_138
+7lcn	spike_glycoprotein	H1-7-seq_482	H2-6-seq_372	L1-14-seq_53	L2-7-seq_97	L3-11-seq_78
+7lex	arginase-1	H1-7-seq_158	H2-6-seq_290	L1-11-seq_33	L2-7-seq_290	L3-9-seq_223
+7ley	arginase-1	H1-7-seq_321	H2-6-seq_335	L1-11-seq_225	L2-7-seq_65	L3-9-seq_236
+7lf2	arginase-1	H1-7-seq_577	H2-6-seq_322	L1-11-seq_238	L2-7-seq_452	L3-9-seq_220
+7ljr	spike_glycoprotein	H1-7-seq_494	H2-6-seq_382	L1-12-seq_1	L2-7-seq_33	L3-8-seq_32
+7ll1	envelope_glycoprotein_gp120	H1-7-seq_505	H2-6-seq_390	L1-11-seq_292	L2-7-seq_567	L3-9-seq_312
+7lop	spike_protein_s1	H1-7-seq_603	H2-6-seq_33	L1-11-seq_33	L2-7-seq_290	L3-10-seq_70
+7lrt	sars-cov-2_spike_glycoprotein	H1-7-seq_486	H2-6-seq_97	L1-12-seq_1	L2-7-seq_643	L3-9-seq_79
+7ls9	spike_glycoprotein	H1-7-seq_425	H2-8-seq_15	L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+7lsf	envelope_protein_e	H1-7-seq_509	H2-6-seq_393	L1-11-seq_228	L2-7-seq_33	L3-9-seq_315
+7lss	spike_glycoprotein	H1-9-seq_37		L1-14-seq_101	L2-7-seq_577	L3-9-seq_382
+7luc	fusion_glycoprotein_f0	H1-7-seq_353	H2-6-seq_290	L1-16-seq_15	L2-7-seq_392	L3-9-seq_243
+7lue	fusion_glycoprotein_f0	H1-7-seq_349	H2-6-seq_290	L1-16-seq_15	L2-7-seq_2	L3-9-seq_207
+7lxw	spike_glycoprotein	H1-7-seq_483	H2-6-seq_385	L1-11-seq_281	L2-7-seq_641	L3-11-seq_84
+7ly3	spike_protein_s1	H1-7-seq_65	H2-6-seq_385	L1-11-seq_306	L2-7-seq_354	L3-11-seq_88
+7ly9	envelope_glycoprotein_gp120	H1-7-seq_372	H2-6-seq_289	L1-11-seq_217	L2-7-seq_546	L3-11-seq_3
+7m3i	spike_protein_s1	H1-7-seq_449		L1-11-seq_199	L2-7-seq_641	L3-11-seq_53
+7m42	spike_protein_s1	H1-7-seq_694	H2-6-seq_33	L1-14-seq_101	L2-7-seq_450	L3-10-seq_152
+7m6d	spike_protein_s1	H1-7-seq_435		L1-12-seq_58	L2-7-seq_33	L3-9-seq_263
+7m6e	spike_glycoprotein	H1-7-seq_429	H2-6-seq_34	L1-13-seq_2	L2-7-seq_100	L3-11-seq_105
+7m6f	spike_glycoprotein	H1-7-seq_513		L1-14-seq_34	L2-7-seq_545	L3-11-seq_80
+7m6g	spike_glycoprotein	H1-7-seq_65	H2-6-seq_290	L1-12-seq_69	L2-7-seq_33	L3-9-seq_289
+7m6h	spike_glycoprotein	H1-7-seq_65	H2-6-seq_354	L1-14-seq_34	L2-7-seq_545	L3-11-seq_91
+7m6i	spike_glycoprotein	H1-7-seq_549	H2-6-seq_344	L1-12-seq_66	L2-7-seq_33	L3-9-seq_271
+7m7b	spike_glycoprotein	H1-7-seq_517		L1-13-seq_50	L2-7-seq_226	L3-9-seq_322
+7mem	hemagglutinin_ha1_chain	H1-7-seq_65	H2-6-seq_347	L1-11-seq_259	L2-7-seq_257	L3-9-seq_274
+7mf1	spike_protein_s1	H1-7-seq_549	H2-6-seq_419	L1-14-seq_53	L2-7-seq_450	L3-10-seq_177
+7mmo	spike_protein_s1	H1-9-seq_43		L1-14-seq_35	L2-7-seq_332	L3-9-seq_382
+7msq	spike_protein_s1	H1-7-seq_449		L1-11-seq_225	L2-7-seq_65	L3-9-seq_340
+7mw3	spike_glycoprotein	H1-7-seq_65	H2-6-seq_279	L1-15-seq_4	L2-7-seq_399	L3-9-seq_214
+7mw6	spike_glycoprotein	H1-7-seq_98	H2-6-seq_258	L1-15-seq_1	L2-7-seq_372	L3-9-seq_200
+7mzf	spike_protein_s1	H1-7-seq_550		L1-11-seq_70	L2-7-seq_705	L3-9-seq_369
+7mzh	spike_protein_s1	H1-7-seq_603	H2-6-seq_33	L1-13-seq_41	L2-7-seq_553	L3-11-seq_74
+7mzj	spike_protein_s1	H1-7-seq_462	H2-8-seq_12	L1-11-seq_413	L2-7-seq_65	L3-10-seq_122
+7mzk	spike_protein_s1	H1-7-seq_65	H2-6-seq_257	L1-13-seq_14	L2-7-seq_449	L3-11-seq_56
+7mzl	spike_protein_s1	H1-7-seq_692		L1-11-seq_407	L2-7-seq_229	L3-8-seq_30
+7mzm	spike_protein_s1	H1-7-seq_577	H2-6-seq_496	L1-12-seq_1	L2-7-seq_33	L3-10-seq_78
+7mzn	spike_protein_s1	H1-7-seq_641		L1-11-seq_384	L2-7-seq_692	L3-9-seq_227
+7n3c	nucleoprotein	H1-7-seq_65	H2-6-seq_465	L1-11-seq_33	L2-7-seq_290	L3-9-seq_164
+7n3d	nucleoprotein	H1-7-seq_449		L1-11-seq_413	L2-7-seq_65	L3-9-seq_425
+7n3i	spike_protein_s1	H1-7-seq_513		L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+7n4i	spike_protein_s1	H1-7-seq_297	H2-6-seq_34	L1-11-seq_33	L2-7-seq_65	L3-9-seq_105
+7n4l	spike_protein_s1	H1-7-seq_65	H2-6-seq_386	L1-11-seq_35	L2-7-seq_65	L3-9-seq_398
+7n5h	spike_glycoprotein	H1-9-seq_14		L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+7n62	spike_glycoprotein	H1-7-seq_65	H2-6-seq_386	L1-12-seq_1	L2-7-seq_33	L3-8-seq_48
+7nd3	spike_glycoprotein	H1-7-seq_97		L1-11-seq_384	L2-7-seq_257	L3-8-seq_43
+7nd5	spike_glycoprotein	H1-7-seq_578		L1-11-seq_225	L2-7-seq_65	L3-11-seq_66
+7nd7	spike_glycoprotein	H1-7-seq_603	H2-6-seq_33	L1-14-seq_53	L2-7-seq_97	L3-10-seq_65
+7neg	surface_glycoprotein	H1-7-seq_442		L1-11-seq_225	L2-7-seq_65	L3-10-seq_119
+7np1	spike_protein_s1	H1-7-seq_578		L1-11-seq_340	L2-7-seq_65	L3-10-seq_99
+7ntc	spike_glycoprotein	H1-7-seq_65	H2-6-seq_538	L1-11-seq_384	L2-7-seq_257	L3-9-seq_426
+7nx7	spike_protein_s1	H1-7-seq_641		L1-12-seq_58	L2-7-seq_33	L3-8-seq_29
+7or9	spike_protein_s1	H1-7-seq_567	H2-6-seq_443	L1-11-seq_33	L2-7-seq_65	L3-10-seq_147
+7orb	spike_protein_s1	H1-7-seq_321	H2-6-seq_97	L1-11-seq_162	L2-7-seq_365	L3-9-seq_5
+7phu	reticulocyte-binding_protein_homolog_5	H1-7-seq_65	H2-6-seq_33	L1-11-seq_199	L2-7-seq_484	L3-11-seq_3
+7pnm	spike_glycoprotein	H1-7-seq_65	H2-6-seq_318	L1-16-seq_33	L2-7-seq_36	L3-9-seq_360
+7pnq	spike_glycoprotein	H1-7-seq_517		L1-11-seq_228	L2-7-seq_33	L3-9-seq_286
+7po5	spike_glycoprotein	H1-7-seq_517		L1-11-seq_228	L2-7-seq_33	L3-9-seq_286
+7pqy	spike_protein_s1	H1-7-seq_513		L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+7pry	surface_glycoprotein	H1-9-seq_49		L1-11-seq_33	L2-7-seq_290	L3-10-seq_70
+7prz	surface_glycoprotein	H1-7-seq_579	H2-6-seq_452	L1-17-seq_21	L2-7-seq_449	L3-9-seq_361
+7ps0	surface_glycoprotein	H1-9-seq_34		L1-14-seq_67	L2-7-seq_741	L3-10-seq_101
+7ps1	surface_glycoprotein	H1-7-seq_623		L1-12-seq_6	L2-7-seq_33	L3-8-seq_48
+7ps2	surface_glycoprotein	H1-7-seq_382	H2-6-seq_298	L1-17-seq_24	L2-7-seq_449	L3-10-seq_105
+7ps4	surface_glycoprotein	H1-7-seq_577	H2-6-seq_494	L1-13-seq_58	L2-7-seq_710	L3-11-seq_14
+7ps5	surface_glycoprotein	H1-7-seq_564	H2-6-seq_440	L1-12-seq_86	L2-7-seq_33	L3-9-seq_352
+7ps6	spike_protein_s1	H1-7-seq_65	H2-6-seq_177	L1-14-seq_101	L2-7-seq_762	L3-10-seq_25
+7ps7	surface_glycoprotein	H1-9-seq_38		L1-11-seq_329	L2-7-seq_354	L3-10-seq_144
+7q0h	spike_protein_s1	H1-9-seq_53		L1-11-seq_225	L2-7-seq_65	L3-9-seq_331
+7q0i	spike_protein_s1	H1-7-seq_65	H2-6-seq_385	L1-11-seq_199	L2-7-seq_484	L3-11-seq_84
+7q9f	surface_glycoprotein	H1-7-seq_467	H2-6-seq_237	L1-12-seq_18	L2-7-seq_33	L3-11-seq_73
+7q9j	spike_glycoprotein	H1-7-seq_506		L1-11-seq_199	L2-7-seq_641	L3-11-seq_87
+7qez	spike_protein_s1	H1-7-seq_486	H2-6-seq_97	L1-12-seq_74	L2-7-seq_643	L3-9-seq_79
+7qf0	spike_protein_s1	H1-7-seq_97		L1-11-seq_225	L2-7-seq_387	L3-10-seq_169
+7qf1	spike_protein_s1	H1-7-seq_549	H2-6-seq_483	L1-11-seq_33	L2-7-seq_65	L3-9-seq_242
+7qnw	surface_glycoprotein	H1-9-seq_35		L1-11-seq_70	L2-7-seq_705	L3-10-seq_112
+7qny	surface_glycoprotein	H1-7-seq_321	H2-6-seq_193	L1-11-seq_338	L2-7-seq_641	L3-11-seq_53
+7qtj	surface_glycoprotein	H1-7-seq_318	H2-6-seq_97	L1-11-seq_225	L2-7-seq_33	L3-9-seq_79
+7r40	spike_glycoprotein	H1-7-seq_65	H2-6-seq_337	L1-11-seq_245	L2-7-seq_290	L3-9-seq_164
+7r6x	spike_protein_s1	H1-7-seq_486	H2-6-seq_97	L1-12-seq_1	L2-7-seq_33	L3-10-seq_154
+7r7n	spike_glycoprotein	H1-7-seq_481	H2-6-seq_371	L1-11-seq_33	L2-7-seq_65	L3-9-seq_196
+7r8l	spike_protein_s1	H1-7-seq_578		L1-12-seq_26	L2-7-seq_749	L3-9-seq_255
+7r8n	spike_glycoprotein	H1-7-seq_642		L1-14-seq_53	L2-7-seq_450	L3-10-seq_165
+7rbu	spike_protein_s1	H1-9-seq_38		L1-11-seq_162	L2-7-seq_65	L3-9-seq_31
+7rdw	glycoprotein_120	H1-7-seq_603	H2-6-seq_370	L1-12-seq_103	L2-7-seq_33	
+7rr0	spike_protein_s1	H1-7-seq_486	H2-6-seq_97	L1-12-seq_103	L2-7-seq_33	L3-9-seq_25
+7ru4	spike_glycoprotein	H1-7-seq_233	H2-6-seq_248	L1-12-seq_1	L2-7-seq_33	L3-9-seq_142
+7ru8	spike_glycoprotein	H1-7-seq_229	H2-6-seq_169	L1-11-seq_151	L2-7-seq_65	L3-9-seq_196
+7rw2	spike_glycoprotein	H1-7-seq_65	H2-6-seq_321	L1-11-seq_225	L2-7-seq_65	L3-9-seq_345
+7rxi	circumsporozoite_protein	H1-7-seq_593	H2-6-seq_261	L1-11-seq_199	L2-7-seq_663	L3-11-seq_100
+7rxj	circumsporozoite_protein	H1-7-seq_571	H2-6-seq_446	L1-11-seq_386	L2-7-seq_353	L3-9-seq_190
+7rxl	circumsporozoite_protein	H1-7-seq_65	H2-6-seq_231	L1-11-seq_386	L2-7-seq_353	L3-9-seq_185
+7rxp	circumsporozoite_protein	H1-7-seq_647	H2-6-seq_500	L1-16-seq_33	L2-7-seq_36	L3-9-seq_141
+7s07	envelope_glycoprotein_h	H1-7-seq_294	H2-8-seq_9	L1-11-seq_177	L2-7-seq_1	L3-9-seq_177
+7s0b	spike_protein_s1	H1-7-seq_65	H2-6-seq_257	L1-11-seq_384	L2-7-seq_257	L3-9-seq_389
+7s0c	spike_glycoprotein	H1-7-seq_65	H2-6-seq_437	L1-11-seq_384	L2-7-seq_257	L3-9-seq_348
+7s0d	spike_glycoprotein	H1-7-seq_65	H2-6-seq_477	L1-11-seq_384	L2-7-seq_257	L3-9-seq_381
+7s0x	circumsporozoite_protein	H1-7-seq_340	H2-6-seq_261	L1-11-seq_199	L2-7-seq_379	L3-10-seq_94
+7s1b	envelope_glycoprotein_h	H1-7-seq_295		L1-12-seq_41	L2-7-seq_33	L3-9-seq_255
+7s4s	spike_protein_s1	H1-7-seq_36		L1-12-seq_1	L2-7-seq_33	L3-10-seq_138
+7s5p	spike_protein_s1	H1-7-seq_513		L1-11-seq_199	L2-7-seq_641	L3-11-seq_53
+7s5q	spike_protein_s1	H1-7-seq_65	H2-6-seq_97	L1-11-seq_384	L2-7-seq_33	L3-9-seq_79
+7s5r	spike_protein_s1	H1-7-seq_486	H2-6-seq_97	L1-12-seq_1	L2-7-seq_33	L3-9-seq_79
+7s6j	spike_glycoprotein	H1-7-seq_549	H2-6-seq_59	L1-11-seq_33	L2-7-seq_290	
+7sc1	spike_glycoprotein	H1-7-seq_641		L1-11-seq_225	L2-7-seq_65	L3-9-seq_228
+7shy	ige_fc	H1-8-seq_6		L1-15-seq_6	L2-7-seq_649	L3-9-seq_261
+7shz	ige_fc	H1-8-seq_6		L1-15-seq_8	L2-7-seq_649	L3-9-seq_261
+7si0	ige_fc	H1-8-seq_6		L1-15-seq_6	L2-7-seq_649	L3-9-seq_261
+7si2	spike_protein_s1	H1-7-seq_65	H2-6-seq_309	L1-11-seq_33	L2-7-seq_65	L3-10-seq_147
+7sj0	spike_glycoprotein	H1-7-seq_293	H2-6-seq_484	L1-13-seq_33	L2-7-seq_610	L3-11-seq_32
+7st5	tyrosine-protein_phosphatase_non-receptor_type_substrate_1	H1-7-seq_195	H2-6-seq_142	L1-11-seq_162	L2-7-seq_494	L3-9-seq_122
+7str	nucleoprotein	H1-7-seq_449		L1-12-seq_1	L2-7-seq_33	L3-9-seq_79
+7sts	nucleoprotein	H1-7-seq_449		L1-13-seq_2	L2-7-seq_100	L3-11-seq_14
+7su0	cytotoxic_t-lymphocyte_protein_4	H1-7-seq_420	H2-6-seq_368	L1-12-seq_73	L2-7-seq_23	L3-9-seq_79
+7sue	nucleoprotein	H1-7-seq_316	H2-6-seq_483	L1-14-seq_53	L2-7-seq_332	L3-10-seq_91
+7swp	spike_protein_s1	H1-7-seq_678	H2-6-seq_118	L1-14-seq_116	L2-7-seq_545	L3-11-seq_91
+7t01	spike_protein_s1	H1-9-seq_61		L1-11-seq_3	L2-7-seq_1	L3-9-seq_406
+7t4r	envelope_glycoprotein_h	H1-7-seq_158	H2-6-seq_259	L1-11-seq_225	L2-7-seq_65	L3-9-seq_203
+7t72	spike_protein_s1	H1-7-seq_97		L1-11-seq_384	L2-7-seq_257	L3-9-seq_167
+7t7b	spike_protein_s1	H1-7-seq_320	H2-6-seq_10	L1-11-seq_384	L2-7-seq_257	L3-8-seq_25
+7tat	spike_glycoprotein	H1-7-seq_496	H2-6-seq_384	L1-13-seq_2	L2-7-seq_710	L3-10-seq_17
+7tb8	spike_glycoprotein	H1-7-seq_65	H2-6-seq_386	L1-11-seq_162	L2-7-seq_740	L3-9-seq_269
+7tcc	spike_glycoprotein	H1-7-seq_423	H2-6-seq_97	L1-12-seq_1	L2-7-seq_33	L3-10-seq_118
+7te1	spike_protein_s1	H1-7-seq_577	H2-6-seq_33	L1-11-seq_200	L2-7-seq_380	L3-9-seq_205
+7tht	spike_glycoprotein	H1-7-seq_549	H2-6-seq_147	L1-11-seq_35	L2-7-seq_65	L3-9-seq_337
+7tjq	fusion_glycoprotein_f0	H1-7-seq_65	H2-6-seq_230	L1-11-seq_301	L2-7-seq_194	L3-10-seq_86
+7tl0	fusion_glycoprotein_f0	H1-7-seq_313	H2-6-seq_232	L1-11-seq_244	L2-7-seq_257	L3-9-seq_227
+7tri	hemagglutinin	H1-7-seq_160		L1-11-seq_228	L2-7-seq_186	L3-8-seq_17
+7ttx	spike_glycoprotein	H1-9-seq_14		L1-13-seq_5	L2-7-seq_226	L3-9-seq_311
+7u0x	spike_glycoprotein	H1-7-seq_538	H2-6-seq_386	L1-13-seq_5	L2-7-seq_226	L3-9-seq_146
+7u9e	gametocyte_surface_protein_p230	H1-7-seq_244	H2-6-seq_183	L1-11-seq_148	L2-7-seq_278	L3-11-seq_4
+7u9o	spike_glycoprotein	H1-7-seq_289	H2-6-seq_220	L1-11-seq_33	L2-7-seq_290	L3-10-seq_70
+7u9p	spike_glycoprotein	H1-7-seq_290	H2-6-seq_221	L1-11-seq_33	L2-7-seq_65	L3-9-seq_292
+7u9w	gametocyte_surface_protein_p230	H1-7-seq_247	H2-6-seq_185	L1-11-seq_70	L2-7-seq_387	L3-9-seq_150
+7ua2	gametocyte_surface_protein_p230	H1-7-seq_248	H2-6-seq_186	L1-11-seq_399	L2-7-seq_290	L3-10-seq_68
+7ua8	gametocyte_surface_protein_p230	H1-7-seq_386	H2-6-seq_187	L1-11-seq_151	L2-7-seq_65	L3-9-seq_33
+7uar	spike_glycoprotein	H1-7-seq_258	H2-6-seq_367	L1-13-seq_2	L2-7-seq_710	L3-11-seq_75
+7ubs	gametocyte_surface_protein_p230	H1-7-seq_65	H2-6-seq_489	L1-17-seq_24	L2-7-seq_449	L3-9-seq_152
+7uc8	gametocyte_surface_protein_p230	H1-7-seq_251		L1-12-seq_99	L2-7-seq_33	L3-9-seq_153
+7ucq	gametocyte_surface_protein_p230	H1-7-seq_65	H2-6-seq_189	L1-11-seq_152	L2-7-seq_290	L3-10-seq_68
+7ugq	envelope_glycoprotein_gp120	H1-7-seq_296	H2-6-seq_225	L1-14-seq_53	L2-7-seq_582	
+7ui1	gametocyte_surface_protein_p230	H1-7-seq_253	H2-6-seq_190	L1-11-seq_153	L2-7-seq_285	L3-10-seq_70
+7ukl	spike_glycoprotein	H1-7-seq_145	H2-6-seq_386	L1-11-seq_386	L2-7-seq_167	L3-11-seq_24
+7ukm	spike_glycoprotein	H1-7-seq_290	H2-6-seq_385	L1-16-seq_33	L2-7-seq_172	L3-9-seq_92
+7ul0	spike_protein_s1	H1-7-seq_65	H2-6-seq_177	L1-14-seq_101	L2-7-seq_741	L3-10-seq_11
+7ul1	spike_protein_s1	H1-7-seq_578		L1-12-seq_1	L2-7-seq_33	L3-8-seq_23
+7uow	spike_glycoprotein	H1-7-seq_578		L1-11-seq_225	L2-7-seq_387	L3-10-seq_50
+7upl	spike_glycoprotein	H1-7-seq_312	H2-6-seq_34	L1-11-seq_384	L2-7-seq_257	L3-10-seq_90
+7ur4	fusion_glycoprotein_f0	H1-7-seq_607	H2-6-seq_385	L1-11-seq_61	L2-7-seq_678	L3-11-seq_60
+7uvh	gametocyte_surface_protein_p230	H1-7-seq_65	H2-6-seq_191	L1-11-seq_154	L2-7-seq_286	L3-10-seq_70
+7uvi	gametocyte_surface_protein_p230	H1-7-seq_290	H2-6-seq_192	L1-11-seq_105	L2-7-seq_33	L3-10-seq_148
+7uvo	gametocyte_surface_protein_p230	H1-7-seq_256	H2-6-seq_193	L1-14-seq_51	L2-7-seq_577	L3-10-seq_72
+7uvq	gametocyte_surface_protein_p230	H1-7-seq_257	H2-6-seq_194	L1-10-seq_1	L2-7-seq_289	L3-10-seq_68
+7uvs	gametocyte_surface_protein_p230	H1-7-seq_258	H2-6-seq_62	L1-17-seq_24	L2-7-seq_449	L3-9-seq_258
+7v23	spike_glycoprotein	H1-7-seq_317	H2-6-seq_242	L1-11-seq_386	L2-7-seq_353	L3-9-seq_190
+7v2a	spike_glycoprotein	H1-7-seq_577	H2-6-seq_34	L1-13-seq_33	L2-7-seq_610	L3-11-seq_95
+7v3l	spike_glycoprotein	H1-7-seq_549	H2-6-seq_237	L1-11-seq_70	L2-7-seq_705	L3-10-seq_88
+7v5k	spike_glycoprotein	H1-7-seq_229	H2-6-seq_419	L1-11-seq_151	L2-7-seq_65	L3-9-seq_425
+7vmu	spike_protein_s1	H1-7-seq_578		L1-11-seq_225	L2-7-seq_65	L3-8-seq_41
+7vux	programmed_cell_death_protein_1	H1-7-seq_65	H2-6-seq_286	L1-11-seq_35	L2-7-seq_452	L3-9-seq_220
+7vyr	spike_protein_s1	H1-7-seq_174	H2-6-seq_435	L1-11-seq_260	L2-7-seq_641	L3-10-seq_143
+7vyt	t-cell_immunoreceptor_with_ig_and_itim_domains	H1-7-seq_65	H2-6-seq_321	L1-12-seq_1	L2-7-seq_33	L3-10-seq_138
+7vzt	spike_protein_s1	H1-7-seq_65	H2-6-seq_129	L1-13-seq_5	L2-7-seq_226	L3-10-seq_46
+7wb5	surface_glycoprotein	H1-7-seq_577	H2-6-seq_408	L1-11-seq_35	L2-7-seq_452	L3-9-seq_286
+7wbz	spike_protein_s1	H1-7-seq_305		L1-11-seq_225	L2-7-seq_387	L3-10-seq_153
+7wch	surface_glycoprotein	H1-7-seq_275	H2-6-seq_210	L1-12-seq_38	L2-7-seq_643	L3-10-seq_77
+7wcp	surface_glycoprotein	H1-7-seq_550		L1-11-seq_56	L2-7-seq_33	L3-9-seq_166
+7wee	spike_glycoprotein	H1-9-seq_42		L1-14-seq_82	L2-7-seq_332	L3-11-seq_71
+7wh8	spike_glycoprotein	H1-7-seq_450	H2-6-seq_206	L1-11-seq_33	L2-7-seq_290	L3-9-seq_164
+7wi0	spike_protein_s1	H1-7-seq_65	H2-6-seq_209	L1-11-seq_35	L2-7-seq_65	L3-10-seq_140
+7wjy	spike_glycoprotein	H1-7-seq_321	H2-6-seq_193	L1-11-seq_199	L2-7-seq_641	L3-11-seq_47
+7wkx	interleukin-17a	H1-7-seq_526	H2-6-seq_407	L1-16-seq_15	L2-7-seq_589	L3-9-seq_326
+7wn2	spike_protein_s1	H1-7-seq_577	H2-6-seq_366	L1-11-seq_225	L2-7-seq_65	L3-9-seq_130
+7wn8	leukocyte_surface_antigen_cd47	H1-7-seq_65	H2-6-seq_290	L1-12-seq_36	L2-7-seq_449	L3-9-seq_161
+7wnb	spike_protein_s1	H1-7-seq_36		L1-11-seq_56	L2-7-seq_65	L3-10-seq_51
+7wo4	spike_glycoprotein	H1-7-seq_65	H2-6-seq_313	L1-13-seq_5	L2-7-seq_226	L3-11-seq_48
+7woa	spike_glycoprotein	H1-7-seq_323	H2-6-seq_248	L1-12-seq_50	L2-7-seq_33	L3-9-seq_255
+7wog	spike_protein_s1	H1-7-seq_65	H2-6-seq_257	L1-13-seq_5	L2-7-seq_226	L3-10-seq_92
+7wos	spike_glycoprotein	H1-7-seq_513		L1-14-seq_55	L2-7-seq_97	L3-11-seq_110
+7wp0	spike_protein_s1	H1-7-seq_325	H2-6-seq_250	L1-14-seq_34	L2-7-seq_545	L3-11-seq_91
+7wph	spike_protein_s1	H1-8-seq_14		L1-14-seq_53	L2-7-seq_450	L3-10-seq_152
+7wqv	spike_protein_s1	H1-7-seq_549	H2-6-seq_203	L1-14-seq_34	L2-7-seq_545	L3-11-seq_91
+7wr9	spike_protein_s1	H1-7-seq_261	H2-6-seq_198	L1-11-seq_159	L2-7-seq_294	L3-11-seq_39
+7wrj	spike_protein_s1	H1-9-seq_30		L1-13-seq_4	L2-7-seq_334	L3-11-seq_4
+7ws1	spike_glycoprotein	H1-7-seq_321	H2-6-seq_269	L1-11-seq_33	L2-7-seq_387	L3-10-seq_99
+7wsc	spike_protein_s1	H1-7-seq_241	H2-6-seq_190	L1-16-seq_31	L2-7-seq_36	L3-9-seq_360
+7wsl	programmed_cell_death_protein_1	H1-7-seq_65	H2-6-seq_175	L1-11-seq_144	L2-7-seq_267	L3-9-seq_319
+7wt7	spike_glycoprotein	H1-7-seq_129		L1-11-seq_151	L2-7-seq_257	L3-9-seq_227
+7wtf	spike_glycoprotein	H1-7-seq_450	H2-6-seq_419	L1-11-seq_383	L2-7-seq_65	L3-9-seq_168
+7wwl	spike_glycoprotein	H1-7-seq_577	H2-6-seq_129	L1-11-seq_202	L2-7-seq_290	L3-10-seq_68
+7wwm	spike_glycoprotein	H1-7-seq_420	H2-6-seq_309	L1-11-seq_35	L2-7-seq_464	L3-9-seq_164
+7x08	spike_glycoprotein	H1-7-seq_103		L1-14-seq_82	L2-7-seq_97	L3-10-seq_65
+7x25	spike_glycoprotein	H1-7-seq_549	H2-6-seq_483	L1-12-seq_1	L2-7-seq_33	L3-9-seq_79
+7x7o	spike_protein_s1	H1-7-seq_415	H2-6-seq_97	L1-12-seq_1	L2-7-seq_33	L3-9-seq_79
+7x8w	spike_glycoprotein	H1-7-seq_280	H2-6-seq_213	L1-14-seq_53	L2-7-seq_97	L3-10-seq_65
+7x8y	spike_glycoprotein	H1-7-seq_281	H2-8-seq_4	L1-11-seq_35	L2-7-seq_235	L3-9-seq_169
+7x90	spike_glycoprotein	H1-7-seq_420	H2-6-seq_386	L1-11-seq_35	L2-7-seq_65	L3-9-seq_170
+7x91	spike_glycoprotein	H1-7-seq_283	H2-6-seq_97	L1-11-seq_384	L2-7-seq_257	L3-10-seq_80
+7x92	spike_glycoprotein	H1-7-seq_284	H2-6-seq_364	L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+7x95	spike_glycoprotein	H1-7-seq_65	H2-6-seq_165	L1-13-seq_2	L2-7-seq_253	L3-10-seq_17
+7xcz	spike_glycoprotein	H1-7-seq_65	H2-6-seq_386	L1-11-seq_162	L2-7-seq_65	L3-9-seq_148
+7xdl	spike_glycoprotein	H1-7-seq_227	H2-6-seq_168	L1-11-seq_70	L2-7-seq_258	L3-9-seq_136
+7xic	spike_glycoprotein	H1-7-seq_321	H2-6-seq_335	L1-11-seq_337	L2-7-seq_386	L3-10-seq_148
+7xj6	spike_glycoprotein	H1-7-seq_486	H2-6-seq_97	L1-11-seq_70	L2-7-seq_33	L3-9-seq_79
+7xjf	leukocyte_surface_antigen_cd47	H1-7-seq_349	H2-6-seq_130	L1-11-seq_384	L2-7-seq_68	L3-9-seq_111
+7xmz	spike_glycoprotein	H1-7-seq_224	H2-6-seq_222	L1-13-seq_33	L2-7-seq_324	L3-11-seq_51
+7xs8	spike_protein_s1	H1-7-seq_578		L1-11-seq_225	L2-7-seq_235	L3-8-seq_21
+7xsa	spike_protein_s1	H1-9-seq_37		L1-14-seq_35	L2-7-seq_577	L3-9-seq_126
+7xsb	spike_protein_s1	H1-7-seq_201	H2-6-seq_129	L1-13-seq_19	L2-7-seq_226	L3-9-seq_127
+7xsc	spike_protein_s1	H1-7-seq_513		L1-11-seq_384	L2-7-seq_218	L3-9-seq_227
+7y0c	spike_protein_s1	H1-7-seq_549	H2-6-seq_228	L1-12-seq_24	L2-7-seq_33	L3-10-seq_83
+7y0v	spike_protein_s1	H1-9-seq_31		L1-11-seq_180	L2-7-seq_336	L3-10-seq_84
+7y0w	spike_protein_s1	H1-7-seq_29	H2-6-seq_68	L1-11-seq_384	L2-7-seq_642	L3-10-seq_85
+7y3n	spike_protein_s1	H1-7-seq_321	H2-6-seq_91	L1-11-seq_35	L2-7-seq_184	L3-9-seq_292
+7y6l	spike_glycoprotein	H1-7-seq_659	H2-6-seq_126	L1-11-seq_113	L2-7-seq_705	L3-8-seq_20
+7yck	spike_protein_s1	H1-7-seq_65	H2-6-seq_386	L1-13-seq_5	L2-7-seq_226	L3-9-seq_311
+7ycl	spike_protein_s1	H1-7-seq_577	H2-6-seq_232	L1-11-seq_384	L2-7-seq_257	L3-9-seq_158
+7ycn	spike_protein_s1	H1-7-seq_517		L1-13-seq_5	L2-7-seq_226	L3-9-seq_159
+7ycy	spike_glycoprotein	H1-9-seq_17		L1-14-seq_31	L2-7-seq_577	L3-9-seq_80
+7yds	programmed_cell_death_1_ligand_1	H1-7-seq_168		L1-13-seq_13	L2-7-seq_193	L3-10-seq_43
+7yh6	spike_protein_s1	H1-7-seq_169	H2-6-seq_120	L1-14-seq_34	L2-7-seq_194	L3-11-seq_26
+7ykj	spike_glycoprotein	H1-7-seq_277	H2-6-seq_211	L1-12-seq_39	L2-7-seq_33	L3-10-seq_78
+7yr1	spike_glycoprotein	H1-7-seq_641		L1-11-seq_33	L2-7-seq_65	L3-9-seq_181
+7yrn	envelope_glycoprotein_b	H1-7-seq_158	H2-6-seq_112	L1-11-seq_340	L2-7-seq_180	L3-9-seq_169
+7ytn	spike_protein_s1	H1-7-seq_174	H2-6-seq_124	L1-11-seq_260	L2-7-seq_641	L3-11-seq_28
+7yve	spike_glycoprotein	H1-9-seq_23		L1-13-seq_14	L2-7-seq_710	L3-11-seq_14
+7yvg	spike_glycoprotein	H1-7-seq_175		L1-11-seq_228	L2-7-seq_33	L3-11-seq_8
+7yvi	spike_glycoprotein	H1-7-seq_176	H2-6-seq_125	L1-14-seq_53	L2-7-seq_450	L3-11-seq_31
+7yvk	spike_glycoprotein	H1-9-seq_24		L1-14-seq_31	L2-7-seq_97	L3-9-seq_107
+7yxu	tumor_necrosis_factor_receptor_superfamily_member_9	H1-7-seq_265	H2-6-seq_201	L1-11-seq_33	L2-7-seq_65	L3-9-seq_160
+7z0x	surface_glycoprotein	H1-7-seq_513		L1-14-seq_101	L2-7-seq_97	L3-10-seq_25
+7z2m	interleukin-17a	H1-7-seq_259	H2-6-seq_196	L1-11-seq_3	L2-7-seq_290	L3-9-seq_156
+7zbu	spike_glycoprotein	H1-7-seq_554	H2-6-seq_238	L1-12-seq_1	L2-7-seq_33	L3-10-seq_89
+7zfd	spike_protein_s1	H1-7-seq_321	H2-6-seq_193	L1-11-seq_33	L2-7-seq_740	L3-9-seq_407
+7zr9	spike_glycoprotein,fibritin	H1-7-seq_549	H2-6-seq_466	L1-12-seq_1	L2-7-seq_33	L3-9-seq_5
+7zrc	spike_glycoprotein,fibritin	H1-7-seq_520	H2-6-seq_401	L1-11-seq_301	L2-7-seq_257	L3-10-seq_135
+8a96	spike_protein_s1	H1-7-seq_258	H2-6-seq_147	L1-12-seq_69	L2-7-seq_33	L3-9-seq_128
+8as0	programmed_cell_death_protein_1	H1-7-seq_65	H2-6-seq_257	L1-11-seq_33	L2-7-seq_65	L3-9-seq_176
+8bbn	spike_protein_s1	H1-7-seq_224	H2-6-seq_193	L1-11-seq_232	L2-7-seq_65	L3-9-seq_133
+8bbo	spike_glycoprotein	H1-9-seq_28		L1-11-seq_376	L2-7-seq_255	L3-8-seq_22
+8bcz	spike_protein_s1	H1-7-seq_65	H2-6-seq_386	L1-11-seq_384	L2-7-seq_257	L3-9-seq_222
+8bec	spike_protein_s1	H1-7-seq_140		L1-12-seq_1	L2-7-seq_33	L3-9-seq_5
+8bg1	spike_protein_s1	H1-7-seq_321	H2-6-seq_96	L1-16-seq_33	L2-7-seq_151	L3-8-seq_14
+8bg2	spike_protein_s1	H1-7-seq_36		L1-12-seq_20	L2-7-seq_33	L3-9-seq_308
+8bg3	spike_protein_s1	H1-7-seq_134		L1-14-seq_23	L2-7-seq_97	L3-10-seq_33
+8bg4	spike_protein_s1	H1-7-seq_175		L1-11-seq_225	L2-7-seq_65	L3-10-seq_153
+8bg8	spike_glycoprotein	H1-7-seq_136	H2-6-seq_97	L1-12-seq_86	L2-7-seq_33	L3-9-seq_79
+8bse	spike_glycoprotein	H1-7-seq_513		L1-11-seq_384	L2-7-seq_225	L3-9-seq_227
+8bsf	spike_protein_s1	H1-7-seq_577	H2-6-seq_34	L1-13-seq_18	L2-7-seq_226	L3-11-seq_32
+8c0y	spike_protein_s2'	H1-7-seq_610		L1-11-seq_38	L2-7-seq_33	L3-9-seq_255
+8cbd	spike_protein_s1	H1-7-seq_119	H2-6-seq_386	L1-11-seq_33	L2-7-seq_65	L3-10-seq_147
+8cbe	spike_protein_s1	H1-7-seq_120	H2-6-seq_386	L1-11-seq_33	L2-7-seq_136	L3-9-seq_75
+8cim	spike_glycoprotein,fibritin	H1-7-seq_233	H2-6-seq_123	L1-11-seq_33	L2-7-seq_197	L3-9-seq_105
+8cin	spike_glycoprotein	H1-7-seq_115		L1-14-seq_101	L2-7-seq_97	L3-10-seq_25
+8csj	spike_glycoprotein	H1-7-seq_65	H2-6-seq_536	L1-14-seq_34	L2-7-seq_641	L3-11-seq_91
+8cw9	fusion_glycoprotein_f0	H1-9-seq_7		L1-11-seq_190	L2-7-seq_354	L3-11-seq_46
+8cwi	spike_protein_s1	H1-7-seq_65	H2-6-seq_385	L1-11-seq_123	L2-7-seq_673	L3-9-seq_43
+8cwj	spike_glycoprotein	H1-7-seq_191	H2-6-seq_139	L1-11-seq_384	L2-7-seq_221	L3-9-seq_119
+8cwk	spike_protein_s1	H1-7-seq_193	H2-6-seq_140	L1-11-seq_125	L2-7-seq_65	L3-9-seq_120
+8d48	spike_glycoprotein	H1-7-seq_268	H2-6-seq_321	L1-17-seq_24	L2-7-seq_449	L3-9-seq_100
+8dad	spike_glycoprotein	H1-7-seq_306	H2-6-seq_97	L1-12-seq_1	L2-7-seq_749	L3-9-seq_184
+8dcc	spike_protein_s1	H1-8-seq_6		L1-14-seq_53	L2-7-seq_97	L3-10-seq_65
+8dce	spike_protein_s1	H1-7-seq_637		L1-14-seq_53	L2-7-seq_450	L3-10-seq_111
+8dg8	fusion_glycoprotein_f0	H1-7-seq_65	H2-6-seq_181	L1-11-seq_147	L2-7-seq_110	L3-11-seq_36
+8dg9	fusion_glycoprotein_f0	H1-7-seq_244	H2-6-seq_261	L1-14-seq_34	L2-7-seq_194	L3-11-seq_37
+8dlr	spike_glycoprotein	H1-7-seq_307	H2-6-seq_483	L1-11-seq_386	L2-7-seq_167	L3-9-seq_185
+8dlw	spike_glycoprotein	H1-7-seq_603	H2-6-seq_235	L1-12-seq_1	L2-7-seq_33	L3-9-seq_186
+8dm3	spike_glycoprotein	H1-7-seq_293	H2-6-seq_484	L1-16-seq_15	L2-7-seq_71	L3-9-seq_163
+8dnn	spike_protein_s1	H1-7-seq_378	H2-6-seq_419	L1-17-seq_24	L2-7-seq_449	L3-9-seq_258
+8dv6	envelope_protein_e	H1-7-seq_274	H2-6-seq_209	L1-14-seq_53	L2-7-seq_307	L3-10-seq_76
+8dw9	spike_protein_s1	H1-7-seq_285	H2-6-seq_217	L1-12-seq_40	L2-7-seq_33	L3-9-seq_172
+8dwa	spike_protein_s1	H1-7-seq_286	H2-6-seq_218	L1-11-seq_172	L2-7-seq_65	L3-9-seq_173
+8dww	e2_glycoprotein	H1-7-seq_65	H2-6-seq_131	L1-11-seq_33	L2-7-seq_65	L3-9-seq_208
+8dwx	e2_glycoprotein	H1-9-seq_26		L1-11-seq_162	L2-7-seq_65	L3-9-seq_113
+8dwy	e2_glycoprotein	H1-7-seq_386	H2-6-seq_132	L1-14-seq_33	L2-7-seq_213	L3-9-seq_114
+8dxs	spike_glycoprotein	H1-7-seq_287	H2-6-seq_219	L1-11-seq_88	L2-7-seq_65	L3-9-seq_174
+8dxt	spike_protein_s1	H1-7-seq_65	H2-6-seq_257	L1-11-seq_164	L2-7-seq_740	L3-8-seq_24
+8dy1	interleukin-17a	H1-7-seq_203	H2-6-seq_257	L1-13-seq_32	L2-7-seq_710	L3-9-seq_199
+8dyw	circumsporozoite_protein	H1-7-seq_162	H2-6-seq_117	L1-11-seq_105	L2-7-seq_187	L3-10-seq_41
+8dyy	circumsporozoite_protein	H1-7-seq_163	H2-6-seq_364	L1-11-seq_70	L2-7-seq_578	L3-10-seq_31
+8dz3	circumsporozoite_protein	H1-7-seq_65	H2-6-seq_116	L1-11-seq_228	L2-7-seq_33	L3-8-seq_18
+8dz4	circumsporozoite_protein	H1-7-seq_165	H2-6-seq_117	L1-11-seq_108	L2-7-seq_33	L3-8-seq_19
+8dzh	spike_glycoprotein	H1-7-seq_65	H2-6-seq_34	L1-12-seq_1	L2-7-seq_33	L3-9-seq_255
+8e1g	spike_protein_s1	H1-7-seq_610		L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+8e2u	fusion_glycoprotein_f0	H1-7-seq_65	H2-6-seq_231	L1-14-seq_27	L2-7-seq_181	L3-10-seq_39
+8e6j	neuraminidase	H1-9-seq_21		L1-11-seq_33	L2-7-seq_184	L3-9-seq_292
+8e6k	neuraminidase	H1-9-seq_22		L1-11-seq_103	L2-7-seq_185	L3-10-seq_99
+8eay	fusion_glycoprotein_f0	H1-7-seq_160		L1-11-seq_386	L2-7-seq_167	L3-8-seq_16
+8ekd	spike_protein_s2'	H1-7-seq_87	H2-8-seq_7	L1-17-seq_24	L2-7-seq_131	L3-8-seq_12
+8el2	spike_protein_s1	H1-7-seq_603	H2-6-seq_121	L1-14-seq_29	L2-7-seq_450	L3-10-seq_146
+8eoo	spike_protein_s1	H1-7-seq_65	H2-6-seq_385	L1-13-seq_5	L2-7-seq_207	L3-9-seq_243
+8eqf	spike_protein_s1	H1-7-seq_65	H2-6-seq_318	L1-11-seq_88	L2-7-seq_65	L3-9-seq_88
+8erq	spike_glycoprotein	H1-9-seq_29		L1-14-seq_35	L2-7-seq_332	L3-9-seq_180
+8ez7	neuraminidase	H1-7-seq_137	H2-6-seq_98	L1-12-seq_22	L2-7-seq_33	L3-10-seq_35
+8ez8	neuraminidase	H1-7-seq_138		L1-13-seq_2	L2-7-seq_710	L3-11-seq_14
+8ezk	25_kda_ookinete_surface_antigen	H1-8-seq_3		L1-13-seq_12	L2-7-seq_100	L3-11-seq_14
+8f0h	spike_glycoprotein	H1-7-seq_321	H2-6-seq_193	L1-11-seq_130	L2-7-seq_484	L3-11-seq_53
+8f0i	spike_protein_s1	H1-7-seq_65	H2-6-seq_385	L1-11-seq_33	L2-7-seq_740	L3-10-seq_13
+8f2j	spike_protein_s1	H1-7-seq_554	H2-6-seq_385	L1-11-seq_386	L2-7-seq_353	L3-11-seq_20
+8f2x	spike_protein_s1	H1-7-seq_65	H2-6-seq_386	L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+8f6e	cadmium_and_zinc_efflux_pump_fief	H1-7-seq_260	H2-6-seq_197	L1-11-seq_36	L2-7-seq_67	L3-10-seq_74
+8g30	neuraminidase	H1-7-seq_185	H2-6-seq_133	L1-11-seq_118	L2-7-seq_33	L3-10-seq_148
+8g3m	neuraminidase	H1-7-seq_186	H2-6-seq_134	L1-11-seq_119	L2-7-seq_386	L3-10-seq_148
+8g3q	neuraminidase	H1-7-seq_187	H2-6-seq_135	L1-11-seq_257	L2-7-seq_33	L3-10-seq_148
+8gav	neuraminidase	H1-7-seq_577	H2-6-seq_81	L1-14-seq_17	L2-7-seq_577	L3-10-seq_26
+8gdr	spike_glycoprotein	H1-9-seq_12		L1-14-seq_53	L2-7-seq_332	L3-10-seq_23
+8gf2	spike_protein_s1	H1-7-seq_157	H2-6-seq_111	L1-11-seq_33	L2-7-seq_33	L3-9-seq_100
+8ghk	hemagglutinin	H1-7-seq_61	H2-8-seq_1	L1-11-seq_37	L2-7-seq_68	L3-9-seq_36
+8gnh	spike_glycoprotein	H1-7-seq_154		L1-11-seq_33	L2-7-seq_290	L3-8-seq_30
+8gpx	envelope_protein	H1-7-seq_297	H2-6-seq_226	L1-12-seq_42	L2-7-seq_386	L3-10-seq_82
+8gpy	spike_protein_s1	H1-7-seq_321	H2-6-seq_109	L1-14-seq_53	L2-7-seq_450	L3-9-seq_97
+8gsb	spike_protein_s1	H1-7-seq_152	H2-6-seq_97	L1-12-seq_1	L2-7-seq_33	L3-9-seq_79
+8gto	spike_glycoprotein	H1-7-seq_3	H2-6-seq_122	L1-13-seq_14	L2-7-seq_196	L3-11-seq_14
+8gy5	programmed_cell_death_protein_1	H1-7-seq_147	H2-6-seq_104	L1-11-seq_93	L2-7-seq_169	L3-9-seq_93
+8gye	tumor_necrosis_factor_receptor_superfamily_member_9	H1-7-seq_149		L1-11-seq_95	L2-7-seq_684	L3-9-seq_94
+8h07	spike_glycoprotein	H1-7-seq_65	H2-6-seq_386	L1-11-seq_121	L2-7-seq_494	L3-9-seq_115
+8h7l	spike_glycoprotein	H1-7-seq_317	H2-6-seq_386	L1-11-seq_98	L2-7-seq_177	L3-9-seq_98
+8hc2	spike_glycoprotein	H1-7-seq_641		L1-11-seq_162	L2-7-seq_65	L3-10-seq_75
+8hes	spike_protein_s1	H1-7-seq_139	H2-6-seq_99	L1-14-seq_53	L2-7-seq_577	L3-11-seq_23
+8hgl	spike_glycoprotein	H1-7-seq_142	H2-6-seq_468	L1-12-seq_24	L2-7-seq_33	L3-9-seq_87
+8hlc	spike_glycoprotein	H1-7-seq_577	H2-6-seq_366	L1-11-seq_1	L2-7-seq_673	L3-9-seq_43
+8hld	spike_glycoprotein	H1-7-seq_678	H2-6-seq_57	L1-11-seq_386	L2-7-seq_79	L3-9-seq_185
+8hn6	spike_protein_s1	H1-7-seq_641		L1-11-seq_225	L2-7-seq_65	L3-9-seq_124
+8hn7	spike_protein_s1	H1-7-seq_65	H2-6-seq_145	L1-11-seq_33	L2-7-seq_229	L3-9-seq_164
+8hp9	spike_protein_s2'	H1-9-seq_37		L1-12-seq_18	L2-7-seq_33	L3-9-seq_76
+8hrd	spike_protein_s1	H1-7-seq_127	H2-6-seq_168	L1-14-seq_34	L2-7-seq_545	L3-10-seq_32
+8hws	spike_protein_s2'	H1-7-seq_129		L1-11-seq_56	L2-7-seq_65	L3-9-seq_81
+8i3u	spike_glycoprotein	H1-7-seq_148	H2-6-seq_105	L1-11-seq_94	L2-7-seq_33	L3-10-seq_148
+8j1q	spike_protein_s1	H1-7-seq_178	H2-6-seq_386	L1-14-seq_53	L2-7-seq_577	L3-10-seq_45
+8j1t	spike_protein	H1-7-seq_641		L1-11-seq_225	L2-7-seq_65	L3-11-seq_21
+8jel	t-cell_immunoreceptor_with_ig_and_itim_domains	H1-7-seq_577	H2-6-seq_82	L1-11-seq_144	L2-7-seq_129	L3-9-seq_71
+8jio	spike_glycoprotein	H1-7-seq_449		L1-11-seq_225	L2-7-seq_65	L3-9-seq_52
+8jiz	glutamate_receptor_ionotropic,_nmda_1	H1-7-seq_215	H2-6-seq_55	L1-11-seq_42	L2-7-seq_76	L3-9-seq_408
+8jmm	spike_glycoprotein	H1-7-seq_73	H2-6-seq_58	L1-11-seq_33	L2-7-seq_290	L3-10-seq_17
+8k18	spike_protein_s1	H1-7-seq_36		L1-11-seq_18	L2-7-seq_40	L3-9-seq_19
+8k5g	spike_protein_s1	H1-7-seq_126	H2-6-seq_97	L1-12-seq_1	L2-7-seq_33	L3-9-seq_79
+8kdr	spike_glycoprotein	H1-7-seq_165		L1-11-seq_23	L2-7-seq_681	L3-10-seq_13
+8keo	spike_glycoprotein	H1-7-seq_47	H2-6-seq_39	L1-12-seq_96	L2-7-seq_54	L3-9-seq_25
+8kfa	envelope_glycoprotein_b	H1-7-seq_576	H2-6-seq_90	L1-11-seq_225	L2-7-seq_142	L3-9-seq_77
+8khc	spike_glycoprotein	H1-7-seq_100	H2-8-seq_5	L1-11-seq_61	L2-7-seq_110	L3-11-seq_16
+8oz3	tumor_necrosis_factor_receptor_superfamily_member_9	H1-7-seq_107	H2-6-seq_77	L1-11-seq_257	L2-7-seq_387	L3-10-seq_139
+8pq2	spike_protein_s2'	H1-7-seq_141		L1-11-seq_244	L2-7-seq_160	L3-9-seq_86
+8pwh	receptor_tyrosine-protein_kinase_erbb-2	H1-7-seq_117	H2-6-seq_33	L1-11-seq_74	L2-7-seq_132	L3-9-seq_13
+8pwu	reticulocyte-binding_protein_homolog_5	H1-7-seq_449		L1-11-seq_244	L2-7-seq_257	L3-9-seq_45
+8pwv	reticulocyte-binding_protein_homolog_5	H1-7-seq_549	H2-6-seq_59	L1-16-seq_33	L2-7-seq_83	L3-8-seq_7
+8pww	reticulocyte-binding_protein_homolog_5	H1-7-seq_76		L1-11-seq_384	L2-7-seq_84	L3-9-seq_46
+8pwx	reticulocyte-binding_protein_homolog_5	H1-7-seq_65	H2-6-seq_60	L1-11-seq_33	L2-7-seq_65	L3-9-seq_425
+8q5y	spike_glycoprotein	H1-7-seq_55	H2-6-seq_46	L1-11-seq_31	L2-7-seq_1	L3-9-seq_30
+8qh0	spike_protein_s1	H1-7-seq_578		L1-12-seq_1	L2-7-seq_33	
+8qkr	reticulocyte-binding_protein-like_protein_5	H1-7-seq_577	H2-6-seq_33	L1-11-seq_33	L2-7-seq_740	L3-10-seq_14
+8qpr	spike_glycoprotein,fibritin	H1-7-seq_603	H2-6-seq_88	L1-14-seq_53	L2-7-seq_97	L3-10-seq_65
+8qq0	spike_glycoprotein,fibritin	H1-7-seq_425	H2-6-seq_33	L1-14-seq_20	L2-7-seq_97	L3-10-seq_30
+8qrf	spike_protein_s1	H1-7-seq_233	H2-6-seq_68	L1-12-seq_1	L2-7-seq_33	L3-10-seq_20
+8qzr	spike_protein_s1	H1-7-seq_101	H2-6-seq_73	L1-11-seq_33	L2-7-seq_290	L3-10-seq_22
+8r1c	spike_glycoprotein,fibritin	H1-9-seq_57		L1-14-seq_101	L2-7-seq_122	L3-10-seq_25
+8r1d	spike_glycoprotein,fibritin	H1-7-seq_33	H2-6-seq_78	L1-11-seq_386	L2-7-seq_123	L3-9-seq_190
+8r8k	spike_glycoprotein	H1-7-seq_100	H2-8-seq_4	L1-11-seq_55	L2-7-seq_65	L3-9-seq_57
+8r9w	spike_protein	H1-7-seq_65	H2-6-seq_61	L1-11-seq_228	L2-7-seq_386	L3-8-seq_8
+8r9y	spike_protein	H1-7-seq_65	H2-6-seq_62	L1-11-seq_51	L2-7-seq_65	L3-9-seq_48
+8rgz	envelope_glycoprotein_b	H1-9-seq_7		L1-16-seq_28	L2-7-seq_71	L3-9-seq_38
+8rh0	envelope_glycoprotein_b	H1-7-seq_64	H2-6-seq_52	L1-11-seq_199	L2-7-seq_484	L3-9-seq_39
+8rp8	leukocyte_surface_antigen_cd47	H1-7-seq_65	H2-6-seq_257	L1-11-seq_33	L2-7-seq_65	L3-10-seq_15
+8rpb	programmed_cell_death_1_ligand_1	H1-7-seq_65	H2-6-seq_257	L1-14-seq_11	L2-7-seq_74	L3-11-seq_12
+8s6m	spike_protein_s1	H1-7-seq_33	H2-6-seq_386	L1-14-seq_101	L2-7-seq_38	L3-10-seq_9
+8sar	ch848.10.17_gp120	H1-7-seq_222	H2-6-seq_153	L1-14-seq_36	L2-7-seq_582	L3-10-seq_52
+8sas	ch848.10.17_gp120	H1-7-seq_222	H2-6-seq_161	L1-14-seq_47	L2-7-seq_242	L3-10-seq_52
+8sau	ch848.10.17_gp120	H1-7-seq_213	H2-6-seq_161	L1-14-seq_47	L2-7-seq_252	L3-10-seq_52
+8sax	ch848.10.17.sosip_gp120	H1-7-seq_603	H2-6-seq_33	L1-14-seq_101	L2-7-seq_97	L3-10-seq_25
+8say	ch848.10.17_gp120	H1-7-seq_215	H2-6-seq_162	L1-14-seq_101	L2-7-seq_245	L3-10-seq_56
+8saz	envelope_glycoprotein_gp160	H1-7-seq_577	H2-6-seq_291	L1-14-seq_47	L2-7-seq_97	L3-10-seq_25
+8sb0	ch848.10.17.sosip_gp120	H1-7-seq_577	H2-6-seq_162	L1-14-seq_47	L2-7-seq_122	L3-10-seq_25
+8sb1	ch848.10.17_gp120	H1-7-seq_577	H2-6-seq_291	L1-14-seq_47	L2-7-seq_582	L3-10-seq_25
+8sb2	ch848.10.17.sosip_gp120	H1-7-seq_222	H2-6-seq_161	L1-14-seq_47	L2-7-seq_582	L3-10-seq_52
+8sb3	ch848.10.17_gp120	H1-7-seq_577	H2-6-seq_162	L1-14-seq_47	L2-7-seq_250	L3-10-seq_25
+8sb4	ch848.10.17_gp120	H1-7-seq_577	H2-6-seq_162	L1-14-seq_47	L2-7-seq_582	L3-10-seq_62
+8sb5	ch848.10.17.sosip_gp120	H1-7-seq_222	H2-6-seq_161	L1-14-seq_47	L2-7-seq_252	L3-10-seq_52
+8sdg	spike_protein_s1	H1-7-seq_109	H2-8-seq_6	L1-11-seq_70	L2-7-seq_124	L3-11-seq_17
+8sdh	spike_protein_s1	H1-7-seq_48	H2-6-seq_34	L1-11-seq_199	L2-7-seq_55	L3-11-seq_11
+8siq	spike_protein_s1	H1-7-seq_110		L1-14-seq_34	L2-7-seq_545	L3-11-seq_91
+8sis	spike_protein_s1	H1-7-seq_678	H2-6-seq_10	L1-12-seq_11	L2-7-seq_33	L3-9-seq_70
+8sit	spike_protein_s1	H1-7-seq_488	H2-6-seq_80	L1-11-seq_199	L2-7-seq_641	L3-11-seq_53
+8suo	spike_protein_s1	H1-7-seq_87	H2-6-seq_193	L1-14-seq_53	L2-7-seq_97	L3-8-seq_12
+8swh	spike_glycoprotein	H1-7-seq_293	H2-6-seq_491	L1-16-seq_15	L2-7-seq_71	L3-9-seq_163
+8sxj	envelope_glycoprotein_gp160	H1-7-seq_321	H2-6-seq_87	L1-11-seq_78	L2-7-seq_386	L3-8-seq_31
+8szy	t-cell_immunoreceptor_with_ig_and_itim_domains	H1-7-seq_98	H2-6-seq_362	L1-16-seq_14	L2-7-seq_172	L3-9-seq_95
+8t9z	fusion_glycoprotein_f0	H1-7-seq_65	H2-6-seq_95	L1-11-seq_85	L2-7-seq_150	L3-9-seq_300
+8tgv	envelope_glycoprotein_e2	H1-7-seq_53	H2-6-seq_44	L1-11-seq_29	L2-7-seq_353	L3-9-seq_28
+8thz	envelope_glycoprotein_e2	H1-7-seq_394	H2-6-seq_519	L1-11-seq_33	L2-7-seq_61	L3-9-seq_29
+8tma	spike_glycoprotein	H1-9-seq_16		L1-11-seq_70	L2-7-seq_740	L3-10-seq_31
+8tnl	hemagglutinin	H1-7-seq_89		L1-16-seq_33	L2-7-seq_98	L3-9-seq_141
+8toa	hemagglutinin	H1-7-seq_90		L1-16-seq_10	L2-7-seq_99	L3-9-seq_56
+8tp2	hemagglutinin	H1-7-seq_144		L1-11-seq_228	L2-7-seq_33	L3-9-seq_48
+8tp6	hemagglutinin	H1-9-seq_39		L1-11-seq_33	L2-7-seq_164	L3-9-seq_90
+8tp7	hemagglutinin	H1-9-seq_25		L1-14-seq_53	L2-7-seq_165	L3-10-seq_36
+8tp9	hemagglutinin	H1-9-seq_20		L1-11-seq_91	L2-7-seq_65	L3-9-seq_91
+8tqk	fusion_glycoprotein_f0	H1-7-seq_678		L1-11-seq_57	L2-7-seq_705	L3-9-seq_393
+8tzy	envelope_glycoprotein_e2	H1-7-seq_43	H2-6-seq_36	L1-12-seq_1	L2-7-seq_48	L3-8-seq_5
+8u1c	neuraminidase	H1-7-seq_102	H2-6-seq_34	L1-12-seq_14	L2-7-seq_33	L3-9-seq_61
+8u1q	neuraminidase	H1-9-seq_9		L1-11-seq_70	L2-7-seq_740	L3-9-seq_62
+8u1s	neuraminidase	H1-9-seq_10		L1-11-seq_70	L2-7-seq_114	L3-9-seq_63
+8ume	hemagglutinin	H1-7-seq_65	H2-6-seq_231	L1-17-seq_24	L2-7-seq_449	L3-10-seq_7
+8us0	hemagglutinin	H1-7-seq_32	H2-6-seq_28	L1-16-seq_33	L2-7-seq_36	L3-9-seq_18
+8uzc	hemagglutinin	H1-7-seq_65	H2-6-seq_346	L1-11-seq_12	L2-7-seq_290	L3-9-seq_164
+8v5l	envelope_glycoprotein_e	H1-7-seq_37	H2-6-seq_370	L1-11-seq_399	L2-7-seq_65	L3-9-seq_20
+8v5q	envelope_glycoprotein_e	H1-9-seq_26		L1-11-seq_225	L2-7-seq_28	L3-8-seq_2
+8v5s	envelope_glycoprotein_e	H1-7-seq_38		L1-11-seq_33	L2-7-seq_65	L3-9-seq_282
+8veb	hemagglutinin	H1-9-seq_1		L1-11-seq_1	L2-7-seq_1	L3-9-seq_43
+8ved	hemagglutinin	H1-7-seq_606		L1-16-seq_15	L2-7-seq_2	L3-9-seq_243
+8vef	hemagglutinin	H1-9-seq_6		L1-11-seq_1	L2-7-seq_65	L3-9-seq_43
+8vpf	spike_glycoprotein	H1-7-seq_2	H2-6-seq_1	L1-14-seq_53	L2-7-seq_97	L3-11-seq_1
+8vui	erythropoietin_receptor	H1-7-seq_60	H2-6-seq_51	L1-11-seq_36	L2-7-seq_67	L3-9-seq_35
+8vuj	glutamate_receptor_ionotropic,_nmda_1	H1-8-seq_1		L1-13-seq_5	L2-7-seq_226	L3-9-seq_22
+8vus	glutamate_receptor_ionotropic,_nmda_1	H1-7-seq_41	H2-6-seq_34	L1-11-seq_228	L2-7-seq_33	L3-11-seq_8
+8vye	spike_glycoprotein	H1-9-seq_11		L1-11-seq_386	L2-7-seq_167	L3-9-seq_64
+8vym	envelope_glycoprotein_b	H1-7-seq_577	H2-6-seq_33	L1-13-seq_4	L2-7-seq_100	L3-11-seq_7
+8w0v	envelope_glycoprotein_e2	H1-7-seq_103	H2-6-seq_75	L1-12-seq_11	L2-7-seq_258	L3-9-seq_65
+8w0w	envelope_glycoprotein_e2	H1-7-seq_104	H2-6-seq_76	L1-12-seq_1	L2-7-seq_33	L3-9-seq_66
+8w0x	envelope_glycoprotein_e2	H1-7-seq_517		L1-11-seq_66	L2-7-seq_705	L3-9-seq_393
+8w0y	envelope_glycoprotein_e2	H1-7-seq_106		L1-11-seq_1	L2-7-seq_119	L3-9-seq_68
+8wfh	spike_protein_s1	H1-7-seq_321	H2-6-seq_32	L1-14-seq_101	L2-7-seq_43	L3-10-seq_11
+8wpw	spike_protein_s1	H1-7-seq_35		L1-11-seq_55	L2-7-seq_65	L3-10-seq_10
+8wyj	spike_glycoprotein	H1-7-seq_29	H2-6-seq_68	L1-11-seq_384	L2-7-seq_33	L3-8-seq_3
+8x0y	spike_protein_s1	H1-8-seq_2		L1-11-seq_53	L2-7-seq_65	L3-8-seq_9
+8xbf	spike_glycoprotein	H1-7-seq_67		L1-11-seq_41	L2-7-seq_705	L3-9-seq_40
+8xea	spike_glycoprotein	H1-7-seq_97		L1-11-seq_58	L2-7-seq_33	L3-10-seq_21
+8xi6	spike_glycoprotein	H1-7-seq_98	H2-6-seq_71	L1-11-seq_199	L2-7-seq_108	L3-11-seq_15
+8xsd	spike_glycoprotein	H1-7-seq_578		L1-12-seq_4	L2-7-seq_33	L3-9-seq_6
+8xse	spike_protein_s1	H1-7-seq_65	H2-6-seq_257	L1-11-seq_33	L2-7-seq_63	L3-9-seq_31
+8xsf	spike_protein_s1	H1-7-seq_678	H2-6-seq_385	L1-11-seq_33	L2-7-seq_65	L3-9-seq_33
+8xsj	spike_protein_s1	H1-7-seq_59	H2-6-seq_50	L1-11-seq_35	L2-7-seq_257	L3-9-seq_227
+8y3h	envelope_protein	H1-7-seq_394	H2-6-seq_9	L1-13-seq_2	L2-7-seq_15	L3-11-seq_4
+8y3i	envelope_protein	H1-7-seq_65	H2-6-seq_10	L1-14-seq_53	L2-7-seq_16	L3-10-seq_3
+8y4a	spike_glycoprotein	H1-7-seq_42	H2-6-seq_35	L1-11-seq_228	L2-7-seq_33	L3-10-seq_148
+8y4c	spike_glycoprotein	H1-9-seq_5		L1-14-seq_9	L2-7-seq_545	L3-11-seq_91
+8yro	spike_glycoprotein	H1-7-seq_81	H2-6-seq_64	L1-13-seq_9	L2-7-seq_90	L3-11-seq_51
+8yww	spike_glycoprotein	H1-7-seq_36	H2-6-seq_43	L1-11-seq_26	L2-7-seq_257	L3-8-seq_6
+8ywx	spike_protein_s2'	H1-7-seq_52	H2-6-seq_43	L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+8yx1	tumor_necrosis_factor_receptor_superfamily_member_5	H1-9-seq_8		L1-11-seq_56	L2-7-seq_257	L3-8-seq_11
+8yx9	tumor_necrosis_factor_receptor_superfamily_member_5	H1-7-seq_98	H2-6-seq_70	L1-16-seq_15	L2-7-seq_105	L3-9-seq_58
+8yz5	spike_glycoprotein	H1-7-seq_578		L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+8z4e	neuraminidase	H1-7-seq_318	H2-6-seq_12	L1-11-seq_225	L2-7-seq_551	L3-10-seq_4
+8z6s	spike_glycoprotein,fibritin,expression_tag	H1-7-seq_622	H2-6-seq_34	L1-14-seq_4	L2-7-seq_577	L3-9-seq_8
+8z6u	spike_glycoprotein,fibritin,expression_tag	H1-7-seq_622	H2-6-seq_34	L1-14-seq_53	L2-7-seq_582	L3-9-seq_8
+8zby	spike_glycoprotein	H1-7-seq_505	H2-6-seq_67	L1-13-seq_14	L2-7-seq_100	L3-11-seq_14
+8zhe	spike_glycoprotein,fibritin,expression_tag	H1-7-seq_65	H2-6-seq_129	L1-13-seq_5	L2-7-seq_226	L3-9-seq_311
+8zho	spike_glycoprotein	H1-7-seq_549	H2-6-seq_483	L1-13-seq_5	L2-7-seq_226	L3-11-seq_91
+8zr4	neuraminidase	H1-7-seq_23	H2-6-seq_19	L1-16-seq_33	L2-7-seq_25	L3-10-seq_6
+9aru	spike_glycoprotein	H1-7-seq_65	H2-6-seq_257	L1-16-seq_15	L2-7-seq_21	L3-9-seq_243
+9au2	spike_glycoprotein	H1-7-seq_33	H2-6-seq_386	L1-14-seq_101	L2-7-seq_38	L3-10-seq_9
+9avo	histone_chaperone_asf1	H1-7-seq_20	H2-6-seq_16	L1-11-seq_36	L2-7-seq_67	L3-9-seq_383
+9azr	hemagglutinin_ha1_chain	H1-7-seq_603	H2-6-seq_33	L1-11-seq_199	L2-7-seq_641	L3-11-seq_53
+9azt	hemagglutinin_ha1_chain	H1-7-seq_8	H2-6-seq_5	L1-11-seq_6	L2-7-seq_10	L3-11-seq_3
+9bdf	hemagglutinin	H1-9-seq_4		L1-11-seq_1	L2-7-seq_34	L3-9-seq_16
+9bdg	hemagglutinin	H1-7-seq_31	H2-6-seq_27	L1-11-seq_35	L2-7-seq_35	L3-9-seq_17
+9bj2	spike_glycoprotein	H1-7-seq_10	H2-6-seq_7	L1-13-seq_14	L2-7-seq_12	L3-11-seq_4
+9bj3	spike_glycoprotein	H1-7-seq_684	H2-6-seq_483	L1-12-seq_1	L2-7-seq_13	L3-9-seq_5
+9c44	spike_glycoprotein	H1-7-seq_290	H2-6-seq_24	L1-11-seq_384	L2-7-seq_257	L3-9-seq_227
+9cci	spike_glycoprotein	H1-7-seq_9	H2-6-seq_6	L1-11-seq_7	L2-7-seq_11	
+9dpc	neuraminidase	H1-7-seq_3	H2-6-seq_2	L1-11-seq_3	L2-7-seq_65	L3-9-seq_33
+9dq3	cytotoxic_t-lymphocyte_protein_4	H1-7-seq_678	H2-6-seq_17	L1-12-seq_5	L2-7-seq_23	L3-9-seq_79
+9dq5	cytotoxic_t-lymphocyte_protein_4	H1-7-seq_577	H2-6-seq_18	L1-16-seq_28	L2-7-seq_71	L3-9-seq_38
+9dwe	hemagglutinin	H1-7-seq_26	H2-6-seq_519	L1-13-seq_3	L2-7-seq_710	L3-11-seq_14
+9fgr	spike_glycoprotein	H1-7-seq_513		L1-12-seq_10	L2-7-seq_91	L3-10-seq_18
+9fgs	spike_glycoprotein,fibritin	H1-7-seq_641		L1-12-seq_11	L2-7-seq_516	L3-9-seq_5
+9fgt	spike_glycoprotein,fibritin	H1-7-seq_513		L1-12-seq_1	L2-7-seq_33	L3-9-seq_5
+9l1s	receptor_tyrosine-protein_kinase_erbb-2	H1-7-seq_65	H2-6-seq_33	L1-11-seq_74	L2-7-seq_133	L3-9-seq_13
+9l6c	spike_protein_s1	H1-7-seq_65	H2-6-seq_385	L1-11-seq_407	L2-7-seq_33	L3-10-seq_2
