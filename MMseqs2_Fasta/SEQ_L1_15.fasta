@@ -1,18 +1,48 @@
->seq_1 7mw6|spike_glycoprotein
+>seq_1 9gwt|isoform_1_of_cell_surface_glycoprotein_cd200_receptor_1
+RASESVDYSGNSFMH
+>seq_2 8v52|transforming_growth_factor_beta-3
+RASQSVSISRFNLMH
+>seq_3 8hlb|tumor_necrosis_factor_receptor_superfamily_member_1b,maltose/maltodextrin-binding_periplasmic_protein_
+RASESVDSYGDSFLH
+>seq_4 8ghp|guanylyl_cyclase_c
+RASESVDYYGSSLLQ
+>seq_5 8il3|adp-ribosyl_cyclase/cyclic_adp-ribose_hydrolase_1
+RASESVDNFGITFMH
+>seq_6 7mw6|spike_glycoprotein
 RASESVEYYGTSLMQ
->seq_2 7mw3|spike_glycoprotein
+>seq_7 7mw3|spike_glycoprotein
 RASESVDNYGISFMN
->seq_3 4z5r|interferon_alpha-2
+>seq_8 4z5r|interferon_alpha-2
 RASQSVSTSSYSYMH
->seq_4 7e5s|spike_glycoprotein
+>seq_9 7e5s|spike_glycoprotein
 RASESVDNYGISFMN
->seq_5 7shy|ige_fc
+>seq_10 6ywc|de_novo_design_4e1h_95
+RASQSVDYNGISYMH
+>seq_11 7shy|ige_fc
 RASQSVDYDGDSYMN
->seq_6 7si0|ige_fc
+>seq_12 7si0|ige_fc
 RASQSVDSDGDSYMN
->seq_7 5ggs|programmed_cell_death_protein_1
+>seq_13 5ggs|programmed_cell_death_protein_1
 RASKGVSTSGYSYLH
->seq_8 7shz|ige_fc
+>seq_14 7bsc|non-structural_protein_1
+RASESVEYSGTSLMH
+>seq_15 1i9r|cd40_ligand
+RASQRVSSSTYSYMH
+>seq_16 7shu|immunoglobulin_heavy_constant_epsilon
+RASKSVDSDGDSYMN
+>seq_17 6wmw|gdnf_family_receptor_alpha-like
+RASESVDNYGISFMS
+>seq_18 6eyo|immunoglobulin_heavy_constant_epsilon
+KASQSVDYDGDTYMN
+>seq_19 7shz|ige_fc
 RASKPVDGEGDSYLN
->seq_9 6phc|25_kda_ookinete_surface_antigen
+>seq_20 6m3c|vitamin_k-dependent_protein_c_heavy_chain
+KASESVDSFGATFMH
+>seq_21 6phc|25_kda_ookinete_surface_antigen
 RSSQSLLHNGYNYLD
+>seq_22 6al5|b-lymphocyte_antigen_cd19
+KASQSVDYSGDSYLN
+>seq_23 4i77|interleukin-13
+RASKSVDSYGNSFMH
+>seq_24 1h0d|angiogenin
+RASESVDNYGISFMS

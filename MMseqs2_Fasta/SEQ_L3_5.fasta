@@ -2,19 +2,39 @@
 QQYDA
 >seq_2 8qh0|spike_protein_s1
 QQGVT
->seq_3 7ugq|envelope_glycoprotein_gp120
+>seq_3 8e1p|bg505-sosip.v4.1-gt1.2gp120
+SSYEF
+>seq_4 7ugq|envelope_glycoprotein_gp120
 SAFEY
->seq_4 7s6j|spike_glycoprotein
+>seq_5 6myy|426c_ds-sosip_d3
+QQYEF
+>seq_6 7s6j|spike_glycoprotein
 QQPLT
->seq_5 6e4x|hemagglutinin
+>seq_7 6e4x|hemagglutinin
 QQQGT
->seq_6 7rdw|glycoprotein_120
+>seq_8 5fec|426c.tm4deltav1-3_gp120
+QQYEF
+>seq_9 4ydl|envelope_glycoprotein_gp160,envelope_glycoprotein_gp160
+QILEF
+>seq_10 7rdw|glycoprotein_120
 QHMYT
->seq_7 4ydi|envelope_glycoprotein_gp160
+>seq_11 6b0n|envelope_glycoprotein_gp140
+NAYEF
+>seq_12 4ydi|envelope_glycoprotein_gp160
 QVIES
->seq_8 5te6|clade_a/e_93th057_hiv-1_gp120_core
+>seq_13 5te6|clade_a/e_93th057_hiv-1_gp120_core
 QVLQF
->seq_9 4jb9|clade_a/e_93th057_hiv-1_gp120_core
+>seq_14 5if0|germline-targeting_hiv-1_gp120_engineered_outer_domain_eod-gt8_
+QQYYS
+>seq_15 5cd5|93th057_hiv-1_gp120_core
+QQFEE
+>seq_16 4hwb|interleukin-13_receptor_subunit_alpha-1
+QQYET
+>seq_17 7m30|envelope_protein_ul128
+QQLNN
+>seq_18 4jb9|clade_a/e_93th057_hiv-1_gp120_core
 QQFEF
->seq_10 4j6r|envelope_glycoprotein_gp160
+>seq_19 4xny|envelope_glycoprotein_gp160,envelope_glycoprotein_gp160,envelope_glycoprotein_gp160_
+QCFEG
+>seq_20 4j6r|envelope_glycoprotein_gp160
 QQYET

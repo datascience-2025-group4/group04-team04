@@ -2,213 +2,301 @@
 RASQSVSSSYLA
 >seq_2 9l6c|spike_protein_s1
 RASQSVSSSYLA
->seq_3 9bj3|spike_glycoprotein
+>seq_3 9bjh|apical_membrane_antigen_1
+RASQTITNAYFA
+>seq_4 9bj3|spike_glycoprotein
 RASQSVTSSYLA
->seq_4 8xsd|spike_glycoprotein
+>seq_5 8xsd|spike_glycoprotein
 RASLSVSSNFLA
->seq_5 9dq3|cytotoxic_t-lymphocyte_protein_4
+>seq_6 9dq3|cytotoxic_t-lymphocyte_protein_4
 RQSQSVGWSPLA
->seq_6 8wyj|spike_glycoprotein
+>seq_7 8v9d|aquaporin-4
+RASQSVSSRSVA
+>seq_8 9e6k|disintegrin_and_metalloproteinase_domain-containing_protein17_
+RASQSVSSSNLA
+>seq_9 8wyj|spike_glycoprotein
 RASQTVSSTSLA
->seq_7 8tzy|envelope_glycoprotein_e2
-RASQSVSSTYVA
->seq_8 8keo|spike_glycoprotein
-RASQSVRSGYLG
->seq_9 8qh0|spike_protein_s1
-RASQSVSSSYLA
->seq_10 9fgr|spike_glycoprotein
-RASQTFSSNYLA
->seq_11 9fgs|spike_glycoprotein,fibritin
-RASQSISTDYLA
->seq_12 9fgt|spike_glycoprotein,fibritin
-RASQSVSSSYLA
->seq_13 8qrf|spike_protein_s1
-RASQSVSSSYLA
->seq_14 8u1c|neuraminidase
-RSSQTVSSGYLA
->seq_15 8w0v|envelope_glycoprotein_e2
-RASQSVSSNYLA
->seq_16 8w0w|envelope_glycoprotein_e2
-RASQSVSSSYLA
->seq_17 8sis|spike_protein_s1
-RASQSVSSNYLA
->seq_18 8hp9|spike_protein_s2'
-RASQSFDSRYLG
->seq_19 8k5g|spike_protein_s1
-RASQSVSSSYLA
->seq_20 8bg2|spike_protein_s1
-RASQSVSINYLA
->seq_21 8bg8|spike_glycoprotein
-RASQSVSRNYLA
->seq_22 8ez7|neuraminidase
-RASQSLAPNYLA
->seq_23 8bec|spike_protein_s1
-RASQSVSSSYLA
->seq_24 8hgl|spike_glycoprotein
-RASQTVNSNYLA
->seq_25 8gsb|spike_protein_s1
-RASQSVSSSYLA
->seq_26 5xj3|cytotoxic_t-lymphocyte_protein_4
-RASQSVGSSYLA
->seq_27 5xj4|programmed_cell_death_1_ligand_1
-RASQRVSSSYLA
->seq_28 8a96|spike_protein_s1
-RASQSVSGSYLA
->seq_29 7xj6|spike_glycoprotein
-RASQSVRSSYLG
->seq_30 7xdl|spike_glycoprotein
-RASQSISSSYLA
->seq_31 7s5q|spike_protein_s1
-RASQSVSSSYLA
->seq_32 7ru4|spike_glycoprotein
-RASQSVSSSYLA
->seq_33 7s5r|spike_protein_s1
-RASQSVSSSYLA
->seq_34 7ul1|spike_protein_s1
-RASQSVSSSYLA
->seq_35 7uc8|gametocyte_surface_protein_p230
-RASQSVTSRYLA
->seq_36 7wn8|leukocyte_surface_antigen_cd47
-RASQSLSRNHLA
->seq_37 7x25|spike_glycoprotein
-RASQSVSSSYLA
->seq_38 7wch|surface_glycoprotein
-RASQSVRNSLLA
->seq_39 7ykj|spike_glycoprotein
-RASQSVSNSYLA
->seq_40 8dw9|spike_protein_s1
-RASQSVGNIYLA
->seq_41 7s1b|envelope_glycoprotein_h
-RASQSLSSTYLA
->seq_42 8gpx|envelope_protein
-RASQSVVSTYLA
->seq_43 7y0c|spike_protein_s1
-RASQSINSNYLA
->seq_44 8dad|spike_glycoprotein
-RASQSVSSSYLA
->seq_45 8dlw|spike_glycoprotein
-RASQSVSSSYLA
->seq_46 8dzh|spike_glycoprotein
-RASQSVSSSYLA
->seq_47 7zbu|spike_glycoprotein
-RASQSVSSSYLA
->seq_48 7str|nucleoprotein
-RASQSVSSSYLA
->seq_49 7qtj|surface_glycoprotein
-RGSQSVRSSYLG
->seq_50 7woa|spike_glycoprotein
-RASQSINNRHLA
->seq_51 7jmo|spike_protein_s1
-RASQSVSSSYLA
->seq_52 7orb|spike_protein_s1
-RASQSVSSSYLA
->seq_53 4ypg|interferon_alpha-2
-RASQSVSSTYLA
->seq_54 6o2b|circumsporozoite_protein
-RASQSVSSTYLA
->seq_55 5ibl|hemagglutinin
-RASQSVDSSSLA
->seq_56 4kxz|transforming_growth_factor_beta-2
-RASQSLGSSYLA
->seq_57 6wir|interleukin-17a
-RASQSVSSSYLA
->seq_58 7nx7|spike_protein_s1
-RASQSVPSSYLA
->seq_59 7ej4|spike_glycoprotein
-TASSSVSSSYLH
->seq_60 7x7o|spike_protein_s1
-RASQSVSSSYLA
->seq_61 5w4l|clade_a/e_93th057_hiv-1_gp120_core
-RASRTVSSSNLA
->seq_62 7tcc|spike_glycoprotein
-RASQSVSSSYLA
->seq_63 7ls9|spike_glycoprotein
-RASQSVSSSYLA
->seq_64 6v4o|neuraminidase
-RASQSAGSKSLA
->seq_65 7m6d|spike_protein_s1
-RASQSVPSSYLA
->seq_66 7m6i|spike_glycoprotein
-RASQSVGSGYLA
->seq_67 7r8l|spike_protein_s1
-RASQSIGSSYLA
->seq_68 6xq0|hemagglutinin
-RASQIIDNKYLA
->seq_69 7m6g|spike_glycoprotein
-RASQSVSGTFLA
->seq_70 5w1k|pre-glycoprotein_polyprotein_gp_complex
-RASQSVSSSYLA
->seq_71 7beo|spike_glycoprotein
-RASQSVSSSYLA
->seq_72 7q9f|surface_glycoprotein
-RASQSFTSSYLA
->seq_73 7su0|cytotoxic_t-lymphocyte_protein_4
-RASQEVGESELA
->seq_74 7qez|spike_protein_s1
-RASQSVSRSYLA
->seq_75 7l7e|spike_protein_s1
-RASQSVSSSYLA
->seq_76 7ljr|spike_glycoprotein
-RASQSVSSSYLA
->seq_77 7n3i|spike_protein_s1
-RASQSVSSSYLA
->seq_78 6uyg|envelope_glycoprotein_e2
-RASQSVSGSYLA
->seq_79 6o25|circumsporozoite_protein
-RASQSVSSSYLA
->seq_80 7n5h|spike_glycoprotein
-RASQSVSSSYLA
->seq_81 7l2f|spike_glycoprotein
-RASQSVSSSYLA
->seq_82 7s4s|spike_protein_s1
-RASQSISSSYLA
->seq_83 5vn8|envelope_glycoprotein_gp160
-RSSHSIRSRRVA
->seq_84 7rdw|glycoprotein_120
-RASQSVRSSYLA
->seq_85 7coe|spike_glycoprotein
-GASQSVSSSYLA
->seq_86 7ps5|surface_glycoprotein
-RASQSVSRNYLA
->seq_87 7bnv|surface_glycoprotein
-RASQSVSSSYLA
->seq_88 7lrt|sars-cov-2_spike_glycoprotein
-RASQSVSSSYLA
->seq_89 7e3k|spike_glycoprotein
-RASQSVRSSYLA
->seq_90 4zff|vascular_endothelial_growth_factor_a
+>seq_10 8vgp|angiopoietin-2
 RASQFLSSFGVA
->seq_91 7vyt|t-cell_immunoreceptor_with_ig_and_itim_domains
+>seq_11 8tzy|envelope_glycoprotein_e2
+RASQSVSSTYVA
+>seq_12 8keo|spike_glycoprotein
+RASQSVRSGYLG
+>seq_13 8qh0|spike_protein_s1
 RASQSVSSSYLA
->seq_92 6utk|envelope_glycoprotein_gp120
-RASQNISSSWIA
->seq_93 7k8m|surface_glycoprotein
+>seq_14 9fgr|spike_glycoprotein
+RASQTFSSNYLA
+>seq_15 9fgs|spike_glycoprotein,fibritin
+RASQSISTDYLA
+>seq_16 9fgt|spike_glycoprotein,fibritin
 RASQSVSSSYLA
->seq_94 7zr9|spike_glycoprotein,fibritin
-RASQSVSSTYLA
->seq_95 7r6x|spike_protein_s1
+>seq_17 8qrf|spike_protein_s1
 RASQSVSSSYLA
->seq_96 7ezv|spike_glycoprotein
-RASQSVRSGYFA
->seq_97 7lab|spike_glycoprotein
+>seq_18 8sm1|envelope_glycoprotein_gp350
+RASQSVASKYLA
+>seq_19 8u1c|neuraminidase
+RSSQTVSSGYLA
+>seq_20 8w0v|envelope_glycoprotein_e2
+RASQSVSSNYLA
+>seq_21 8w0w|envelope_glycoprotein_e2
 RASQSVSSSYLA
->seq_98 7ps1|surface_glycoprotein
-RASQSVSSSSLA
->seq_99 3hi1|glycoprotein_120
-RASQSVSSRYLA
->seq_100 7d0c|spike_glycoprotein
+>seq_22 8sis|spike_protein_s1
+RASQSVSSNYLA
+>seq_23 8hp9|spike_protein_s2'
+RASQSFDSRYLG
+>seq_24 8k5g|spike_protein_s1
 RASQSVSSSYLA
->seq_101 7mzm|spike_protein_s1
+>seq_25 8bk2|factor_h-binding_protein
+RASQSISSSYLA
+>seq_26 8bg2|spike_protein_s1
+RASQSVSINYLA
+>seq_27 8bg8|spike_glycoprotein
+RASQSVSRNYLA
+>seq_28 8ez7|neuraminidase
+RASQSLAPNYLA
+>seq_29 8bec|spike_protein_s1
 RASQSVSSSYLA
->seq_102 5ug0|hemagglutinin_ha1
-RASQSVSSYYLG
->seq_103 7rr0|spike_protein_s1
+>seq_30 8hgl|spike_glycoprotein
+RASQTVNSNYLA
+>seq_31 4kv5|transforming_growth_factor_beta-1_proprotein
+RASQSLGSSYLA
+>seq_32 8gsb|spike_protein_s1
+RASQSVSSSYLA
+>seq_33 8a95|sars-cov2_trimeric_spike_in_1-up_conformation_in_complexwith_three_fab47_
+RASQSVSGSYLA
+>seq_34 5xj3|cytotoxic_t-lymphocyte_protein_4
+RASQSVGSSYLA
+>seq_35 5xj4|programmed_cell_death_1_ligand_1
+RASQRVSSSYLA
+>seq_36 8ivw|neuropilin-2
+TASSSVSSSYLH
+>seq_37 8ee1|6-deoxyerythronolide_b_synthase
+RASQSVSSYYLA
+>seq_38 7xj6|spike_glycoprotein
 RASQSVRSSYLG
->seq_104 6wo4|envelope_glycoprotein_e2
-RASHSVSSSNLA
->seq_105 6xe1|spike_protein_s1
+>seq_39 8d7e|ciliary_neurotrophic_factor_receptor_subunit_alpha
 RASQSVSSSYLA
->seq_106 5w42|hemagglutinin
+>seq_40 7xdl|spike_glycoprotein
+RASQSISSSYLA
+>seq_41 7s5q|spike_protein_s1
+RASQSVSSSYLA
+>seq_42 7ru4|spike_glycoprotein
+RASQSVSSSYLA
+>seq_43 7s5r|spike_protein_s1
+RASQSVSSSYLA
+>seq_44 7ul1|spike_protein_s1
+RASQSVSSSYLA
+>seq_45 7uc8|gametocyte_surface_protein_p230
+RASQSVTSRYLA
+>seq_46 7wn8|leukocyte_surface_antigen_cd47
+RASQSLSRNHLA
+>seq_47 7x25|spike_glycoprotein
+RASQSVSSSYLA
+>seq_48 7wch|surface_glycoprotein
+RASQSVRNSLLA
+>seq_49 7ykj|spike_glycoprotein
+RASQSVSNSYLA
+>seq_50 7wur|core_protein
+RASQSVSSSYLA
+>seq_51 7t25|outer_surface_protein_a
+RASQSVSSSYLA
+>seq_52 8dw9|spike_protein_s1
+RASQSVGNIYLA
+>seq_53 7s1b|envelope_glycoprotein_h
+RASQSLSSTYLA
+>seq_54 7sd3|transmembrane_protein_gp41
+RASQSVGNNKLA
+>seq_55 8gpx|envelope_protein
+RASQSVVSTYLA
+>seq_56 7s7i|mhc_class_i_chain-related_protein_a
+RASQSVSSSYLA
+>seq_57 7y0c|spike_protein_s1
+RASQSINSNYLA
+>seq_58 8dad|spike_glycoprotein
+RASQSVSSSYLA
+>seq_59 8dlw|spike_glycoprotein
+RASQSVSSSYLA
+>seq_60 8dzh|spike_glycoprotein
+RASQSVSSSYLA
+>seq_61 7zbu|spike_glycoprotein
+RASQSVSSSYLA
+>seq_62 7str|nucleoprotein
+RASQSVSSSYLA
+>seq_63 7unb|gametocyte_surface_protein_p45/48
+RASQSVRSMYLA
+>seq_64 7qti|spike_glycoprotein,envelope_glycoprotein
+RGSQSVRSSYLG
+>seq_65 7woa|spike_glycoprotein
+RASQSINNRHLA
+>seq_66 7jmo|spike_protein_s1
+RASQSVSSSYLA
+>seq_67 7orb|spike_protein_s1
+RASQSVSSSYLA
+>seq_68 4ypg|interferon_alpha-2
+RASQSVSSTYLA
+>seq_69 7mxl|major_pollen_allergen_bet_v_1-a
+RASQSVSSSYLA
+>seq_70 6o2b|circumsporozoite_protein
+RASQSVSSTYLA
+>seq_71 6mto|vrc42_epitope_t117-f_scaffold
+RASQNVRNSNLA
+>seq_72 5ibl|hemagglutinin
+RASQSVDSSSLA
+>seq_73 5xmh|immunoglobulin_gamma-1_heavy_chain
+RASQSISSSYLA
+>seq_74 6wir|interleukin-17a
+RASQSVSSSYLA
+>seq_75 4dn4|c-c_motif_chemokine_2
+RASQSVSDAYLA
+>seq_76 7nx7|spike_protein_s1
+RASQSVPSSYLA
+>seq_77 7ej4|spike_glycoprotein
+TASSSVSSSYLH
+>seq_78 6mvl|v-type_immunoglobulin_domain-containing_suppressor_of_t-cell_activation_
+RASQSVSSSYLA
+>seq_79 7kfh|virion_spike_glycoprotein_1
+RASQSVSNSYLA
+>seq_80 4m8q|4e10_epitope_scaffold_t117
+RASQSVSSSYLA
+>seq_81 6o41|immunoglobulin_g-binding_protein_g_(domain_iii)
+RASQSVSSSYLA
+>seq_82 7kql|hepatitis_a_virus_cellular_receptor_2
+RASQSVSSSYLA
+>seq_83 7x7o|spike_protein_s1
+RASQSVSSSYLA
+>seq_84 5w4l|clade_a/e_93th057_hiv-1_gp120_core
+RASRTVSSSNLA
+>seq_85 7tcc|spike_glycoprotein
+RASQSVSSSYLA
+>seq_86 7ls9|spike_glycoprotein
+RASQSVSSSYLA
+>seq_87 6v4o|neuraminidase
+RASQSAGSKSLA
+>seq_88 7m6d|spike_protein_s1
+RASQSVPSSYLA
+>seq_89 7m6i|spike_glycoprotein
+RASQSVGSGYLA
+>seq_90 6cmg|glycoprotein_g
+RASQSIRSTYLA
+>seq_91 7r8l|spike_protein_s1
+RASQSIGSSYLA
+>seq_92 5esv|2-c-methyl-d-erythritol_2,4-cyclodiphosphate_synthase,envelope_glycoprotein_gp160_
+RASQSVHPKYFA
+>seq_93 6xq0|hemagglutinin
+RASQIIDNKYLA
+>seq_94 7m6g|spike_glycoprotein
+RASQSVSGTFLA
+>seq_95 5w1k|pre-glycoprotein_polyprotein_gp_complex
+RASQSVSSSYLA
+>seq_96 7beo|spike_glycoprotein
+RASQSVSSSYLA
+>seq_97 7q9f|surface_glycoprotein
+RASQSFTSSYLA
+>seq_98 5wi9|beta-klotho
+RASQSVSSTYLA
+>seq_99 7su0|cytotoxic_t-lymphocyte_protein_4
+RASQEVGESELA
+>seq_100 7qez|spike_protein_s1
+RASQSVSRSYLA
+>seq_101 7l7e|spike_protein_s1
+RASQSVSSSYLA
+>seq_102 4idj|alpha-hemolysin
+RASQTISNNFVA
+>seq_103 7ljr|spike_glycoprotein
+RASQSVSSSYLA
+>seq_104 7n3i|spike_protein_s1
+RASQSVSSSYLA
+>seq_105 6uyg|envelope_glycoprotein_e2
+RASQSVSGSYLA
+>seq_106 6o25|circumsporozoite_protein
+RASQSVSSSYLA
+>seq_107 7n5h|spike_glycoprotein
+RASQSVSSSYLA
+>seq_108 7l2f|spike_glycoprotein
+RASQSVSSSYLA
+>seq_109 7s4s|spike_protein_s1
+RASQSISSSYLA
+>seq_110 7lcv|factor_h_binding_protein
+RASQSVSSSYLA
+>seq_111 4ydl|envelope_glycoprotein_gp160,envelope_glycoprotein_gp160
+RTSQGILSNQLA
+>seq_112 7ce2|tetanus_toxin
+RASQSITSSFLA
+>seq_113 5vn8|envelope_glycoprotein_gp160
+RSSHSIRSRRVA
+>seq_114 7rdw|glycoprotein_120
+RASQSVRSSYLA
+>seq_115 7coe|spike_glycoprotein
+GASQSVSSSYLA
+>seq_116 7ps5|surface_glycoprotein
+RASQSVSRNYLA
+>seq_117 7bnv|surface_glycoprotein
+RASQSVSSSYLA
+>seq_118 7lrt|sars-cov-2_spike_glycoprotein
+RASQSVSSSYLA
+>seq_119 7e3k|spike_glycoprotein
+RASQSVRSSYLA
+>seq_120 7s8h|glycoprotein_g2
+RASQSVTKNYLA
+>seq_121 7vyt|t-cell_immunoreceptor_with_ig_and_itim_domains
+RASQSVSSSYLA
+>seq_122 6utk|envelope_glycoprotein_gp120
+RASQNISSSWIA
+>seq_123 7ket|factor_h_binding_protein
+RASQSFSSFSLA
+>seq_124 7k8m|surface_glycoprotein
+RASQSVSSSYLA
+>seq_125 7zr9|spike_glycoprotein,fibritin
+RASQSVSSTYLA
+>seq_126 7r6x|spike_protein_s1
+RASQSVSSSYLA
+>seq_127 7ezv|spike_glycoprotein
+RASQSVRSGYFA
+>seq_128 6vc9|5'-nucleotidase,_ecto_(cd73),_isoform_cra_a
+RASQSVNTNYFS
+>seq_129 5gmq|s_protein
+RASQSVSSSYLA
+>seq_130 7lab|spike_glycoprotein
+RASQSVSSSYLA
+>seq_131 7ps1|surface_glycoprotein
+RASQSVSSSSLA
+>seq_132 3hi1|glycoprotein_120
+RASQSVSSRYLA
+>seq_133 7d0c|spike_glycoprotein
+RASQSVSSSYLA
+>seq_134 7mzm|spike_protein_s1
+RASQSVSSSYLA
+>seq_135 6mtq|vrc42_epitope_t117-f_scaffold
+RASQSVGSSYFA
+>seq_136 4hwb|interleukin-13_receptor_subunit_alpha-1
+RASQSISSSYLA
+>seq_137 3w9e|envelope_glycoprotein_d
+RASQSVTSSQLA
+>seq_138 1iqd|human_factor_viii
+RASQSFSSSYLA
+>seq_139 5ug0|hemagglutinin_ha1
+RASQSVSSYYLG
+>seq_140 6b9j|imv_membrane_protein
+RASQSVTSTYLA
+>seq_141 6vgr|dipeptidase_3
+TASSSVNSFYLH
+>seq_142 6bkd|polyprotein
+RAGQTVASNSLA
+>seq_143 7rr0|spike_protein_s1
+RASQSVRSSYLG
+>seq_144 4xny|envelope_glycoprotein_gp160,envelope_glycoprotein_gp160,envelope_glycoprotein_gp160_
+RPSQAISKSHLA
+>seq_145 6wo4|envelope_glycoprotein_e2
+RASHSVSSSNLA
+>seq_146 6xe1|spike_protein_s1
+RASQSVSSSYLA
+>seq_147 4np4|toxin_b
+RASQSVSSSYLA
+>seq_148 6u6u|interleukin-1_receptor-like_2
+TASSSVSSSYFH
+>seq_149 5w42|hemagglutinin
 RTSQGVSSSYLA
->seq_107 7n62|spike_glycoprotein
+>seq_150 6xzw|lipoprot_c_domain-containing_protein
+RASQMISSPFLA
+>seq_151 7n62|spike_glycoprotein
 RASQSVSSSYLA

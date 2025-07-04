@@ -1,96 +1,158 @@
 >seq_1 9l6c|spike_protein_s1
 QQYGSSPT
->seq_2 8v5q|envelope_glycoprotein_e
+>seq_2 8rmx|protein-glutamine_gamma-glutamyltransferase_e
+QQYYSLWT
+>seq_3 8v5q|envelope_glycoprotein_e
 QQSYRTLT
->seq_3 8wyj|spike_glycoprotein
-QRYDPSYT
->seq_4 8wyj|spike_glycoprotein
-QQHDTSLT
->seq_5 8tzy|envelope_glycoprotein_e2
-QQYGGSPF
->seq_6 8yww|spike_glycoprotein
-QQRRNGYS
->seq_7 8pwv|reticulocyte-binding_protein_homolog_5
-MQAKDPYS
->seq_8 8r9w|spike_protein
-HQYNNWLT
->seq_9 8x0y|spike_protein_s1
-QHYYSTPF
->seq_10 8suo|spike_protein_s1
-QQYYSTLT
->seq_11 8yx1|tumor_necrosis_factor_receptor_superfamily_member_5
-QQFNSYPT
->seq_12 8ekd|spike_protein_s2'
-QQYYSTLT
->seq_13 8sxj|envelope_glycoprotein_gp160
-LQYNNWWT
->seq_14 8bg1|spike_protein_s1
+>seq_4 9b2w|hemagglutinin-neuraminidase
 MQALQTPT
->seq_15 8gnh|spike_glycoprotein
-QQRSNWIT
->seq_16 8eay|fusion_glycoprotein_f0
-QAWDSSVV
->seq_17 7tri|hemagglutinin
-QHRSTWVT
->seq_18 8dz3|circumsporozoite_protein
-QQYKTWWT
->seq_19 8dz4|circumsporozoite_protein
-QQYNNGFT
->seq_20 7y6l|spike_glycoprotein
-QQYKSAWS
->seq_21 7xs8|spike_protein_s1
-QHLNDYPL
->seq_22 8bbo|spike_glycoprotein
-QQYKSYRT
->seq_23 7ul1|spike_protein_s1
-QQYGSSYT
->seq_24 8dxt|spike_protein_s1
-QQCDSLLT
->seq_25 7t7b|spike_protein_s1
-QQYDNLIT
->seq_26 7jmo|spike_protein_s1
-QQYGSLYT
->seq_27 5w08|hemagglutinin_ha1
-SSYAGSVV
->seq_28 7f3q|spike_glycoprotein
-QQANSFPP
->seq_29 7nx7|spike_protein_s1
-QHYDTSPR
->seq_30 5ggt|programmed_cell_death_1_ligand_1
-QQRSNWPT
->seq_31 5f9w|clade_a/e_93th057_hiv-1_gp120_core
+>seq_5 8wyj|spike_glycoprotein
+QRYDPSYT
+>seq_6 8wyj|spike_glycoprotein
+QQHDTSLT
+>seq_7 8tzy|envelope_glycoprotein_e2
+QQYGGSPF
+>seq_8 8tv3|outer_surface_protein_a
+QHHSNWYT
+>seq_9 8yww|spike_glycoprotein
+QQRRNGYS
+>seq_10 8tv1|ephrin_type-a_receptor_2
+QQGSAPFT
+>seq_11 8pwv|reticulocyte-binding_protein_homolog_5
+MQAKDPYS
+>seq_12 8r9w|spike_protein
+HQYNNWLT
+>seq_13 8x0y|spike_protein_s1
+QHYYSTPF
+>seq_14 8suo|spike_protein_s1
+QQYYSTLT
+>seq_15 8yx1|tumor_necrosis_factor_receptor_superfamily_member_5
+QQFNSYPT
+>seq_16 8uky|bcl-2_homologous_antagonist/killer
+QQYSSYRT
+>seq_17 8ekd|spike_protein_s2'
+QQYYSTLT
+>seq_18 8sxj|envelope_glycoprotein_gp160
 LQYNNWWT
->seq_32 7ljr|spike_glycoprotein
-QQYSSSRT
->seq_33 6uyg|envelope_glycoprotein_e2
-QQYGSSPT
->seq_34 5t3z|envelope_glycoprotein_gp160
-YSYADGVA
->seq_35 6iuv|hemagglutinin
-MQALQTPD
->seq_36 7chs|spike_protein_s1
-LHLNSYRT
->seq_37 6phc|25_kda_ookinete_surface_antigen
-MQTLQPFT
->seq_38 7djz|spike_protein_s1
-QQYSNWLT
->seq_39 7ps1|surface_glycoprotein
-QQYGSSPL
->seq_40 4dvr|envelope_glycoprotein_gp160
+>seq_19 8b7h|gremlin-1
+QQYYDTPT
+>seq_20 8bg1|spike_protein_s1
+MQALQTPT
+>seq_21 8ghp|guanylyl_cyclase_c
+QQTRKAYT
+>seq_22 8gnh|spike_glycoprotein
+QQRSNWIT
+>seq_23 8eay|fusion_glycoprotein_f0
+QAWDSSVV
+>seq_24 7tri|hemagglutinin
+QHRSTWVT
+>seq_25 8dz3|circumsporozoite_protein
+QQYKTWWT
+>seq_26 8dz4|circumsporozoite_protein
+QQYNNGFT
+>seq_27 7y6l|spike_glycoprotein
+QQYKSAWS
+>seq_28 7xs8|spike_protein_s1
+QHLNDYPL
+>seq_29 8bbo|spike_glycoprotein
+QQYKSYRT
+>seq_30 7ul1|spike_protein_s1
+QQYGSSYT
+>seq_31 8ath|lysosome-associated_membrane_glycoprotein_1
+LQYDNLWT
+>seq_32 8dxt|spike_protein_s1
+QQCDSLLT
+>seq_33 7s7i|mhc_class_i_chain-related_protein_a
+QQYGSSFT
+>seq_34 7t7b|spike_protein_s1
+QQYDNLIT
+>seq_35 7jmo|spike_protein_s1
+QQYGSLYT
+>seq_36 5w08|hemagglutinin_ha1
+SSYAGSVV
+>seq_37 3hi6|integrin_alpha-l
+QQSYSTPS
+>seq_38 7f3q|spike_glycoprotein
+QQANSFPP
+>seq_39 6bf4|hiv-1_clade_ae_gp120_core
+QQYFFLYS
+>seq_40 7nx7|spike_protein_s1
+QHYDTSPR
+>seq_41 4zs6|s_protein
+QQYDKLPT
+>seq_42 4r4n|m48u1_peptide
+QHLIGLRS
+>seq_43 5o1r|gna2132
+QQSYGSPT
+>seq_44 4ogx|plasma_kallikrein
+QQYNTYWT
+>seq_45 5ggt|programmed_cell_death_1_ligand_1
+QQRSNWPT
+>seq_46 6cmg|glycoprotein_g
+QQYGRSPS
+>seq_47 3jwo|hiv-1_gp120_envelope_glycoprotein
 QQANSFFT
->seq_41 7vmu|spike_protein_s1
-QQLNSYPR
->seq_42 5f9o|clade_a/e_93th057_hiv-1_gp120_core
-QQYNNWWT
->seq_43 7nd3|spike_glycoprotein
-QQYDNLPA
->seq_44 6oej|clade_a/e_93th057_hiv-1_gp120_core
-MQALQAVG
->seq_45 6c6z|spike_protein
-MQALQTPA
->seq_46 5w42|hemagglutinin
-QQYATSPT
->seq_47 7mzl|spike_protein_s1
-QQRSNWLT
->seq_48 7n62|spike_glycoprotein
+>seq_48 6o3a|frizzled-7
+QQYYSLFT
+>seq_49 5f9w|clade_a/e_93th057_hiv-1_gp120_core
+LQYNNWWT
+>seq_50 4u6v|alpha-hemolysin
+KQYADYWT
+>seq_51 7ljr|spike_glycoprotein
+QQYSSSRT
+>seq_52 6uyg|envelope_glycoprotein_e2
+QQYGSSPT
+>seq_53 7mlh|der_p_2_variant_3
+QQYHSHRT
+>seq_54 5t3z|envelope_glycoprotein_gp160
+YSYADGVA
+>seq_55 6txz|hepatitis_a_virus_cellular_receptor_2
+SSYADSVV
+>seq_56 7ce2|tetanus_toxin
+QQYDTSRT
+>seq_57 5vig|zika_virus_envelope_protein_diii
+QQYSTFWT
+>seq_58 6iuv|hemagglutinin
+MQALQTPD
+>seq_59 7chs|spike_protein_s1
+LHLNSYRT
+>seq_60 2xtj|proprotein_convertase_subtilisin/kexin_type_9
+QQFDGDPT
+>seq_61 6phc|25_kda_ookinete_surface_antigen
+MQTLQPFT
+>seq_62 4irz|integrin_alpha4_subunit
+LQYDNLWT
+>seq_63 7djz|spike_protein_s1
+QQYSNWLT
+>seq_64 7ps1|surface_glycoprotein
 QQYGSSPL
+>seq_65 3w9e|envelope_glycoprotein_d
+QQYGSSPT
+>seq_66 7vmu|spike_protein_s1
+QQLNSYPR
+>seq_67 5f9o|clade_a/e_93th057_hiv-1_gp120_core
+QQYNNWWT
+>seq_68 7m30|envelope_glycoprotein_l
+QQYENLFT
+>seq_69 7nd3|spike_glycoprotein
+QQYDNLPA
+>seq_70 6bkd|polyprotein
+QQYGLSST
+>seq_71 6o39|frizzled-5
+QQGVYLFT
+>seq_72 6oej|clade_a/e_93th057_hiv-1_gp120_core
+MQALQAVG
+>seq_73 6nn3|vp2_of_b19_parvovirus
+QTWDSTVV
+>seq_74 6c6z|spike_protein
+MQALQTPA
+>seq_75 5w42|hemagglutinin
+QQYATSPT
+>seq_76 7mzl|spike_protein_s1
+QQRSNWLT
+>seq_77 7kra|er_membrane_protein_complex_subunit_1
+MQALQTPS
+>seq_78 7n62|spike_glycoprotein
+QQYGSSPL
+>seq_79 4ps4|interleukin-13
+QQHDYPYT

@@ -8,437 +8,631 @@ YYSGS
 GTAGD
 >seq_5 9l6c|spike_protein_s1
 YSGGS
->seq_6 8xsd|spike_glycoprotein
-YAGGS
->seq_7 8v5q|envelope_glycoprotein_e
-SYNGD
->seq_8 9bdf|hemagglutinin
-HHSGE
->seq_9 8wpw|spike_protein_s1
-YPGGS
->seq_10 8k18|spike_protein_s1
-YPGGS
->seq_11 8v5s|envelope_glycoprotein_e
-YYTGT
->seq_12 8vuj|glutamate_receptor_ionotropic,_nmda_1
-YHSGN
->seq_13 8y4c|spike_glycoprotein
-YYSGS
->seq_14 8zho|spike_glycoprotein
-YYSGS
->seq_15 8kdr|spike_glycoprotein
-GTSGD
->seq_16 8yww|spike_glycoprotein
-YSGGS
->seq_17 8c0y|spike_protein_s2'
-YPGGS
->seq_18 8qh0|spike_protein_s1
-YPGGS
->seq_19 8rgz|envelope_glycoprotein_b
-WWNND
->seq_20 8xbf|spike_glycoprotein
-YAGGS
->seq_21 8yz5|spike_glycoprotein
-YSGGS
->seq_22 8pwu|reticulocyte-binding_protein_homolog_5
-YHSGS
->seq_23 8pww|reticulocyte-binding_protein_homolog_5
-YHSGS
->seq_24 8x0y|spike_protein_s1
-FHSGT
->seq_25 9fgr|spike_glycoprotein
-YPGGS
->seq_26 9fgs|spike_glycoprotein,fibritin
-YPGGS
->seq_27 9fgt|spike_glycoprotein,fibritin
-YPGGS
->seq_28 8jio|spike_glycoprotein
-YYTGS
->seq_29 8tnl|hemagglutinin
-YHSGS
->seq_30 8toa|hemagglutinin
-YYSGN
->seq_31 8yx1|tumor_necrosis_factor_receptor_superfamily_member_5
-YKSGS
->seq_32 8tqk|fusion_glycoprotein_f0
-TSGER
->seq_33 8xea|spike_glycoprotein
-YPGGS
->seq_34 8u1q|neuraminidase
-YYSGI
->seq_35 8u1s|neuraminidase
-SYTGD
->seq_36 8vye|spike_glycoprotein
-YWNDD
->seq_37 8w0x|envelope_glycoprotein_e2
-NPTGS
->seq_38 8w0y|envelope_glycoprotein_e2
-NHSGN
->seq_39 8gdr|spike_glycoprotein
-YWDDD
->seq_40 8r1c|spike_glycoprotein,fibritin
-HSSGS
->seq_41 8siq|spike_protein_s1
-SSSGS
->seq_42 8cin|spike_glycoprotein
-YYGGS
->seq_43 8cbd|spike_protein_s1
-YYSGS
->seq_44 8hp9|spike_protein_s2'
-YWDND
->seq_45 8tma|spike_glycoprotein
-YFSGN
->seq_46 7ycy|spike_glycoprotein
-YWDDD
->seq_47 8hws|spike_protein_s2'
-YSGGS
->seq_48 8j1t|spike_protein
-YPGGS
->seq_49 8bg2|spike_protein_s1
-YSGGS
->seq_50 8bg3|spike_protein_s1
-YSGGS
->seq_51 8bg4|spike_protein_s1
-YAGGS
->seq_52 8ez8|neuraminidase
-SNSGS
->seq_53 8bec|spike_protein_s1
-YSGGS
->seq_54 8pq2|spike_protein_s2'
-THTGS
->seq_55 8tp2|hemagglutinin
-HYSGS
->seq_56 8tp6|hemagglutinin
-YTTGS
->seq_57 8tp7|hemagglutinin
-YYSGT
->seq_58 8tp9|hemagglutinin
-YYNGV
->seq_59 8gye|tumor_necrosis_factor_receptor_superfamily_member_9
-WPGGS
->seq_60 8gnh|spike_glycoprotein
-NHSGS
->seq_61 8gf2|spike_protein_s1
-YSGGS
->seq_62 8eay|fusion_glycoprotein_f0
-YYSGS
->seq_63 8ezk|25_kda_ookinete_surface_antigen
-HHTGA
->seq_64 8e6j|neuraminidase
-FYSGN
->seq_65 8e6k|neuraminidase
-YYRGI
->seq_66 7tri|hemagglutinin
-YNSGS
->seq_67 7yds|programmed_cell_death_1_ligand_1
-SYVSR
->seq_68 8e1g|spike_protein_s1
-YSGGT
->seq_69 7yve|spike_glycoprotein
-YWDDD
->seq_70 7yvg|spike_glycoprotein
-FAGGS
->seq_71 7yvk|spike_glycoprotein
-YWDDD
->seq_72 8eoo|spike_protein_s1
-YYGGS
->seq_73 7wt7|spike_glycoprotein
-YSGGS
->seq_74 8dwx|e2_glycoprotein
-FYTGG
->seq_75 7xsc|spike_protein_s1
-YSGGS
->seq_76 8bse|spike_glycoprotein
-YSGGS
->seq_77 8hn6|spike_protein_s1
-YAGGS
->seq_78 7xsa|spike_protein_s1
-YWDDD
->seq_79 7xs8|spike_protein_s1
-YSGGS
->seq_80 7uow|spike_glycoprotein
-YAGGS
->seq_81 7wnb|spike_protein_s1
-YSGGS
->seq_82 8bbo|spike_glycoprotein
-FTSGT
->seq_83 8bcz|spike_protein_s1
-YSGGS
->seq_84 7xdl|spike_glycoprotein
-NHSGN
->seq_85 7x08|spike_glycoprotein
-YSGGS
->seq_86 7s5p|spike_protein_s1
-YSGGS
->seq_87 7ul1|spike_protein_s1
-YSGGS
->seq_88 7uc8|gametocyte_surface_protein_p230
-DYRGS
->seq_89 7uvq|gametocyte_surface_protein_p230
-TYDGT
->seq_90 7ycn|spike_protein_s1
-NHSGS
->seq_91 8hc2|spike_glycoprotein
-YAGGS
->seq_92 7wcp|surface_glycoprotein
-YPGGS
->seq_93 7t72|spike_protein_s1
-YPGGS
->seq_94 7wos|spike_glycoprotein
-YSGGS
->seq_95 7s1b|envelope_glycoprotein_h
-NHTGT
->seq_96 8erq|spike_glycoprotein
-YWDDD
->seq_97 7yr1|spike_glycoprotein
-YRGGS
->seq_98 7wrj|spike_protein_s1
-YWDDS
->seq_99 7y0v|spike_protein_s1
-YYTGS
->seq_100 7wbz|spike_protein_s1
-YSGGS
->seq_101 7str|nucleoprotein
-YYSGS
->seq_102 7sts|nucleoprotein
-YYSGS
->seq_103 8cw9|fusion_glycoprotein_f0
-DWEDN
->seq_104 8dcc|spike_protein_s1
-YHSGS
->seq_105 7jmo|spike_protein_s1
-YSGGS
->seq_106 6xcn|spike_glycoprotein
-YSGGS
->seq_107 7bel|spike_glycoprotein
-YNSGS
->seq_108 7bej|spike_glycoprotein
-YPGGS
->seq_109 6v4n|neuraminidase
-YYTGI
->seq_110 7eh5|spike_glycoprotein
-WSGGS
->seq_111 7pnq|spike_glycoprotein
-NHSGS
->seq_112 7czx|spike_glycoprotein
-SYSGS
->seq_113 7ps0|surface_glycoprotein
-YYTGS
->seq_114 7nx7|spike_protein_s1
-YSGGS
->seq_115 4m5z|hemagglutinin_ha1_chain
-YHSGS
->seq_116 7sc1|spike_glycoprotein
-YAGGS
->seq_117 7akd|spike_glycoprotein
-YYSGS
->seq_118 7ejz|spike_protein_s1
-YAGGS
->seq_119 7shy|ige_fc
-TYDGS
->seq_120 7pqy|spike_protein_s1
-YSGGS
->seq_121 6aru|epidermal_growth_factor_receptor
-WSGGN
->seq_122 8dce|spike_protein_s1
-YSGGS
->seq_123 7qnw|surface_glycoprotein
-YYSGI
->seq_124 7kn4|spike_protein_s1
-YYSGS
->seq_125 6iut|hemagglutinin
-FDSGS
->seq_126 7kfv|surface_glycoprotein
-YSGGA
->seq_127 7d0d|spike_glycoprotein
-YWDDD
->seq_128 7si0|ige_fc
-TYDGS
->seq_129 7nd5|spike_glycoprotein
-YSGGT
->seq_130 7cho|spike_protein_s1
-YSGGS
->seq_131 7m6d|spike_protein_s1
-YSGGT
->seq_132 5xwd|epidermal_growth_factor_receptor
-YYSGS
->seq_133 7kfw|surface_glycoprotein
-YSGGT
->seq_134 3b2u|epidermal_growth_factor_receptor
-YYSGS
->seq_135 4dag|fusion_glycoprotein_f0
-YSGGT
->seq_136 7rbu|spike_protein_s1
-YYSGS
->seq_137 7neg|surface_glycoprotein
-YSGGS
->seq_138 6e4x|hemagglutinin
-YHSGS
->seq_139 7cgw|programmed_cell_death_protein_1
-YADGS
->seq_140 7czp|spike_glycoprotein
-YYSGS
->seq_141 7wee|spike_glycoprotein
-YWDGD
->seq_142 7r8l|spike_protein_s1
-YAGGS
->seq_143 7mmo|spike_protein_s1
-YWDDD
->seq_144 4yk4|hemagglutinin
-YYSGS
->seq_145 6oe4|fusion_glycoprotein_f0
-SYTGN
->seq_146 6urm|hemagglutinin
-DWDDN
->seq_147 7po5|spike_glycoprotein
-NHSGS
->seq_148 7bq5|envelope_protein
-YYSGG
->seq_149 6xq0|hemagglutinin
-GKGGE
->seq_150 5w1k|pre-glycoprotein_polyprotein_gp_complex
-NYRGI
->seq_151 7czs|spike_glycoprotein
-YPGGS
->seq_152 7jmp|spike_protein_s1
-YTGGT
->seq_153 6xpy|hemagglutinin
-SNSGS
->seq_154 5gzo|genome_polyprotein
-YHSGS
->seq_155 6pzy|neuraminidase
-NHRGS
->seq_156 6iw2|envelope_protein_e
-SYSGK
->seq_157 7m6f|spike_glycoprotein
-YPGGS
->seq_158 7e86|spike_protein_s1
-YSGGS
->seq_159 7cm4|spike_glycoprotein
-DWDDN
->seq_160 7n3i|spike_protein_s1
-YSGGS
->seq_161 7pry|surface_glycoprotein
-YYSES
->seq_162 5sx4|epidermal_growth_factor_receptor
-YYSGN
->seq_163 7ttx|spike_glycoprotein
-TYSGR
->seq_164 7q9j|spike_glycoprotein
-YYTGS
->seq_165 7z0x|surface_glycoprotein
-YSGDS
->seq_166 7n5h|spike_glycoprotein
-YYSGS
->seq_167 7m7b|spike_glycoprotein
-NHSGS
->seq_168 7s4s|spike_protein_s1
-YSGGS
->seq_169 7q0h|spike_protein_s1
-YYSGS
->seq_170 6ii9|hemagglutinin
-NHSGG
->seq_171 6pze|neuraminidase
-YYSGS
->seq_172 7msq|spike_protein_s1
-YYSGN
->seq_173 7chc|spike_glycoprotein
-YSGGS
->seq_174 7ps7|surface_glycoprotein
-YYSGS
->seq_175 7e7y|spike_protein_s1
-YSGGS
->seq_176 6xq4|hemagglutinin
-YSGDD
->seq_177 7kfy|surface_glycoprotein
-YSGGT
->seq_178 6oc3|hemagglutinin
+>seq_6 9mer|h1h5_ha
 FYNGD
->seq_179 7e88|spike_protein_s1
-YSGGS
->seq_180 7np1|spike_protein_s1
-YSGGS
->seq_181 7shz|ige_fc
-KYSGE
->seq_182 7czw|spike_glycoprotein
+>seq_7 8rmx|protein-glutamine_gamma-glutamyltransferase_e
+FWDDD
+>seq_8 9bjh|apical_membrane_antigen_1
+YYTGT
+>seq_9 8xsd|spike_glycoprotein
+YAGGS
+>seq_10 8zhq|envelopment_polyprotein
+YTGGS
+>seq_11 8t6m|mhc_class_i_antigen
+YWDHN
+>seq_12 8v9d|aquaporin-4
+YTSGS
+>seq_13 8jkf|ns1
+YSSGS
+>seq_14 8jqm|non-structural_protein_1
 YYSGS
->seq_183 7m3i|spike_protein_s1
-YYSGS
->seq_184 7cjf|spike_glycoprotein
-YSGGS
->seq_185 7mzf|spike_protein_s1
-YSGGT
->seq_186 7wph|spike_protein_s1
-HHSGG
->seq_187 7k8m|surface_glycoprotein
-YSGGS
->seq_188 7bz5|spike_protein_s1
-YSGGS
->seq_189 7chs|spike_protein_s1
-YSGGS
->seq_190 6pdx|hemagglutinin
-YYSGK
->seq_191 7ey0|spike_glycoprotein
-YSGGS
->seq_192 7kmh|spike_protein_s1
-YSGGS
->seq_193 4xnm|hemagglutinin
+>seq_15 8v5q|envelope_glycoprotein_e
+SYNGD
+>seq_16 9b8j|gp38
+YSGGY
+>seq_17 8jkh|ns1
+YSSGS
+>seq_18 9bif|outer_surface_protein_c
 YHSGN
->seq_194 6dfh|envelope_glycoprotein_gp160
-YHSGS
->seq_195 7lss|spike_glycoprotein
-YWDDD
->seq_196 7mzn|spike_protein_s1
-YSGGS
->seq_197 6uig|hemagglutinin
-YSTGN
->seq_198 7ps1|surface_glycoprotein
-YSGGS
->seq_199 6phb|25_kda_ookinete_surface_antigen
-STSGS
->seq_200 3hi1|glycoprotein_120
+>seq_19 9e6k|disintegrin_and_metalloproteinase_domain-containing_protein17_
+TYNGT
+>seq_20 9bdf|hemagglutinin
+HHSGE
+>seq_21 8ywq|interleukin-6
+WWDDD
+>seq_22 9gwt|isoform_1_of_cell_surface_glycoprotein_cd200_receptor_1
+WAGGG
+>seq_23 8wpw|spike_protein_s1
+YPGGS
+>seq_24 8k18|spike_protein_s1
+YPGGS
+>seq_25 8v5s|envelope_glycoprotein_e
+YYTGT
+>seq_26 8vuj|glutamate_receptor_ionotropic,_nmda_1
+YHSGN
+>seq_27 8sow|interleukin-2
+WTGGG
+>seq_28 8soz|interleukin-2
+WTGGG
+>seq_29 8y4c|spike_glycoprotein
 YYSGS
->seq_201 7e5y|spike_protein_s1
-YSGGT
->seq_202 7kfx|surface_glycoprotein
-YSGGT
->seq_203 7d0c|spike_glycoprotein
+>seq_30 8zho|spike_glycoprotein
+YYSGS
+>seq_31 8kdr|spike_glycoprotein
+GTSGD
+>seq_32 8vcr|spike_protein_s2
+YYNGR
+>seq_33 8yww|spike_glycoprotein
 YSGGS
->seq_204 6xy2|cytotoxic_t-lymphocyte_protein_4
-WYDGN
->seq_205 7b3o|surface_glycoprotein
-YSGGS
->seq_206 7r8n|spike_glycoprotein
-YSGGT
->seq_207 7vmu|spike_protein_s1
+>seq_34 8vww|gp38
+YYSGG
+>seq_35 8zgu|envelopment_polyprotein
+SYSGS
+>seq_36 8vvk|gp38
+YYSGS
+>seq_37 8c0y|spike_protein_s2'
 YPGGS
->seq_208 7nd3|spike_glycoprotein
-YSGGS
->seq_209 5kjr|clade_a/e_93th057_hiv-1_gp120_core
-YYIGN
->seq_210 5ug0|hemagglutinin_ha1
-TTAGD
->seq_211 7qf0|spike_protein_s1
-YSGGS
->seq_212 7e3o|spike_protein_s1
-SYDGS
->seq_213 7t01|spike_protein_s1
-YWDDD
->seq_214 6wqo|reticulocyte_binding_protein_2b
-SDSGS
->seq_215 7kn3|spike_protein_s1
-YGDGN
->seq_216 7czq|spike_glycoprotein
-YSGGS
->seq_217 7e5o|spike_protein_s1
-NHSGS
->seq_218 6xe1|spike_protein_s1
-YSGGS
->seq_219 7kmi|spike_protein_s1
+>seq_38 8qh0|spike_protein_s1
 YPGGS
->seq_220 7e23|spike_protein_s1
-NHSGS
->seq_221 7mzl|spike_protein_s1
-SLRGT
->seq_222 7n3d|nucleoprotein
+>seq_39 8rgz|envelope_glycoprotein_b
+WWNND
+>seq_40 8xbf|spike_glycoprotein
+YAGGS
+>seq_41 8yz5|spike_glycoprotein
+YSGGS
+>seq_42 8pwu|reticulocyte-binding_protein_homolog_5
+YHSGS
+>seq_43 8pww|reticulocyte-binding_protein_homolog_5
+YHSGS
+>seq_44 8x0y|spike_protein_s1
+FHSGT
+>seq_45 9fgr|spike_glycoprotein
+YPGGS
+>seq_46 9fgs|spike_glycoprotein,fibritin
+YPGGS
+>seq_47 9fgt|spike_glycoprotein,fibritin
+YPGGS
+>seq_48 8jio|spike_glycoprotein
+YYTGS
+>seq_49 8tnl|hemagglutinin
+YHSGS
+>seq_50 8toa|hemagglutinin
 YYSGN
+>seq_51 8yx1|tumor_necrosis_factor_receptor_superfamily_member_5
+YKSGS
+>seq_52 8tqk|fusion_glycoprotein_f0
+TSGER
+>seq_53 8xea|spike_glycoprotein
+YPGGS
+>seq_54 8u1q|neuraminidase
+YYSGI
+>seq_55 8u1s|neuraminidase
+SYTGD
+>seq_56 8vye|spike_glycoprotein
+YWNDD
+>seq_57 8w0x|envelope_glycoprotein_e2
+NPTGS
+>seq_58 8w0y|envelope_glycoprotein_e2
+NHSGN
+>seq_59 8gdr|spike_glycoprotein
+YWDDD
+>seq_60 8r1c|spike_glycoprotein,fibritin
+HSSGS
+>seq_61 8siq|spike_protein_s1
+SSSGS
+>seq_62 8gau|vasodilator-stimulated_phosphoprotein,_neuraminidasechimera_
+THSGS
+>seq_63 8cin|spike_glycoprotein
+YYGGS
+>seq_64 8cbd|spike_protein_s1
+YYSGS
+>seq_65 8hp9|spike_protein_s2'
+YWDND
+>seq_66 8tma|spike_glycoprotein
+YFSGN
+>seq_67 8g4p|ara_h_2_allergen
+FTTGS
+>seq_68 7ycy|spike_glycoprotein
+YWDDD
+>seq_69 8hws|spike_protein_s2'
+YSGGS
+>seq_70 8j1t|spike_protein
+YPGGS
+>seq_71 8bg2|spike_protein_s1
+YSGGS
+>seq_72 8bg3|spike_protein_s1
+YSGGS
+>seq_73 8bg4|spike_protein_s1
+YAGGS
+>seq_74 8ez8|neuraminidase
+SNSGS
+>seq_75 8bec|spike_protein_s1
+YSGGS
+>seq_76 8pq2|spike_protein_s2'
+THTGS
+>seq_77 8tp2|hemagglutinin
+HYSGS
+>seq_78 8tp6|hemagglutinin
+YTTGS
+>seq_79 8tp7|hemagglutinin
+YYSGT
+>seq_80 8tp9|hemagglutinin
+YYNGV
+>seq_81 8hlb|tumor_necrosis_factor_receptor_superfamily_member_1b,maltose/maltodextrin-binding_periplasmic_protein_
+WGDGS
+>seq_82 8gye|tumor_necrosis_factor_receptor_superfamily_member_9
+WPGGS
+>seq_83 8gnh|spike_glycoprotein
+NHSGS
+>seq_84 8gf2|spike_protein_s1
+YSGGS
+>seq_85 8eay|fusion_glycoprotein_f0
+YYSGS
+>seq_86 8ezk|25_kda_ookinete_surface_antigen
+HHTGA
+>seq_87 8e6j|neuraminidase
+FYSGN
+>seq_88 8e6k|neuraminidase
+YYRGI
+>seq_89 7tri|hemagglutinin
+YNSGS
+>seq_90 7yv1|isoform_2b_of_gtpase_kras
+YHSGS
+>seq_91 7yds|programmed_cell_death_1_ligand_1
+SYVSR
+>seq_92 8ivx|anrp2-14
+WSGGS
+>seq_93 8e1g|spike_protein_s1
+YSGGT
+>seq_94 7yve|spike_glycoprotein
+YWDDD
+>seq_95 7yvg|spike_glycoprotein
+FAGGS
+>seq_96 7yvk|spike_glycoprotein
+YWDDD
+>seq_97 8d9y|long_neurotoxin_1
+DHSGG
+>seq_98 8eoo|spike_protein_s1
+YYGGS
+>seq_99 7wt7|spike_glycoprotein
+YSGGS
+>seq_100 7quh|sialic_acid-binding_ig-like_lectin_8
+WAGGS
+>seq_101 8dwx|e2_glycoprotein
+FYTGG
+>seq_102 8ee1|6-deoxyerythronolide_b_synthase
+NHSGS
+>seq_103 7xsc|spike_protein_s1
+YSGGS
+>seq_104 8bse|spike_glycoprotein
+YSGGS
+>seq_105 8hn6|spike_protein_s1
+YAGGS
+>seq_106 7xsa|spike_protein_s1
+YWDDD
+>seq_107 7xs8|spike_protein_s1
+YSGGS
+>seq_108 7uow|spike_glycoprotein
+YAGGS
+>seq_109 7wnb|spike_protein_s1
+YSGGS
+>seq_110 4edw|beta-nerve_growth_factor
+WGDGT
+>seq_111 8bbo|spike_glycoprotein
+FTSGT
+>seq_112 8bcz|spike_protein_s1
+YSGGS
+>seq_113 7xdl|spike_glycoprotein
+NHSGN
+>seq_114 7x08|spike_glycoprotein
+YSGGS
+>seq_115 6vug|reverse_transcriptase_p51
+WWDDD
+>seq_116 7s5p|spike_protein_s1
+YSGGS
+>seq_117 7ul1|spike_protein_s1
+YSGGS
+>seq_118 7uc8|gametocyte_surface_protein_p230
+DYRGS
+>seq_119 7uvq|gametocyte_surface_protein_p230
+TYDGT
+>seq_120 7uxl|gametocyte_surface_protein_p45/48
+YNNGS
+>seq_121 7ycn|spike_protein_s1
+NHSGS
+>seq_122 8hc2|spike_glycoprotein
+YAGGS
+>seq_123 7ox1|interleukin-9
+ARDGS
+>seq_124 7wcp|surface_glycoprotein
+YPGGS
+>seq_125 7t72|spike_protein_s1
+YPGGS
+>seq_126 7wos|spike_glycoprotein
+YSGGS
+>seq_127 7t17|core_protein
+YYSGS
+>seq_128 7s1b|envelope_glycoprotein_h
+NHTGT
+>seq_129 8erq|spike_glycoprotein
+YWDDD
+>seq_130 7yr1|spike_glycoprotein
+YRGGS
+>seq_131 8dfg|merozoite_surface_protein_1
+YSNGR
+>seq_132 8dfh|merozoite_surface_protein_1
+RYDGR
+>seq_133 7wrj|spike_protein_s1
+YWDDS
+>seq_134 7y0v|spike_protein_s1
+YYTGS
+>seq_135 7zlk|amc009_sosipv5.2_envelope_glycoprotein_gp41
+FFNGN
+>seq_136 7wbz|spike_protein_s1
+YSGGS
+>seq_137 7z3a|amc009_sosip.v5.2_envelope_glycoprotein_gp41
+FFNGN
+>seq_138 7str|nucleoprotein
+YYSGS
+>seq_139 7sts|nucleoprotein
+YYSGS
+>seq_140 7unb|gametocyte_surface_protein_p45/48
+YNNGS
+>seq_141 8cw9|fusion_glycoprotein_f0
+DWEDN
+>seq_142 7u9g|glycoprotein
+YYSGT
+>seq_143 8dcc|spike_protein_s1
+YHSGS
+>seq_144 7jmo|spike_protein_s1
+YSGGS
+>seq_145 7mxl|major_pollen_allergen_bet_v_1-a
+YYSGG
+>seq_146 6xcn|spike_glycoprotein
+YSGGS
+>seq_147 7bel|spike_glycoprotein
+YNSGS
+>seq_148 7bej|spike_glycoprotein
+YPGGS
+>seq_149 6v4n|neuraminidase
+YYTGI
+>seq_150 7eh5|spike_glycoprotein
+WSGGS
+>seq_151 7pnq|spike_glycoprotein
+NHSGS
+>seq_152 7czx|spike_glycoprotein
+SYSGS
+>seq_153 7ps0|surface_glycoprotein
+YYTGS
+>seq_154 7nx7|spike_protein_s1
+YSGGS
+>seq_155 4m5z|hemagglutinin_ha1_chain
+YHSGS
+>seq_156 7sc1|spike_glycoprotein
+YAGGS
+>seq_157 7akd|spike_glycoprotein
+YYSGS
+>seq_158 7l7r|glycoprotein_c
+YRGGS
+>seq_159 7l7r|glycoprotein_c
+YYSGS
+>seq_160 7ejz|spike_protein_s1
+YAGGS
+>seq_161 6ywc|de_novo_design_4e1h_95
+YWDDD
+>seq_162 7shy|ige_fc
+TYDGS
+>seq_163 7pqy|spike_protein_s1
+YSGGS
+>seq_164 4rfo|hiv-1_clade_a/e_gp120
+YYIGN
+>seq_165 5xku|influenza_a_virus
+YYSGS
+>seq_166 7kql|hepatitis_a_virus_cellular_receptor_2
+YYSGF
+>seq_167 6aru|epidermal_growth_factor_receptor
+WSGGN
+>seq_168 8dce|spike_protein_s1
+YSGGS
+>seq_169 7qnw|surface_glycoprotein
+YYSGI
+>seq_170 7kn4|spike_protein_s1
+YYSGS
+>seq_171 6iut|hemagglutinin
+FDSGS
+>seq_172 2eks|lysozyme_c
+SYSGS
+>seq_173 4rx4|hiv-1_clade_a_q842.d12_gp120
+KRSGR
+>seq_174 7kfv|surface_glycoprotein
+YSGGA
+>seq_175 5bv7|phosphatidylcholine-sterol_acyltransferase
+YYSGS
+>seq_176 7d0d|spike_glycoprotein
+YWDDD
+>seq_177 7si0|ige_fc
+TYDGS
+>seq_178 7nd5|spike_glycoprotein
+YSGGT
+>seq_179 7cho|spike_protein_s1
+YSGGS
+>seq_180 4r4n|m48u1_peptide
+KHNGS
+>seq_181 7m6d|spike_protein_s1
+YSGGT
+>seq_182 4lmq|stromal_cell-derived_factor_1
+WGSGG
+>seq_183 5xwd|epidermal_growth_factor_receptor
+YYSGS
+>seq_184 7kfw|surface_glycoprotein
+YSGGT
+>seq_185 3b2u|epidermal_growth_factor_receptor
+YYSGS
+>seq_186 4dag|fusion_glycoprotein_f0
+YSGGT
+>seq_187 7rbu|spike_protein_s1
+YYSGS
+>seq_188 7neg|surface_glycoprotein
+YSGGS
+>seq_189 6e4x|hemagglutinin
+YHSGS
+>seq_190 7cgw|programmed_cell_death_protein_1
+YADGS
+>seq_191 5o1r|gna2132
+SYSGS
+>seq_192 7czp|spike_glycoprotein
+YYSGS
+>seq_193 6b0h|pfs25
+SLSGS
+>seq_194 6dfj|dengue_1_envelope_diii_domain
+YYSVD
+>seq_195 7wee|spike_glycoprotein
+YWDGD
+>seq_196 7r8l|spike_protein_s1
+YAGGS
+>seq_197 7mmo|spike_protein_s1
+YWDDD
+>seq_198 4yk4|hemagglutinin
+YYSGS
+>seq_199 6oe4|fusion_glycoprotein_f0
+SYTGN
+>seq_200 6urm|hemagglutinin
+DWDDN
+>seq_201 7po5|spike_glycoprotein
+NHSGS
+>seq_202 7bq5|envelope_protein
+YYSGG
+>seq_203 6xq0|hemagglutinin
+GKGGE
+>seq_204 4ttd|lysozyme_c
+YSGGS
+>seq_205 5w1k|pre-glycoprotein_polyprotein_gp_complex
+NYRGI
+>seq_206 7czs|spike_glycoprotein
+YPGGS
+>seq_207 7jmp|spike_protein_s1
+YTGGT
+>seq_208 6xpy|hemagglutinin
+SNSGS
+>seq_209 7mdp|isoform_2b_of_gtpase_kras
+YHSGS
+>seq_210 5gzo|genome_polyprotein
+YHSGS
+>seq_211 6pzy|neuraminidase
+NHRGS
+>seq_212 6iw2|envelope_protein_e
+SYSGK
+>seq_213 7bsc|non-structural_protein_1
+SYDGR
+>seq_214 7m6f|spike_glycoprotein
+YPGGS
+>seq_215 4u6v|alpha-hemolysin
+GTAGD
+>seq_216 7e86|spike_protein_s1
+YSGGS
+>seq_217 5uqy|envelope_glycoprotein_gp1
+YYSGG
+>seq_218 7che|sars-cov-2_receptor_binding_domain
+YSGGS
+>seq_219 7cm4|spike_glycoprotein
+DWDDN
+>seq_220 7n3i|spike_protein_s1
+YSGGS
+>seq_221 7pry|surface_glycoprotein
+YYSES
+>seq_222 5sx4|epidermal_growth_factor_receptor
+YYSGN
+>seq_223 7ttx|spike_glycoprotein
+TYSGR
+>seq_224 6tou|glycoprotein,glycoprotein
+YYSGS
+>seq_225 7q9j|spike_glycoprotein
+YYTGS
+>seq_226 7shu|immunoglobulin_heavy_constant_epsilon
+TYDGS
+>seq_227 7z0x|surface_glycoprotein
+YSGDS
+>seq_228 7n5h|spike_glycoprotein
+YYSGS
+>seq_229 7m7b|spike_glycoprotein
+NHSGS
+>seq_230 7s4s|spike_protein_s1
+YSGGS
+>seq_231 7q0h|spike_protein_s1
+YYSGS
+>seq_232 6ii9|hemagglutinin
+NHSGG
+>seq_233 4dqo|1fd6-v1v2_scaffold_zm109_hiv-1_strain
+SDDGM
+>seq_234 6i04|hepatocyte_growth_factor_receptor
+YPSGN
+>seq_235 5ush|imv_membrane_protein
+YYSGS
+>seq_236 6ywd|de_novo_designed_protein_4h_01
+WWDDK
+>seq_237 7ce2|tetanus_toxin
+HYSGS
+>seq_238 5utz|interleukin-2
+YYSGS
+>seq_239 6pze|neuraminidase
+YYSGS
+>seq_240 7msq|spike_protein_s1
+YYSGN
+>seq_241 7chc|spike_glycoprotein
+YSGGS
+>seq_242 7ps7|surface_glycoprotein
+YYSGS
+>seq_243 7e7y|spike_protein_s1
+YSGGS
+>seq_244 6xq4|hemagglutinin
+YSGDD
+>seq_245 6oan|duffy_binding_surface_protein_region_ii
+YYSGT
+>seq_246 7kfy|surface_glycoprotein
+YSGGT
+>seq_247 7e88|spike_protein_s1
+YSGGS
+>seq_248 5d1z|iron-regulated_surface_determinant_protein_b
+YFSGT
+>seq_249 7np1|spike_protein_s1
+YSGGS
+>seq_250 7shz|ige_fc
+KYSGE
+>seq_251 2j6e|ig_gamma-1_chain_c_region
+YYSGN
+>seq_252 7czw|spike_glycoprotein
+YYSGS
+>seq_253 7m3i|spike_protein_s1
+YYSGS
+>seq_254 3l5x|interleukin-13
+WWDDV
+>seq_255 2vxq|pollen_allergen_phl_p_2
+YHSGN
+>seq_256 7so5|toxin_b
+NYGGN
+>seq_257 7s8h|glycoprotein_g2
+GRSGT
+>seq_258 7cjf|spike_glycoprotein
+YSGGS
+>seq_259 4k8r|proprotein_convertase_subtilisin/kexin_type_9
+GTAGD
+>seq_260 7mzf|spike_protein_s1
+YSGGT
+>seq_261 7wph|spike_protein_s1
+HHSGG
+>seq_262 4tsb|lysozyme_c
+YSGGS
+>seq_263 7k8m|surface_glycoprotein
+YSGGS
+>seq_264 7bz5|spike_protein_s1
+YSGGS
+>seq_265 1bvk|lysozyme
+WGDGN
+>seq_266 7chs|spike_protein_s1
+YSGGS
+>seq_267 6pdx|hemagglutinin
+YYSGK
+>seq_268 6xqw|pfmsp1-19
+NNSGK
+>seq_269 7ey0|spike_glycoprotein
+YSGGS
+>seq_270 7kmh|spike_protein_s1
+YSGGS
+>seq_271 4xnm|hemagglutinin
+YHSGN
+>seq_272 6dfh|envelope_glycoprotein_gp160
+YHSGS
+>seq_273 7lss|spike_glycoprotein
+YWDDD
+>seq_274 4tsa|lysozyme_c
+YSGGS
+>seq_275 6vc9|5'-nucleotidase,_ecto_(cd73),_isoform_cra_a
+YISGT
+>seq_276 7mzn|spike_protein_s1
+YSGGS
+>seq_277 6uig|hemagglutinin
+YSTGN
+>seq_278 7ps1|surface_glycoprotein
+YSGGS
+>seq_279 6phb|25_kda_ookinete_surface_antigen
+STSGS
+>seq_280 5k59|uncharacterized_leukocidin-like_protein_1
+YKSGS
+>seq_281 3hi1|glycoprotein_120
+YYSGS
+>seq_282 7e5y|spike_protein_s1
+YSGGT
+>seq_283 6rps|carbonic_anhydrase_12
+WYDGD
+>seq_284 3lev|rna_polymerase_sigma_factor
+YSDDD
+>seq_285 7kfx|surface_glycoprotein
+YSGGT
+>seq_286 7d0c|spike_glycoprotein
+YSGGS
+>seq_287 6xy2|cytotoxic_t-lymphocyte_protein_4
+WYDGN
+>seq_288 7b3o|surface_glycoprotein
+YSGGS
+>seq_289 7r8n|spike_glycoprotein
+YSGGT
+>seq_290 7vmu|spike_protein_s1
+YPGGS
+>seq_291 4ywg|scaffold_hiv-1_gp120_v1v2_region_derived_from_strain_zm109
+DHTGS
+>seq_292 7m30|envelope_protein_ul128
+YHTGS
+>seq_293 4g6m|interleukin-1_beta
+WWDGD
+>seq_294 7nd3|spike_glycoprotein
+YSGGS
+>seq_295 5ug0|hemagglutinin_ha1
+TTAGD
+>seq_296 7oly|activin_receptor_type-2b
+SYSGS
+>seq_297 6mlk|6-deoxyerythronolide-b_synthase_erya3,_modules_5_and_6
+NHSGS
+>seq_298 7qf0|spike_protein_s1
+YSGGS
+>seq_299 7e3o|spike_protein_s1
+SYDGS
+>seq_300 7t01|spike_protein_s1
+YWDDD
+>seq_301 4ye4|ht593.1_gp120
+TFESK
+>seq_302 6wqo|reticulocyte_binding_protein_2b
+SDSGS
+>seq_303 7kn3|spike_protein_s1
+YGDGN
+>seq_304 7czq|spike_glycoprotein
+YSGGS
+>seq_305 7e5o|spike_protein_s1
+NHSGS
+>seq_306 6xe1|spike_protein_s1
+YSGGS
+>seq_307 5vgj|1fd6-v1v2-wito
+GSSGD
+>seq_308 4rwy|hiv-1_yu2_gp120
+KRSGR
+>seq_309 7f7h|spike_glycoprotein_s1
+YSGGS
+>seq_310 4i77|interleukin-13
+WGDGK
+>seq_311 7kmi|spike_protein_s1
+YPGGS
+>seq_312 7e23|spike_protein_s1
+NHSGS
+>seq_313 6r2s|duffy_receptor
+YYSGS
+>seq_314 6nn3|vp2_of_b19_parvovirus
+YYSGT
+>seq_315 7mzl|spike_protein_s1
+SLRGT
+>seq_316 7kra|er_membrane_protein_complex_subunit_1
+NHSGS
+>seq_317 7n3d|nucleoprotein
+YYSGN
+>seq_318 3q1s|interleukin-22
+IYGGT
+>seq_319 4ps4|interleukin-13
+WWDDV
