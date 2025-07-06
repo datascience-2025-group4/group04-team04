@@ -1,1 +1,16 @@
-name: 
+name:
+
+channels:
+  - defaults
+  - conda forge
+
+
+dependencies:
+  - python=3.12
+  - pandas
+  - scipy
+  - biopython
+  
+
+  - pip:
+    -
