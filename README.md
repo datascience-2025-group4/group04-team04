@@ -28,6 +28,11 @@ Furthermore, we analyzed how different antigens are distributed across these can
 <summary><strong>Structure of the repository</strong></summary>
 Before running the code, please make sure to download the folder "data" from the link provided at the end of this document (Additional files and folders). Additionally, data must be placed directly inside the group04_team04 directory. If the folder is renamed or placed elsewhere, the code will not function correctly.
 
+
+
+
+
+
 In our repository, the final notebook, that generates all important plots is found in the Documentation folder and is called [P53_DMS_Documentation.ipynb](Documentation/P53_DMS_Documentation.ipynb).
 The [report (as a pdf)](Documentation/report_DMS_topic02_team02.pdf) can be found in the same folder. Within our Documentation, you will find **five sub-topics**. The first one looks at the Comparability of p53 Datasets.
 The code generating the relevant plots can be found [within the Documentation folder](Documentation/backgrounddata.py) and 
@@ -63,7 +68,7 @@ Our project was supposed to contain the following elements. Here, we list which 
 <details>
 <summary><strong>Additional files and folders</strong></summary>
 -environment file
--data file
+-data folder: link
 
 </details>
 
