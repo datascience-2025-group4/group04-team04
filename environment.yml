@@ -1,16 +1,32 @@
-name:
+name: group04-team04-env
 
 channels:
+  - pytorch
+  - bioconda
+  - conda-forge
   - defaults
-  - conda forge
-
 
 dependencies:
-  - python=3.12
+  - python=3.11
+  - numpy
   - pandas
   - scipy
+  - matplotlib
+  - seaborn
   - biopython
-  
-
+  - ipython
+  - jupyter
+  - ipykernel
+  - hmmer
+  - pytorch
+  - cudatoolkit
+  - pip
   - pip:
-    -
+      - git+https://github.com/oxpig/SCALOP.git
+      - fair-esm
+
+
+conda env create -f environment.yml
+conda activate group04-team04-env
+python -m ipykernel install --user --name group04-team04-env --display-name "Python (group04-team04-env)"
+
