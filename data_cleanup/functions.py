@@ -17,6 +17,7 @@ from scipy.stats import chi2_contingency
 import math
 
 regions = ["CDR_H1", "CDR_H2", "CDR_L1", "CDR_L2", "CDR_L3"]
+seq_regions = ["SEQ_H1", "SEQ_H2", "SEQ_L1", "SEQ_L2", "SEQ_L3"]
 
 ##########
 ##########
@@ -29,12 +30,12 @@ def show_PCA(feature_spaces: dict, ncols: int):
     Output:
     - Visualisierung der 2D-PCAs aller CDR-Regionen
     '''
-    nrows = math.ceil(len(regions) / ncols)
+    nrows = math.ceil(len(seq_regions) / ncols)
     fig, axes = plt.subplots(nrows, ncols, figsize=(5 * ncols, 4 * nrows))
     axes = axes.flatten()
 
-    for i, region in enumerate(regions):
-        df = feature_spaces[region]
+    for i, seq_region in enumerate(seq_regions):
+        df = feature_spaces[seq_region]
         
         # PCA
         koordinaten_spalten = df.select_dtypes(include='number').columns
@@ -57,7 +58,7 @@ def show_PCA(feature_spaces: dict, ncols: int):
         ax.scatter(coords[:, 0], coords[:, 1], c=colors, s=20, alpha=0.7)
         ax.set_xlabel("PCA 1")
         ax.set_ylabel("PCA 2")
-        ax.set_title(f"PCA der {region}-Sequenzen")
+        ax.set_title(f"PCA der {seq_region}-Sequenzen")
         ax.grid(True)
         
 
