@@ -1,1 +1,21 @@
-name: 
+name: group04-team04-env
+
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - biopython
+  - ipython
+  - jupyter
+  - hmmer
+  - pip
+  - pip:
+      - git+https://github.com/oxpig/SCALOP.git
