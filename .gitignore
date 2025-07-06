@@ -1,9 +1,9 @@
 data/
 
-# ignore all mmseqs2 DB and clustering output for any CDR
-MMseqs2_Trash/
+
 
 
 chothia_*
 imgt_*
 SCALOP/
+.vscode/
