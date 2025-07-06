@@ -26,32 +26,13 @@ Furthermore, we analyzed how different antigens are distributed across these can
 
 <details>
 <summary><strong>Structure of the repository</strong></summary>
-Before running the code, please make sure to download the folder "data" from the link provided at the end of this document (Additional files and folders). Additionally, data must be placed directly inside the group04_team04 directory. If the folder is renamed or placed elsewhere, the code will not function correctly.
 
+The repository is organized into the following key directories.
+The data_cleanup folder[data_cleanup] filters all relevant rows from the raw data and then uses SCALOP to extract both canonical forms and the CDR regions. The data_exploration folder [data_exploration] builds visualizations of antigen distribution in the filtered datset. There are three different folder for the three approaches: naive method [naiver_ansatz], ESM C [esmc_ansatz], MMseqs2 [MMseqs2]. The v_measure directory [v_measure] compares our own clustering results against reference clusters to quantify their agreement, for our three approaches. In the folder chi2 [chi2], chi-square tests are applied to analyze antigen distributions within different clusters. Finally, the data folder [data] houses all project-generated files. Before running the code, please make sure to download the folder "data" from the link provided at the end of this document (Additional files and folders). Additionally, data must be placed directly inside the group04_team04 directory. If the folder is renamed or placed elsewhere, the code will not function correctly.
 
-
-
-
-
-In our repository, the final notebook, that generates all important plots is found in the Documentation folder and is called [P53_DMS_Documentation.ipynb](Documentation/P53_DMS_Documentation.ipynb).
-The [report (as a pdf)](Documentation/report_DMS_topic02_team02.pdf) can be found in the same folder. Within our Documentation, you will find **five sub-topics**. The first one looks at the Comparability of p53 Datasets.
-The code generating the relevant plots can be found [within the Documentation folder](Documentation/backgrounddata.py) and 
-for visualization purposes, that might also be used later on, code from the [Visualization folder](visualization) was used.
-The code for plots on the other four topics can be found here: 
-- [Data cleanup](data_cleanup) 
-- [Data exploration](data_exploration)
-- [Domain comparison](domain_comparison) 
-- [Calculating severity scores](severity_score)
-
-In each of these folders, the relevant functions are defined in the .py file. In most folders, there is an additional **exploratory**
-folder containing all the experimental notebooks. Jupyter notebooks, that are within the sub-topic folders but not in the exploratory 
-folders are mentioned in the [P53_DMS_Documentation.ipynb file](Documentation/P53_DMS_Documentation.ipynb) and contain further 
-information, outlook or important additional information. 
+In our repository the final plots, v measure scores or p-values are generated within the corresponding folders.
 
 </details>
-
-
-
 
 <details>
 <summary><strong>Covering the mandatory aspects of the project</strong></summary>
@@ -63,17 +44,18 @@ Our project was supposed to contain the following elements. Here, we list which 
 - **statistical tests** Chi2 Test of Independencet (Proportionstest)
 - **linear regression** was not implemented (as discussed with our tutor Enno Schäfer)
 
-</details>
+<details>
+<summary><strong>requirements</strong></summary>
+
+for embedding.ipynb: GPU 
+for MMseqs2 and assign function from SCALOP: Linux opperating system
+
 
 <details>
 <summary><strong>Additional files and folders</strong></summary>
--environment file
+
+-the environment file [environment.yml] contains all packages to run the code
 -data folder: link
-
-</details>
-
-<details>
-<summary><strong>Download the datasets worked on</strong></summary>
-
+-git
 
 </details>
