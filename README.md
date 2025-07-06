@@ -49,7 +49,7 @@ Our project was supposed to contain the following elements. Here, we list which 
 <summary><strong>requirements</strong></summary>
 
 for embedding.ipynb: GPU 
-for MMseqs2 and assign function from SCALOP: Linux opperating system
+for MMseqs2 and assign function from SCALOP: LinuxOS
 
 
 <details>
@@ -57,6 +57,19 @@ for MMseqs2 and assign function from SCALOP: Linux opperating system
 
 -the environment file [environment.yml] contains all packages to run the code
 -data folder: link
--git
 
+SAbDab download script:
+- used in [data_cleanup/data_cleanup.ipynb] to download VH and VL sequences from the SAbDab
+- https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab/downloads/sabdab_downloader.py/
+- already included in [data] folder, if our repository is executed as advised
+
+SCALOP:
+- used in [data_cleanup/canonical_forms_extrahieren.ipynb] to extract CDR sequences and canonical forms
+- https://github.com/oxpig/SCALOP.git 
+- relevant packages and functions already included in [environment.yml]
+
+MMseqs2_
+- used in [MMseqs2/MMseqs2.ipynb] for clustering of CDR sequences
+- https://github.com/soedinglab/mmseqs2/wiki#getting-started
+- please follow the installation steps in the README file of the MMseqs2 repository and execute in LinuxOS or WSL terminal
 </details>
