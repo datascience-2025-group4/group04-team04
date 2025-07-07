@@ -74,3 +74,13 @@ MMseqs2_
 - https://github.com/soedinglab/mmseqs2/wiki#getting-started
 - please follow the installation steps in the README file of the MMseqs2 repository and execute in LinuxOS or WSL terminal
 </details>
+
+ESMC
+- @misc{esm2024cambrian,
+  author = {{ESM Team}},
+  title = {ESM Cambrian: Revealing the mysteries of proteins with unsupervised learning},
+  year = {2024},
+  publisher = {EvolutionaryScale Website},
+  url = {https://evolutionaryscale.ai/blog/esm-cambrian},
+  urldate = {2024-12-04}
+}
