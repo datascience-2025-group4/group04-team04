@@ -67,7 +67,7 @@ SAbDab download script:
 SCALOP:
 - used in [data_cleanup/canonical_forms_extrahieren.ipynb] to extract CDR sequences and canonical forms
 - https://github.com/oxpig/SCALOP.git 
-- relevant packages and functions already included in [environment.yml]
+- relevant packages already included in [environment.yml]
 
 MMseqs2_
 - used in [MMseqs2/MMseqs2.ipynb] for clustering of CDR sequences
