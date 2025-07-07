@@ -56,8 +56,15 @@ for MMseqs2 and assign function from SCALOP: LinuxOS
 <details>
 <summary><strong>Additional files and folders</strong></summary>
 
--the environment file [environment.yml] contains all packages to run the code
--data folder:- https://heibox.uni-heidelberg.de/d/308698a78f2043c292bf/
+- the environment file [environment.yml] contains all packages to run the code
+- data folder:- https://heibox.uni-heidelberg.de/d/308698a78f2043c292bf/
+- please follow the installation steps to register a kernel with all necessary packages:
+    bash:
+    conda env create -f environment.yml
+    conda activate group04-team04-env
+    python -m ipykernel install --user --name group04-team04-env --display-name "Python (group04-team04-env)"
+
+
 
 SAbDab download script:
 - used in [data_cleanup/data_cleanup.ipynb] to download VH and VL sequences from the SAbDab
