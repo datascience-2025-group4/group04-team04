@@ -56,7 +56,7 @@ for MMseqs2 and assign function from SCALOP: LinuxOS
 <summary><strong>Additional files and folders</strong></summary>
 
 -the environment file [environment.yml] contains all packages to run the code
--data folder: link
+-data folder:- https://heibox.uni-heidelberg.de/d/308698a78f2043c292bf/
 
 SAbDab download script:
 - used in [data_cleanup/data_cleanup.ipynb] to download VH and VL sequences from the SAbDab
