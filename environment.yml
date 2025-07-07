@@ -11,6 +11,7 @@ dependencies:
   - numpy
   - pandas
   - scipy
+  - scikit-learn
   - matplotlib
   - seaborn
   - biopython
@@ -20,14 +21,8 @@ dependencies:
   - hmmer
   - pytorch
   - cudatoolkit
+  - networkx
   - pip
   - pip:
       - git+https://github.com/oxpig/SCALOP.git
       - fair-esm
-
-
-Anleitung für das environment für scalop in einem notebook
-conda env create -f environment.yml
-conda activate group04-team04-env
-python -m ipykernel install --user --name group04-team04-env --display-name "Python (group04-team04-env)"
-
