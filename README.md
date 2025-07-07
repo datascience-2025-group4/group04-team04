@@ -22,17 +22,17 @@ Tutor: Enno Schaefer ([enno.schaefer@uni-heidelberg.de])
 <summary><strong>Project Goal</strong></summary>
 The goal of our project was to investigate whether the established Canonical Forms of antibody CDRs can be reconstructed using different computational approaches. We explored a naive method based on residue percentages, as well as more advanced techniques such as ESM Cambrian embeddings and MMseqs2 clustering.
 
-Furthermore, we analyzed how different antigens are distributed across these canonical forms, aiming to identify potential structural or functional preferences of antigens for specific CDR conformations.
+Furthermore, we analyzed how different antigens are distributed across these canonical forms, aiming to identify potential preferences of antigens for specific CDR conformations.
 </details>
 
 <details>
 <summary><strong>Structure of the repository</strong></summary>
 
 The repository is organized into the following key directories.
-The data_cleanup folder[data_cleanup] filters all relevant rows from the raw data and then uses SCALOP to extract both canonical forms and the CDR regions. The data_exploration folder [data_exploration] builds visualizations of antigen distribution in the filtered datset. There are three different folder for our three approaches: naive method [naiver_ansatz], ESMC [esmc_ansatz], MMseqs2 [MMseqs2]. The v_measure directory [v_measure] compares our own clustering results against reference clusters to quantify their agreement, for our three approaches. In the folder chi2 [chi2], chi-square tests are applied to analyze antigen distributions within different clusters. 
-The data folder houses all files that are necessary to run the code and the project-generated files as well. Before running the code, ensure to download the folder data from the link provided (Additional files and folders). The folder data has to placed inside the group04_team04 directory. If the folder is renamed the code will not work. 
+The data_cleanup folder (data_cleanup) filters all relevant rows from the raw data and then uses SCALOP to extract both canonical forms and the CDR regions. The data_exploration folder (data_exploration) builds visualizations of antigen distribution in the filtered datset. There are three different folder for our three approaches: naive method (naiver_ansatz), ESMC (esmc_ansatz), MMseqs2 (MMseqs2). The v_measure directory (v_measure) compares our own clustering results against reference clusters to quantify their agreement, for our three approaches. In the folder chi2 (chi2), chi-square tests are applied to analyze antigen distributions within different clusters. 
+The data folder houses all files that are necessary to run the code and the project-generated files as well. Before running the code, ensure to download the folder data from the link provided (Additional files and folders). The folder data has to be placed inside the group04_team04 directory. If the folder is renamed the code will not work. 
 
-In our repository the final plots, v measure scores or p-values (including the the ones on the poster) are generated within the corresponding folders. We generated the figure of the antibody with its CDRs ourselves using PyMOL.
+In our repository the final plots, v measure scores or p-values (including the ones on the poster) are generated within the corresponding folders. We generated the figure of the antibody with its CDRs ourselves using PyMOL.
  
 
 </details>
@@ -47,17 +47,19 @@ Our project was supposed to contain the following elements. Here, we list which 
 - **statistical tests** Chi2 Test of Independencet (Proportionstest)
 - **linear regression** was not implemented (as discussed with our tutor Enno Schäfer)
 
+</details>
+
 <details>
 <summary><strong>requirements</strong></summary>
 
 for embedding.ipynb: GPU 
 for MMseqs2 and assign function from SCALOP: LinuxOS
-
+</details>
 
 <details>
 <summary><strong>Additional files and folders</strong></summary>
 
-- the environment file [environment.yml] contains all packages to run the code
+- the environment file (environment.yml) contains all packages to run the code
 - data folder:- https://heibox.uni-heidelberg.de/d/308698a78f2043c292bf/
 - please follow the installation steps to register a kernel with all necessary packages:
     bash:
@@ -68,20 +70,20 @@ for MMseqs2 and assign function from SCALOP: LinuxOS
 
 
 SAbDab download script:
-- used in [data_cleanup/data_cleanup.ipynb] to download VH and VL sequences from the SAbDab
+- used in data_cleanup/data_cleanup.ipynb to download VH and VL sequences from the SAbDab
 - https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab/downloads/sabdab_downloader.py/
-- already included in [data] folder, if our repository is executed as advised
+- already included in data folder, if our repository is executed as advised
 
 SCALOP:
-- used in [data_cleanup/canonical_forms_extrahieren.ipynb] to extract CDR sequences and canonical forms
+- used in data_cleanup/canonical_forms_extrahieren.ipynb to extract CDR sequences and canonical forms
 - https://github.com/oxpig/SCALOP.git 
-- relevant packages already included in [environment.yml]
+- relevant packages already included in environment.yml
 
 MMseqs2_
-- used in [MMseqs2/MMseqs2.ipynb] for clustering of CDR sequences
+- used in MMseqs2/MMseqs2.ipynb for clustering of CDR sequences
 - https://github.com/soedinglab/mmseqs2/wiki#getting-started
 - please follow the installation steps in the README file of the MMseqs2 repository and execute in LinuxOS or WSL terminal
-</details>
+
 
 ESMC
 - @misc{esm2024cambrian,
@@ -92,3 +94,4 @@ ESMC
   url = {https://evolutionaryscale.ai/blog/esm-cambrian},
   urldate = {2024-12-04}
 }
+</details>
