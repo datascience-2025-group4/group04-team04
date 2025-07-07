@@ -29,7 +29,8 @@ Furthermore, we analyzed how different antigens are distributed across these can
 <summary><strong>Structure of the repository</strong></summary>
 
 The repository is organized into the following key directories.
-The data_cleanup folder[data_cleanup] filters all relevant rows from the raw data and then uses SCALOP to extract both canonical forms and the CDR regions. The data_exploration folder [data_exploration] builds visualizations of antigen distribution in the filtered datset. There are three different folder for our three approaches: naive method [naiver_ansatz], ESM C [esmc_ansatz], MMseqs2 [MMseqs2]. The v_measure directory [v_measure] compares our own clustering results against reference clusters to quantify their agreement, for our three approaches. In the folder chi2 [chi2], chi-square tests are applied to analyze antigen distributions within different clusters. Finally, the data folder [data] houses all project-generated files. Before running the code, please make sure to download the folder "data" from the link provided at the end of this document (Additional files and folders). Additionally, data must be placed directly inside the group04_team04 directory. If the folder is renamed or placed elsewhere, the code will not function correctly.
+The data_cleanup folder[data_cleanup] filters all relevant rows from the raw data and then uses SCALOP to extract both canonical forms and the CDR regions. The data_exploration folder [data_exploration] builds visualizations of antigen distribution in the filtered datset. There are three different folder for our three approaches: naive method [naiver_ansatz], ESMC [esmc_ansatz], MMseqs2 [MMseqs2]. The v_measure directory [v_measure] compares our own clustering results against reference clusters to quantify their agreement, for our three approaches. In the folder chi2 [chi2], chi-square tests are applied to analyze antigen distributions within different clusters. 
+The data folder houses all files that are necessary to run the code and the project-generated files as well. Before running the code, ensure to download the folder data from the link provided (Additional files and folders). The folder data has to placed inside the group04_team04 directory. If the folder is renamed the code will not work. 
 
 In our repository the final plots, v measure scores or p-values are generated within the corresponding folders.
 
@@ -56,7 +57,7 @@ for MMseqs2 and assign function from SCALOP: LinuxOS
 <summary><strong>Additional files and folders</strong></summary>
 
 -the environment file [environment.yml] contains all packages to run the code
--data folder: link
+-data folder:- https://heibox.uni-heidelberg.de/d/308698a78f2043c292bf/
 
 SAbDab download script:
 - used in [data_cleanup/data_cleanup.ipynb] to download VH and VL sequences from the SAbDab
