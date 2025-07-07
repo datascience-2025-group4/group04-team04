@@ -32,7 +32,8 @@ The repository is organized into the following key directories.
 The data_cleanup folder[data_cleanup] filters all relevant rows from the raw data and then uses SCALOP to extract both canonical forms and the CDR regions. The data_exploration folder [data_exploration] builds visualizations of antigen distribution in the filtered datset. There are three different folder for our three approaches: naive method [naiver_ansatz], ESMC [esmc_ansatz], MMseqs2 [MMseqs2]. The v_measure directory [v_measure] compares our own clustering results against reference clusters to quantify their agreement, for our three approaches. In the folder chi2 [chi2], chi-square tests are applied to analyze antigen distributions within different clusters. 
 The data folder houses all files that are necessary to run the code and the project-generated files as well. Before running the code, ensure to download the folder data from the link provided (Additional files and folders). The folder data has to placed inside the group04_team04 directory. If the folder is renamed the code will not work. 
 
-In our repository the final plots, v measure scores or p-values are generated within the corresponding folders.
+In our repository the final plots, v measure scores or p-values (including the the ones on the poster) are generated within the corresponding folders. We generated the figure of the antibody with its CDRs ourselves using PyMOL.
+ 
 
 </details>
 
